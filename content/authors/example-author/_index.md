@@ -1,5 +1,5 @@
 ---
-title: Example Author
+title: Boaz Sobrado
 role: Example Role
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
