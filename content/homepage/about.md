@@ -1,22 +1,22 @@
 ---
 title: Boaz Sobrado
 draft: false
-role: Example Role
-avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+role: Growth & Data
+avatar: /images/boaz.JPG
+bio:
 organization:
-  name: Example Organization
+  name: FinTech
   url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:me@boazsobrado.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://twitter.com/sobradob
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/sobradob/
 
 weight: 1
 widget:
@@ -45,6 +45,8 @@ widget:
 
 ## Self Introduction
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
+FinTech analyst & commentator [cited by](/series/media/) CNBC, Fortune, WIRED, NASDAQ.com, the Human Rights Foundation and others. As seen on the main stage of Bitcoin 2021 and occasionally Nigerian television.
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
+Commercially aware, data savvy and tech literate. Focused on growth strategy & analytics for FinTech companies. Involved in digital marketing since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about using the internet to bring opportunities to those who need them most.
+
+Have written & spoken about topics ranging from cross-border transfers, the efficacy of the current KYC/AML regime, web3 gaming & the "Metaverse", decentralised finance, futures & automated market makers, the use of cryptocurrencies in authoritarian nations and the difficulties of measuring Bitcoin markets.

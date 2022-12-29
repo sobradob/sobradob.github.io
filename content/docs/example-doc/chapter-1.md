@@ -21,6 +21,9 @@ Donec tortor nunc, feugiat non porttitor tristique, dictum vitae nibh. Integer v
 
 ### Vivamus dapibus nunc ac fringilla pellentesque
 
+![example image](/static/images/boaz.JPG)
+
+![example image](/images/boaz.JPG)
 
 Pellentesque porttitor a tortor et egestas. Phasellus aliquet mattis velit in elementum. Suspendisse viverra turpis in risus tincidunt, et malesuada elit eleifend. Sed eu elit arcu. Cras tincidunt mauris purus, vehicula aliquam elit tincidunt eget. Nunc at justo quis augue sagittis auctor sed eu magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc non nibh mattis, tempus tortor sed, iaculis metus. Morbi quis leo dignissim, viverra massa sit amet, faucibus ex. In hac habitasse platea dictumst. Vivamus tristique sem ac tortor venenatis, vel auctor metus vulputate. Maecenas facilisis odio et enim euismod, et ullamcorper enim congue. Nullam ut dolor eget urna aliquet bibendum sit amet a odio. Aenean vitae diam vel metus imperdiet ullamcorper consectetur ac mauris. Maecenas sed lorem vitae nibh porta venenatis.
 

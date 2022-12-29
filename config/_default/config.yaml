@@ -1,5 +1,5 @@
 baseURL: /
-title: Eureka Demo
+title: Boaz Sobrado's Website
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
@@ -7,7 +7,7 @@ title: Eureka Demo
 theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 10
 copyright: >
   &copy; 2022 <a href="https://www.boazsobrado.com/">Boaz Sobrado</a>
 enableEmoji: true
@@ -42,3 +42,6 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
+
+permalinks:
+  blog: /blog/:year/:month/:day/:title/

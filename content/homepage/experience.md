@@ -2,12 +2,12 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Lead Data Analyst
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: Zilch
+      url: https://zilch.com
+    dates: "2021 - Present"
+    location: London
     writeup: >
       Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
 
@@ -17,7 +17,7 @@ experiences:
 
       - Nam tincidunt diam quis lorem rutrum ullamcorper.
 
-  - title: Example Role 2
+  - title: Various Growth & Data roles
     organization:
       name: Example Organization 2
       url: https://example.org
