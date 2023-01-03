@@ -1,16 +1,15 @@
 ---
-title: A day using money in Cuba
-description: Cuba is a puzzling country, especially when it comes to money. It is the only country in the world with a dual currency system.
+title: Films watched in 2022
+description:
 toc: true
 tags:
 - cuba
 - currency
 categories:
-date: '2020-05-22T13:11:22+08:00'
+date: '2023-01-01T13:11:22+08:00'
 featuredImage:
-draft: true
+draft: false
 series:
-- Cuban Chapter
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UuyznqAILAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

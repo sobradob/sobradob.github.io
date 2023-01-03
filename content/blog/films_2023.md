@@ -12,3 +12,5 @@ draft: true
 series:
 - Cuban Chapter
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8CJ6L0I6W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
