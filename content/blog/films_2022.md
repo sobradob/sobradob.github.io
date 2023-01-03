@@ -1,6 +1,6 @@
 ---
 title: Films watched in 2022
-description:
+description: I went to the cinema a few times last year. 
 toc: true
 tags:
 - cuba
@@ -19,7 +19,7 @@ series:
 
 A seven hour long Hungarian film marathon by Béla Tarr.
 
-This film is shown surprisingly often in London, usually with two intermissions. 
+This film is shown surprisingly often in London, usually with two intermissions.
 
 
 
