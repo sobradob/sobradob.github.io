@@ -1,13 +1,12 @@
 ---
 title: Films watched in 2022
-description: I went to the cinema a few times last year. 
+description: I enjoy going to the cinema. Here are all the films I watched in 2022.
 toc: true
 tags:
-- cuba
-- currency
+- film
 categories:
 date: '2023-01-01T13:11:22+08:00'
-featuredImage:
+featuredImage: images/satantango_dvd_cover.jpeg
 draft: false
 series:
 ---
@@ -20,7 +19,6 @@ series:
 A seven hour long Hungarian film marathon by Béla Tarr.
 
 This film is shown surprisingly often in London, usually with two intermissions.
-
 
 
 ## The Queen of Spades

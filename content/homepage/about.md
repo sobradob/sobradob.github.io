@@ -43,10 +43,10 @@ widget:
     attachment:
 ---
 
-## Self Introduction
+## Introduction
 
-FinTech analyst & commentator [cited by](/series/media/) CNBC, Fortune, WIRED, NASDAQ.com, the Human Rights Foundation and others. As seen on the main stage of Bitcoin 2021 and occasionally Nigerian television.
+FinTech analyst & commentator with an interest in innovative solutions for individuals on the margins of society. Cited by [CNBC, Fortune, WIRED, NASDAQ.com]((/series/media/)), the Human Rights Foundation and others. As seen on the main stage of Bitcoin 2021 and occasionally Nigerian television.
 
-Commercially aware, data savvy and tech literate. Focused on growth strategy & analytics for FinTech companies. Involved in digital marketing since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about using the internet to bring opportunities to those who need them most.
+Commercially aware, data savvy and tech literate. Professionally focused on growth strategy & analytics for FinTech companies. Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about using the internet to bring opportunities to those who need them most.
 
 Have written & spoken about topics ranging from cross-border transfers, the efficacy of the current KYC/AML regime, web3 gaming & the "Metaverse", decentralised finance, futures & automated market makers, the use of cryptocurrencies in authoritarian nations and the difficulties of measuring Bitcoin markets.

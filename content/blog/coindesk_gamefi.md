@@ -22,6 +22,7 @@ draft: false
 
 Among crypto's hottest trends is GameFi, which brings Web 3's advantages to gaming. Web 3's meaning [varies](https://cobie.substack.com/p/wtf-is-web3) by individual but reflects rising demand among people who are spending more time and money in meta worlds to own their virtual assets, free from the interference of platform developers.
 
+
 But are strong in-game property rights compatible with fun, escapist experiences that users are seeking?
 
 Skeptics are not convinced. They say that GameFi games are not fun but rather merely repackaged versions of the worst elements of decentralized finance ([DeFi](https://www.coindesk.com/learn/what-is-defi/)). Play-to-earn games, some skeptics say, suffer because they are [more or less pyramid](https://frankmuci.substack.com/p/are-play-to-earn-p2e-games-pyramid?r=69dfl&utm_campaign=post&utm_medium=web) schemes.
