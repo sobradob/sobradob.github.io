@@ -13,5 +13,6 @@ series:
 - Media
 ---
 
+Link [here](https://www.linkedin.com/video/live/urn:li:ugcPost:7023953306209112066/) should it not load below. 
 
 <iframe src="https://www.linkedin.com/video/embed/live/urn:li:ugcPost:7023953306209112066" height="399" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

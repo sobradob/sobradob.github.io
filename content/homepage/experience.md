@@ -19,7 +19,7 @@ experiences:
 
       Results:
 
-      - Hit the 1# of the UK Finance App Store through a well-executed referral campaign.
+      - Hit the 1# spot of the UK Finance App Store through a well-executed referral campaign.
 
 
   - title: Marketing Data Analyst
@@ -42,7 +42,7 @@ experiences:
           We had over 5k+ paying clients a year and covered approx 25% of the Cuba’s hostel and 20% of online tourism transportation market.
 
 
-          We to shut down during the COVID-19 pandemic.
+          We had to shut down during the COVID-19 pandemic.
 
 
 
