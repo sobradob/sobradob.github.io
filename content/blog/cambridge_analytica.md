@@ -29,12 +29,14 @@ In the Netflix documentary *The Great Hack* Brittany Kaiser, the former busine
 
 The implication here being that two of the greates political upsets of the last decade (Brexit & Trump) were due to the advanced persuasion technology that Cambridge Analytica sold to the highest bidder.
 
-My concern is that a lot of people seem to focus on a scary technology called psychographic advertising (also known as psychographic or [personality marketing](https://hbr.org/2018/05/what-marketers-should-know-about-personality-based-marketing)) that purportedly allowed Cambridge Analytica to manipulate people by serving them ads tailored to their individual personality. My argument is that this technology is mostly ineffective in the context of modern digital advertising and is unlikely to have had the influence attributed to it. Moreover, it distracts from the true issues at stake, such as data privacy in the days of "[surveillance capitalism](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)".
+The focus is on a scary technology called psychographic advertising (also known as psychographic or [personality marketing](https://hbr.org/2018/05/what-marketers-should-know-about-personality-based-marketing)) that purportedly allowed Cambridge Analytica to manipulate people by serving them ads tailored to their individual personality.
+
+This technology is mostly ineffective in the context of modern digital advertising and is unlikely to have had the influence attributed to it. Moreover, it distracts from the true issues at stake, such as data privacy in the days of "[surveillance capitalism](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)".
 
 My role in the story
 --------------------
 
-Between 2012 and 2014 I did some work at the Cambridge University Psychometric Centre in as an undergraduate, and I met in person Alex Kogan and a lot of the people who were mentioned in the [books](https://www.michalkosinski.com/clown-show) and [articles](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) that have been written about the whole scandal. While at Cambridge I had access to key parts of the data set that inspired Cambridge Analytica's work.
+Between 2012 and 2014 I did some work at the Cambridge University Psychometric Centre as an undergraduate, and I met in person Alex Kogan and a lot of the people who were mentioned in the [books](https://www.michalkosinski.com/clown-show) and [articles](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) that have been written about the whole scandal. While at Cambridge I had access to key parts of the data set that inspired Cambridge Analytica's work.
 
 In 2015 I spent some time at Stanford, where I recruited several well-known brands (who I presume would rather not be named) to test psychographic marketing in a commercial setting. While doing my research on psychographic marketing, I discovered that a little known company called Cambridge Analytica was working with Ted Cruz on psychometric targeting in digital advertising.
 
