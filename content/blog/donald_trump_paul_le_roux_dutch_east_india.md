@@ -1,5 +1,5 @@
 ---
-title: Part 1: Donald Trump, Paul Le Roux and the Dutch East India Company
+title: Part 1 - Donald Trump, Paul Le Roux and the Dutch East India Company
 description: On corporate power and sovereign states.
 toc: true
 tags:
