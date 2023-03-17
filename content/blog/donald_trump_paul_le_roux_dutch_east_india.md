@@ -5,6 +5,7 @@ toc: true
 tags:
 - opinion
 categories:
+featuredImage: images/voc_cuyp.jpg
 date: '2023-03-17T13:11:22+08:00'
 draft: false
 series: Opinion
