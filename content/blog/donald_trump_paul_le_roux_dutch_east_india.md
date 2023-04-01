@@ -18,10 +18,10 @@ Today we see companies as entities that inhabit a different domain to states. St
 
 This was not always the case. In fact, as the book [Outsourcing Empire](https://www.amazon.co.uk/Outsourcing-Empire-Company-States-Modern-World/dp/0691203512) shows, private companies played a key role in the globalisation of the world and were often granted what we would today consider sovereign powers. In other words, sometimes companies had men with guns too, and would engage sovereign states as equals. These companies were known as company states, and the most powerful of them effectively ran empires that were capable of engaging states in war.
 
+How did for profit entities even think of raising armies? In the Middle Ages the delegation of sovereign rights and prerogatives was common due to the weakness of the central state. The heyday of this practice was in the 17th century, but elements of it lasted well into the 20th century. My own great-great grandfather, Federico Sobrado Carrera, was granted the state monopoly to issue his own currency, distill alcohol and have an armed police force in the 1920s as a wealthy landholder in a remote part of Costa Rica. Company states have played an important role in world history, both when they succeed, as the English East India company did when they took over India, but also when they failed. Debts resulting from the disastrous failure of the Darien company played an important role in the later unification of England with Scotland.  
+
 ![Coins from El Tempisque](/images/el_tempisque_coin.jpeg)
 _Coin issued by Federico Sobrado Carrera, my great-great grandfather, authorised by the Central Bank of Costa Rica for use on his estate in Guanacaste_
-
-How did for profit entities even think of raising armies? In the Middle Ages the delegation of sovereign rights and prerogatives was common due to the weakness of the central state. The heyday of this practice was in the 17th century, but elements of it lasted well into the 20th century. My own great-great grandfather, Federico Sobrado Carrera, was granted the state monopoly to issue his own currency, distill alcohol and have an armed police force in the 1920s as a wealthy landholder in a remote part of Costa Rica. Company states have played an important role in world history, both when they succeed, as the English East India company did when they took over India, but also when they failed. Debts resulting from the disastrous failure of the Darien company played an important role in the later unification of England with Scotland.  
 
 
 ## The first IPO
