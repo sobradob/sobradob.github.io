@@ -1,6 +1,6 @@
 ---
 title: Donald Trump, Paul Le Roux and the Dutch East India Company - Part 1
-description: On corporate power and sovereign states.
+description: On corporate power and sovereign states after the Age of Discovery.
 toc: true
 tags:
 - opinion
