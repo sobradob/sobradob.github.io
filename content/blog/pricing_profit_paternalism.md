@@ -20,9 +20,9 @@ You can still remember the first client: a Chinese student who needs to store hi
 
 ## Starting to advertise
 
-You are an experienced online marketer, so you connect your performance marketing activities to the backend of your system. You feed Facebook and Google information on your occupancy (so that you do not advertise locations that are full). You also keep it updated with all purchase information. This way the advertising platforms know the lifetime value of each user, ensuring that they acquire the best, most valuable customers for your small business.
+You are an experienced online marketer, so you connect your performance marketing activities to the backend of your system. You feed Facebook and Google information on your occupancy (so that you do not advertise locations that are full). You also keep it updated with all purchase information. This way the advertising platforms know the lifetime value of each user, ensuring that they acquire the most valuable customers for your small business.
 
-Business is booming. Most short storage operators are not as savvy digital marketers as you are. You quickly start turning a profit and filling up your facility. Emboldened, you turn to a bank for a mortgage to buy another location. The same pattern is repeated, and quickly you end up with multiple venues (and mortgages to match). You are now the founder of a medium sized business, employing dozens and serving hundreds of customers.
+Business is booming. Most short storage operators are not as savvy digital marketers as you are. You quickly start turning a profit and filling up your facility. Emboldened, you turn to a bank for a mortgage to buy another location. Quickly you end up with multiple venues (and mortgages to match). You are now the founder of a medium sized business, employing dozens and serving hundreds of customers.
 
 ##  Pricing and high lifetime value customers
 
@@ -32,7 +32,7 @@ You quickly realise that users with the highest lifetime value are those who do 
 
 While you originally envisaged people leaving their stuff at your storage facility for a few weeks or maximum months, you now have clients who are paying to leave their belongings at your venue for years. Moreover, the longer you are in business, the greater the share of these users. Because your costs associated with these users are next to zero (you are not spending money servicing or marketing to them), you quickly understand that 80% of your profits come from them.
 
-This is puzzling. Your pricing is not designed for long term storage. In the same way that hotels would be an extremely expensive place to stay for a year or taxis would be expensive to hire to drive around the entire country. Your pricing was designed with new customers with short term needs, not long-staying repeat customers who continuously roll over their three month contracts.
+This is puzzling. Your pricing is not designed for long term storage. In the same way that hotels would be an extremely expensive place to stay for a year or a taxi would be expensive way to go from New York to Los Angeles. Your pricing was designed with new customers with short term needs, not long-staying repeat customers who continuously roll over their three month contracts.
 
 ##  Data Driven User Research
 
@@ -46,7 +46,7 @@ You consider re-architecting prices to be more "fair" to these customers, but yo
 
 Do you have to do anything? Your customers seem happy with your service, even if they are struggling in other parts of life. Do you explain to them that they are overpaying? These customers aren't idiots, they mostly know they are overpaying. But they often have so much going on at the moment, and cannot afford to move their belongings to a long term storage.
 
-Do you kick them out by setting hard limits on how long they can leave their things at your venue? Surely that would be worse for them in the short term. Would it really help them long term? Would they appreciate it? Perhaps leaving things for years at your storage facility is a bad option, but the best of many worse options.
+Do you kick them out by setting hard limits on how long they can leave their things at your venue? Surely that would be worse for them in the short term. Would it really help them long term? Would they appreciate it? Perhaps leaving things for years at your storage facility is a bad option, but the best of many bad options.
 
 Do you review your pricing, and risk losing the profitability that allows you to keep the bank and your employees happy. How do you juggle your obligations to your customers, creditors and employees? Or do you instead lean into this insight and start advertising near courthouses and hospitals? Google and Facebook were already kind-of doing a version of this for you, without you even knowing it.
 
@@ -64,11 +64,11 @@ Often customers are seemingly worse off for it, but businesses cannot survive wi
 
 I wasn't sure how to approach these questions, so I asked a few friends. They answered as follows:
 
-Friend One: The problem seems to arise when the possibility of misuse attracts vulnerable people, which I imagine is specific to certain industries. In some cases (gambling, alcohol) I'm not sure it even qualifies as misuse in any strict sense as they're known to cause dependency.
+**Friend One**: The problem seems to arise when the possibility of misuse attracts vulnerable people, which I imagine is specific to certain industries. In some cases (gambling, alcohol) I'm not sure it even qualifies as misuse in any strict sense as they're known to cause dependency.
 
-Friend Two: I think ethics are questionable when you have a model which is designed to make money from costs which are not clear (e.g. those sneaky subscriptions) and / or profit off of suffering of the most vulnerable (gambling, spiralling APRs on payday loans etc.)
+**Friend Two**: I think ethics are questionable when you have a model which is designed to make money from costs which are not clear (e.g. those sneaky subscriptions) and / or profit off of suffering of the most vulnerable (gambling, spiralling APRs on payday loans etc.)
 
-Friend Three: The central proposition here is whether it is ethical to allow people to pay more for your product than they would do for a rival if they shopped around. There is a difference between setting out to do a good thing and people overpaying, and setting out to exploit.
+**Friend Three**: The central proposition here is whether it is ethical to allow people to pay more for your product than they would do for a rival if they shopped around. There is a difference between setting out to do a good thing and people overpaying, and setting out to exploit.
 
 ## The morals of marketing
 
@@ -86,8 +86,9 @@ Today, many Americans struggle with credit card debt. I wouldn't be surprised if
 
 But up until the 1970s, half of Americans were completely "protected" from credit cards. Most financial institutions simply refused to offer credit to women. Lenders simply believed that they "knew better" than women with regards to their ability to repay. Some lenders viewed women as "high risk" borrowers, some simply thought it was "immoral" to lend to women lest they fall into a debt trap, given how they are the "weaker gender". 
 
-In 1976 the New York Times [wrote that](https://www.nytimes.com/1976/10/10/archives/more-women-are-buying-cars-on-credit-and-lenders-cite-good-payment.html?searchResultPosition=20):\
-"For example, the senior vice president of a major bank in Kansas City said that the bank would take into account, in a negative way, the fact that a married woman had small children "because if the children were sick, the wife, might have to stay home from work to take care of them."
+In 1976 the New York Times [wrote that](https://www.nytimes.com/1976/10/10/archives/more-women-are-buying-cars-on-credit-and-lenders-cite-good-payment.html?searchResultPosition=20):
+
+>"For example, the senior vice president of a major bank in Kansas City said that the bank would take into account, in a negative way, the fact that a married woman had small children "because if the children were sick, the wife, might have to stay home from work to take care of them."
 
 It was only the 1974 Equal Credit Opportunity Act (signed by President Ford, pictured above) that banned discrimination based on gender that women started getting credit cards en masse. Today women have more credit cards than men. Are they better off for it? I would argue that women having to access credit facilities outweighs the negatives of many women falling into credit card debt.
 
@@ -101,11 +102,11 @@ It seems that there "should" be a line at which point business should refuse cus
 
 Western legal tradition has an established doctrine known as "Blackstone's ratio" for dealing with false negatives and false positives. It states that:
 
-"It is better that ten guilty persons escape than that one innocent suffer."
+*"It is better that ten guilty persons escape than that one innocent suffer."*
 
 If we view as "guilty" those users that use the product or service inadequately, and as "innocent" those that don't, a crude application of Blackstone's ratio would be:
 
-"It is better to serve ten alcoholics than to deny one casual drinker a pint."
+*"It is better to serve ten alcoholics than to deny one casual drinker a pint."*
 
 This places a high value on the freedom of the casual drinker to have a pint relative to the harm caused by serving the alcoholics. This is more-or-less the Western liberal tradition, which places a strong onus on the individual to decide what is best for him or herself. Bartenders should only refuse drinks to the drunkest of patrons, those that are likely to be a nuisance to others. 
 
@@ -119,7 +120,7 @@ In Saudi Arabia, much fewer people suffer from alcoholism. In fact, only about 0
 
 What these behaviours seem to have in common is that they offer a little benefit to many, but tremendous harm to a few. Islam seems to have decided that these behaviours and their commercialisation should be forbidden. The interests of a minority of potentially vulnerable individuals are placed ahead of the mode user. Translating it to Blackstone's formulation:
 
-"It is better that ten casual drinkers go without beer than to serve a single alcoholic."
+*"It is better that ten casual drinkers go without beer than to serve a single alcoholic."*
 
 This places a much higher value on the potential harm caused to the alcoholic than the freedom of choice of the casual drinker.
 
