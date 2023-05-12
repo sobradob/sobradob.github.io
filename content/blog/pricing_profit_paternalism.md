@@ -5,7 +5,7 @@ toc: true
 tags:
 - opinion
 categories:
-featuredImage: images/cr_conti.jpeg
+featuredImage: images/equal_opportunity_credit.jpg
 date: '2023-05-12T13:11:22+08:00'
 draft: false
 series: Opinion
@@ -89,7 +89,7 @@ But up until the 1970s, half of Americans were completely "protected" from credi
 In 1976 the New York Times [wrote that](https://www.nytimes.com/1976/10/10/archives/more-women-are-buying-cars-on-credit-and-lenders-cite-good-payment.html?searchResultPosition=20):\
 "For example, the senior vice president of a major bank in Kansas City said that the bank would take into account, in a negative way, the fact that a married woman had small children "because if the children were sick, the wife, might have to stay home from work to take care of them."
 
-It was only the 1974 Equal Credit Opportunity Act that banned discrimination based on gender that women started getting credit cards en masse. Today women have more credit cards than men. Are they better off for it? I would argue that women having to access credit facilities outweighs the negatives of many women falling into credit card debt.
+It was only the 1974 Equal Credit Opportunity Act (signed by President Ford, pictured above) that banned discrimination based on gender that women started getting credit cards en masse. Today women have more credit cards than men. Are they better off for it? I would argue that women having to access credit facilities outweighs the negatives of many women falling into credit card debt.
 
 ## Drawing the line
 
