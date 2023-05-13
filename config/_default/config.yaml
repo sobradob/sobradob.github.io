@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir: false
 enableEmoji: true
 
 # Uncomment for google analytics
-# googleAnalytics: UA-123-45
+ googleAnalytics: G-YWF9KEKWZX
 
 markup:
   # Do not modify markup.highlight
