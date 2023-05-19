@@ -10,6 +10,11 @@ date: '2023-05-12T13:11:22+08:00'
 draft: false
 series: Opinion
 ---
+
+*What do you do when you discover your most profitable customers are using your product wrong? This is a discussion on pricing, the morals of marketing and the costs of compliance.*
+
+## A though experiment
+
 You decide to leave your corporate 9-5 job and start a simple business in short term storage. The value proposition is fairly clear: you will rent out storage space to people who need a place to leave their stuff for a few days, weeks or even up to 3 months.
 
 You set up shop and start handing out fliers and doing some Google and Facebook ads. Business is dreadfully slow over the first few weeks, and you stare aimlessly at your email inbox, wondering whether quitting your job was the worst mistake you ever made.
@@ -150,4 +155,4 @@ We have digressed a bit from the original moral dilemma, which is "when should y
 
 6.  Assume your customer is an adult who is capable of making his or her own choices. 
 
-7.  Eat your own dog food.
+7.  [Eat your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
