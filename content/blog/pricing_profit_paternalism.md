@@ -13,7 +13,7 @@ series: Opinion
 
 *What do you do when you discover your most profitable customers are using your product wrong? This is a discussion on pricing, the morals of marketing and the costs of compliance.*
 
-## A though experiment
+## A thought experiment
 
 You decide to leave your corporate 9-5 job and start a simple business in short term storage. The value proposition is fairly clear: you will rent out storage space to people who need a place to leave their stuff for a few days, weeks or even up to 3 months.
 
