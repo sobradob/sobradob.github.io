@@ -5,7 +5,7 @@ toc: true
 tags:
 - opinion
 categories:
-featuredImage: images/equal_opportunity_credit.jpg
+featuredImage: images/mortgage_origination_credit_score.png
 date: '2023-06-17T13:11:22+08:00'
 draft: false
 ---
@@ -52,7 +52,7 @@ Credit scores try to estimate the likelihood that a costumer will pay back a loa
 
 Every year people can transition from one bucket to another. In normal, pre-pandemic years most superprime and subprime consumers tend to stay in their respective credit score bin, with quite a bit more movement in the middle categories. For example, 24% of near-prime customers go down a credit score category whereas 37% go up.
 
-![Pre-Pandemic Credit Score transtions](/images/pre_pandemic_credit_transitions.jpeg)
+![Pre-Pandemic Credit Score transtions](/images/pre_pandemic_credit_transitions.png)
 
 The exact way in which credit scores are calculated is the "magic sauce" of the credit bureaus. But in general terms, past behaviour tends to be a good predictor of future behaviour. So consumer credit scores tend to increase when consumers pay back their loans. Moreover, when consumers pay back their loans their credit utilisation goes down. Credit rating agency [Experian](https://www.experian.com/blogs/ask-experian/credit-education/score-basics/credit-utilization-rate/) explains what it is and why it is important:
 
@@ -64,7 +64,7 @@ In other words, consumers used government subsidies during the pandemic to pay b
 
 This lead to an unprecedented inflation in credit scores. People were less likely lose credit score points, and much more likely to gain them. Forty-three percent of consumers with subprime credit scores moved up at least one tier during the pandemic, whereas in the ten years prior to the pandemic, only 37 percent moved up at least one tier.
 
-![Post-Pandemic Credit Score transtions](/images/pandemic_credit_transitions.jpeg)
+![Post-Pandemic Credit Score transtions](/images/pandemic_credit_transitions.png)
 
 The credit score transition charts come from [this report](https://www.consumerfinance.gov/about-us/blog/office-of-research-blog-credit-score-transitions-during-the-covid-19-pandemic/) by the Consumer Finance Protection Bureau, where they explain:
 
@@ -102,9 +102,9 @@ Credit models were not calibrated for unprecedented government subsides. One-off
 
 Paradoxically, the ability to charge much higher interest rates quickly can offer some protection to credit card issuers from the higher delinquency rates. But not all lenders can raise interest rates for customers acquired in 2021-2022. And what else did these "newly prime" consumers buy on credit?
 
-Mortgage originations in 2021 and 2022 were at levels not seen since the 2008 financial crisis.
+Mortgage originations in 2021 and 2022 were at levels not seen since the 2008 financial crisis. The vast majority of it went to "prime" customers. How many of those are "newly prime"?
 
-<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=16fwW&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div>
+![Credit Card Balances by Risk Band](/images/mortgage_origination_credit_score.png)
 
 Mortgage lenders cannot generally raise interest rates as quickly as credit card companies, as consumers usually lock in fixed rates. In the US mortgages are fixed for 30 years thanks to government subsidies, but even that doesn't mean that the rates risk disappears. Rather, it gets moved from the consumer to the financial institution. It is no coincidence that we've seen several bank failures in the US recently.
 
@@ -118,4 +118,4 @@ If the risk of defaults in consumer credit markets is being significantly undere
 
 Credit drives the global economy. If lenders pull back due to unexpected losses, people will spend less money on consumer goods, cars and houses. The increase of interest rates has already made life difficult for many lenders. So far most negative impacts on the delinquency side have been masked by a tight labour market and strong consumer spending.  But in the US, things are likely to further deteriorate from October 2023, once student loan payments restart. The pause on student loan repayments was a significant subsidy to many consumers. Once it is removed consumer spend will take a hit and delinquencies will increase.
 
-Will we see a recession in Q4 2023 or Q1 2024? If so, has it been priced in yet?
+Will we see a recession in Q4 2023 or Q1 2024? None of this is news to credit analysts. The question is, have the second and third order effects been priced in yet?
