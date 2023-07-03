@@ -10,7 +10,7 @@ date: '2023-06-17T13:11:22+08:00'
 draft: false
 ---
 
-What if the next lending crisis is due to customers with the best credit scores? The Global Financial Crisis of 2007 is often blamed on irresponsible subprime lending. Subprime being a fancy term for lending to people with a "less than perfect" credit scores, who often don't pay back their loans.
+What if credit scores have mislead banks into the next lending crisis? The Global Financial Crisis of 2007 is often blamed on irresponsible lending. Lenders offered large amounts of credit to "subprime" customers. Subprime being a fancy term for people with poor credit scores, who are less likely to pay the loans back.
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis):
 
@@ -50,7 +50,7 @@ Credit scores try to estimate the likelihood that a customer will pay back a loa
 4. Prime
 5. Superprime
 
-Every year people can transition from one bucket to another. In normal, pre-pandemic years most superprime and subprime consumers tend to stay in their respective credit score bin, with quite a bit more movement in the middle categories.
+Every year people can transition from one bucket to another. In normal, pre-pandemic years most superprime and subprime consumers tend to stay in their respective credit score band, with quite a bit more movement in the middle categories.
 
 The exact way in which credit scores are calculated is the "magic sauce" of the credit bureaus. But in general terms, past behaviour tends to be a good predictor of future behaviour. Credit scores tend to increase when consumers pay back their loans. Moreover, when consumers pay back their loans their credit utilisation goes down. Credit rating agency [Experian](https://www.experian.com/blogs/ask-experian/credit-education/score-basics/credit-utilization-rate/) explains what credit utilisation is and why it is important:
 
@@ -96,24 +96,20 @@ Credit models were not calibrated for unprecedented government subsides. One-off
 
 Paradoxically, the ability to charge higher interest rates quickly can offer some protection to credit card issuers from the higher delinquency rates. But not all lenders can raise interest rates for customers acquired in 2021-2022. And what else did these "newly prime" consumers buy on credit?
 
-[Mortgage originations in 2021 and 2022](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2023Q1) were at levels not seen since the 2008 financial crisis. Auto loans originations hit record highs. The vast majority of it went to "prime" customers. How many of those are "newly prime"?
+[Mortgage originations in 2021 and 2022](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2023Q1) were at levels not seen since the 2008 financial crisis. Auto loans originations also hit record highs. The vast majority of it went to "prime" customers, with unprecedented amounts of mortgages taken out by older consumers. How many of those are "newly prime"?
 
 ![Mortgage originations by credit scores](/images/mortgage_origination_credit_score.png)
 
-Auto loans delinquencies for the 18 to 39 cohorts are already at levels not seen since 2010. These are the cohorts who will be most affected once the student loan repayments are switched back on in October.
-
-Mortgage lenders cannot generally raise interest rates as quickly as credit card companies, as consumers usually lock in fixed rates. In the US mortgages are fixed for 30 years thanks to government subsidies, but even that doesn't mean that the rates risk disappears. Rather, it gets moved from the consumer to the financial institution. It is no coincidence that we've seen several bank failures in the US recently.
-
-In other countries consumers are not so lucky. Highly leveraged, variable rate mortgage markets that were hot during the pandemic are likely to be impacted the most. Many consumers will find themselves struggling to pay an increasingly expensive mortgage for a property they overpaid for, using credit they would have not qualified for had it not been for the pandemic.
+Mortgage lenders cannot generally raise interest rates as quickly as credit card companies, as consumers usually lock in fixed rates. In the US mortgages are fixed for 30 years thanks to government subsidies (as an aside, this doesn't make rates risk vanish, it simply moves the risk from the consumer to financial institutions, hence the recent bank failures in the US, but I digress). But in other countries consumers are not so lucky. Highly leveraged, variable rate mortgage markets that were hot during the pandemic are likely to be impacted the most. Many consumers will find themselves struggling to pay an increasingly expensive mortgage for a property they overpaid for, using credit they would have not qualified for had it not been for the pandemic.
 
 ## The "Newly Prime" Crisis?
 
-In this post I focused mostly on credit card data from USA because there is good data available and credit cards tend to show signs of trouble earlier than mortgages, but similar trends are happening worldwide. Conventional credit models had no way of accounting for the COVID-19 pandemic, while lenders were under significant pressure to issue more loans. As a result, they issued large volumes of cheap loans to people they wouldn't have lent to just a few years before.
+In this post I mostly focused on credit card data from USA because there is good data available and credit cards tend to show signs of trouble earlier than mortgages, but similar trends are happening worldwide. Conventional credit models had no way of accounting for the COVID-19 pandemic and lenders were under significant pressure to issue more loans in 2021. As a result, they issued large volumes of cheap loans to people they wouldn't have lent to just a few years before.
 
 If the risk of defaults in consumer credit markets is being significantly underestimated, the global economy might be in for a nasty surprise. And keep in mind that the current shocking performance of the 2021-2022 vintages comes during a time where the labour market is tight and unemployment is low. The strength of the labour market is in large part due to a large number of boomers who didn't return to the labour force after the pandemic. Should the labour market start showing signs of weakness, the hot real estate markets of 2021-2022 will be under significant pressure.
 
-Credit drives the global economy. If lenders pull back due to unexpected losses, people will spend less money on consumer goods, cars and houses. The increase of interest rates has already made life difficult for many lenders. So far most negative impacts on the delinquency side have been masked by a tight labour market and strong consumer spending (both likely due to newly retired boomers).
+Credit drives the global economy. If lenders pull back due to unexpected losses, consumers will spend less on goods, cars and houses. The increase of interest rates has already made life difficult for many lenders. So far most negative impacts on the delinquency side have been masked by a tight labour market and strong consumer spending (both likely due to newly retired boomers).
 
-In the US the student loan repayments are due to restart in October 2023. The pause on student loan repayments was a significant subsidy to consumers, particularly for the young, newly prime consumer who got a mortgage in 2021/2022. Auto loan delinquencies for the 18-19 and 30-39 cohorts are already at levels not seen since 2011. Once student loan repayments are restarted consumer spending will take a hit and delinquencies will increase.
+In the US student loan repayments are due to restart in October 2023. The pause on student loan repayments was a significant subsidy to consumers, particularly for the young, newly prime consumer who got a mortgage in 2021/2022. Auto loan delinquencies for the 18-19 and 30-39 cohorts are already at levels not seen since 2011. Once student loan repayments are restarted consumer spending will take a hit and delinquencies will increase.
 
 None of this is news to credit analysts. The question is, have the second and third order effects been priced in yet?
