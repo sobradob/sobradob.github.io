@@ -86,19 +86,15 @@ By 2023 credit card balances recovered. Thanks to regulation and more responsibl
 
 Yet there's a problem. The performance of the 2021-2022 cohorts of loans are **shocking**. The performance of these cohorts was almost immediately much worse than the previous years. For example, for near-prime customers with only 12 months on book, the Q4-2021 cohort has more than double the level of delinquencies than previous Q4 cohorts.
 
-![Credit Card Balances by Risk Band](/images/prime_performance.jpeg)
-
 The scariest bit for lenders is that **prime customers are going delinquent at the rate of historical near-prime customers**. Most of the 2021-2022 credit originations by volume was in the prime segment. These are the customers that are supposed to be reliable. Current credit card delinquency rates are an issue because they suggest that lenders fundamentally mispriced a large cohort of borrowers in 2021 and 2022.
 
-![Credit Card Balances by Risk Band](/images/prime_vs_nearprime.jpeg)
+![Credit Card Balances by Risk Band](/images/near_prime_vs_prime_nohead.png)
 
 The credit models that underpin **credit scores were not calibrated for unprecedented government subsides**.
 
 > God created men, the stimulus check made them equal
 
 One-off government wealth transfers were weighted the same as regular wealth increases. Credit officers of course understood this, but there was tremendous pressure in 2021 and 2022 to issue new loans. Consumers now have to pay the highest credit card interest rates in three decades **and** endure record inflation.
-
-<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=16fw8&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div>
 
 Paradoxically, the ability to charge higher interest rates quickly can offer some protection to credit card issuers from the higher delinquency rates (at the cost of the consumer). But not all lenders can raise interest rates for customers acquired in 2021-2022. And what else did these "newly prime" consumers buy on credit?
 
