@@ -70,11 +70,11 @@ Sam Colt, the man who first mass-produced revolvers, had a slogan that has since
 
 > God created men, Col. Colt made them equal
 
-Sam Colt may have made men equal in the western frontier, but to credit card companies not all customers are equal. Credit card companies much prefer those known as "revolvers". Revolvers are customers who carry balances over from one month to the next and pay interest on it. About half of credit card holders are revolvers. They generate the vast majority of credit card companies' revenue.
+Sam Colt may have made men equal in the western frontier, but to credit card companies not all customers are equal. Like Sam Colt's customers, credit card companies much prefer "revolvers". Revolvers are customers who carry balances over from one month to the next and pay interest on it. About half of credit card holders are revolvers. They generate the vast majority of credit card companies' revenue.
 
-As an aside, the Federal Reserve recently [ published a paper](https://www.federalreserve.gov/econres/feds/who-pays-for-your-rewards-redistribution-in-the-credit-card-market.htm) claiming that credit card rewards are a wealth redistribution programme from the poor and uneducated revolvers to the wealthy & educated non-revolvers to the tune of $15bn dollars a year. Alas, despite the efforts of Sam Colt, not everyone can defend themselves against the traps of compounding credit.
+The Federal Reserve recently [ published a paper](https://www.federalreserve.gov/econres/feds/who-pays-for-your-rewards-redistribution-in-the-credit-card-market.htm) claiming that credit card rewards are a wealth redistribution programme from the poor and uneducated revolvers to the wealthy & educated non-revolvers to the tune of $15bn dollars a year. A game of Russian roulette, where the winners always are the credit card companies and the financially savvy.
 
-Back to credit card companies. Given that they largely depend on interest income, if credit card balances go down so does their revenue. To compensate for the decline in revenues, credit card companies started issuing more and more cards. TransUnion, another credit bureau, reports that there was a strong uptick in originations from Q2 2021 till late 2022.
+Given that credit card companies largely depend on interest income, if credit card balances go down so does their revenue. To compensate for the decline in revenues, credit card companies started issuing more and more cards during the pandemic. TransUnion, another credit bureau, reports that there was a strong uptick in originations from Q2 2021 till late 2022.
 
 ![Credit Card Balances by Risk Band](/images/cc_origination_by_risk_band.jpeg)
 
@@ -88,17 +88,21 @@ Yet there's a problem. The performance of the 2021-2022 cohorts of loans are **s
 
 ![Credit Card Balances by Risk Band](/images/prime_performance.jpeg)
 
-The scariest bit for lenders is that **prime customers are going delinquent at the rate of historical near-prime customers**. Most of the 2021-2022 credit originations by volume was in the prime segment. These are the customers that are supposed to be reliable. Current credit card delinquency rates are an issue because they suggests that lenders fundamentally mispriced a large cohort of borrowers in 2021 and 2022.
+The scariest bit for lenders is that **prime customers are going delinquent at the rate of historical near-prime customers**. Most of the 2021-2022 credit originations by volume was in the prime segment. These are the customers that are supposed to be reliable. Current credit card delinquency rates are an issue because they suggest that lenders fundamentally mispriced a large cohort of borrowers in 2021 and 2022.
 
 ![Credit Card Balances by Risk Band](/images/prime_vs_nearprime.jpeg)
 
-Credit models were not calibrated for unprecedented government subsides. One-off government wealth transfers were weighted the same as regular wealth increases. Credit officers of course understood this, but there was a tremendous pressure in 2021 and 2022 to issue new loans. Consumers now have to pay both the highest credit card interest rates in 3 decades and record inflation.
+The credit models that underpin **credit scores were not calibrated for unprecedented government subsides**.
+
+> God created men, the stimulus check made them equal
+
+One-off government wealth transfers were weighted the same as regular wealth increases. Credit officers of course understood this, but there was tremendous pressure in 2021 and 2022 to issue new loans. Consumers now have to pay the highest credit card interest rates in three decades **and** endure record inflation.
 
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=16fw8&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div>
 
-Paradoxically, the ability to charge higher interest rates quickly can offer some protection to credit card issuers from the higher delinquency rates. But not all lenders can raise interest rates for customers acquired in 2021-2022. And what else did these "newly prime" consumers buy on credit?
+Paradoxically, the ability to charge higher interest rates quickly can offer some protection to credit card issuers from the higher delinquency rates (at the cost of the consumer). But not all lenders can raise interest rates for customers acquired in 2021-2022. And what else did these "newly prime" consumers buy on credit?
 
-[Mortgage originations in 2021 and 2022](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2023Q1) were at levels not seen since the 2008 financial crisis. Auto loans originations also hit record highs. The vast majority of it went to "prime" customers, with unprecedented amounts of mortgages taken out by older consumers. How many of those are "newly prime"?
+[Mortgage originations in 2021 and 2022](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2023Q1) were at levels not seen since the 2008 financial crisis. Auto loans originations also hit record highs. The vast majority of it went to "prime" customers, with unprecedented amounts of mortgages taken out by the 50+ cohort. How many of those were "newly prime"?
 
 ![Mortgage originations by credit scores](/images/mortgage_origination_credit_score.png)
 
@@ -112,6 +116,6 @@ If the risk of defaults in consumer credit markets is being significantly undere
 
 Credit drives the global economy. If lenders pull back due to unexpected losses, consumers will spend less on goods, cars and houses. The increase of interest rates has already made life difficult for many lenders. So far most negative impacts on the delinquency side have been masked by a tight labour market and strong consumer spending (both likely due to newly retired boomers).
 
-In the US student loan repayments are due to restart in October 2023. The pause on student loan repayments was a significant subsidy to consumers, particularly for the young, newly prime consumer who got a mortgage in 2021/2022. Auto loan delinquencies for the 18-19 and 30-39 cohorts are already at levels not seen since 2011. Once student loan repayments are restarted consumer spending will take a hit and delinquencies will increase.
+In the US student loan repayments are due to restart in October 2023. The pause on student loan repayments was a significant subsidy to consumers, particularly for the young, newly prime consumer who got a mortgage in 2021/2022. Auto loan delinquencies for the 18-29 cohort is already at levels not seen since 2009. Once student loan repayments are restarted consumer spending will take a hit. Delinquencies will increase.
 
 None of this is news to credit analysts. The question is, have the second and third order effects been priced in yet?
