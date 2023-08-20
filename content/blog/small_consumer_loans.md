@@ -71,12 +71,9 @@ Repeat Custom Question:
 - Wonga etc.
 
 
-Sunday:
-- unpack bag
-- tidy up a bit
-- call grandma (her birthday)
-- call grampa
-- book car for spain
-- go shopping to tesco
-- do some writing
-- Jira
+## Sources & Further Reading
+
+Most of the information in this essay comes sources that I have not referenced appropriately. The books I read while researching the topic are:
+- Carl Packman -  [Payday Lending](https://link.springer.com/book/10.1057/9781137361103): Global Growth of the High-Cost Credit Market
+- Craig McMahon - [Taming the Fringe](https://www.amazon.co.uk/Taming-Fringe-Regulation-Development-Pawnbroking/dp/3030706141)
+- Gary Rivlin - [Broke USA](https://www.amazon.co.uk/Broke-USA-Gary-Rivlin/dp/0061733202)

@@ -17,7 +17,7 @@ In my [previous post](/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-c
 
 Another part of the story is the quantity of older people taking out mortgages, which was vastly higher than in any previous period. The rise of the 70+ cohort is particularly exceptional.
 
-The vast majority of these mortgages will not be paid back by the original mortgage holder. The average mortgage term in the US is 30 years. Life expectancy at birth 79 for women and 73 for men. Healthy men reaching 70 can expect to live till 85. Very few will make it to 100+.
+The vast majority of these mortgages will not be paid back by the original mortgage holder. The average mortgage term in the US is 30 years. Life expectancy at birth is 79 for women and 73 for men. Healthy men reaching 70 can expect to live till 85. Very few will make it to 100+.
 
 ![Mortgage origination by age](/images/mortgage_originations_age.png)
 
