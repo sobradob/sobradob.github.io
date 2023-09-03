@@ -3,7 +3,7 @@ title: The Blind Men and the Coin - Part I
 description: Cryptocurrency is a controversial topic. Yet much of the debate around it is confused because, like the blind men in the parable, both advocates and critics have a myopic view of what it is. Here I discuss the Crypto Casino and Crypto Movement.  
 toc: true
 categories:
-featuredImage: images/blind_men_coin_1.jpeg
+featuredImage: images/blind_men_coin_1.jpg
 date: '2023-08-20T13:11:22+08:00'
 draft: false
 ---

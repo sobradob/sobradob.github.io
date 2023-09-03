@@ -3,7 +3,7 @@ title: The Blind Men and the Coin - Part II
 description: Discussing the Tech and the Product of Crypto.
 toc: true
 categories:
-featuredImage: images/blind_men_coin_2.jpeg
+featuredImage: images/blind_men_coin_2.jpg
 date: '2023-08-20T13:10:22+08:00'
 draft: false
 ---
