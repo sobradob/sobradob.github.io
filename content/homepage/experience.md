@@ -3,14 +3,26 @@ title: Experience
 draft: false
 enableEmoji: true
 experiences:
+  - title: Director of Marketing Analytics
+    organization:
+      name: Capital.com
+      url: capital.com
+    dates: "2023 - present"
+    location: London, UK
+    writeup: >   
+      Capital.com is one of Europe's fastest growing trading platforms.
+
+      My job is to ensure its marketing budget gets spent as efficiently as possible. 
+
+
   - title: Lead Growth Data Analyst
     organization:
       name: Zilch
       url: https://zilch.com
-    dates: "2021 - Present"
+    dates: "2021 - 2023"
     location: London, UK
     writeup: >
-      Zilch is building an Ad Subsidized Payments Network that offers credit and debit products to consumers leveraging merchant subsidies. Responsibilites include:
+      Lead growth & strategy analytics at Zilch, a $2bn consumer finance business named the fastest ever European unicorn. Responsibilites included:
 
       - Engaging with C-level stakeholders on a broad range of topics: from growth impact of credit policies to brand building.
 
@@ -19,8 +31,9 @@ experiences:
 
       Results:
 
-      - Hit the 1# spot of the UK Finance App Store through a well-executed referral campaign.
+      - Grew the active user base 4x.
 
+      - Hit the 1# spot of the UK Finance App Store through a well-executed referral campaign.
 
   - title: Marketing Data Analyst
     organization:

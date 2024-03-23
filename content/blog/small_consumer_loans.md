@@ -7,6 +7,7 @@ tags:
 - credit
 categories:
 featuredImage: images/pawnshop_in_babylon.jpg
+image: images/pawnshop_in_babylon.jpg
 date: '2023-09-23T13:11:22+08:00'
 draft: false
 ---
@@ -118,7 +119,7 @@ Consumer lenders are generally unsophisticated when it comes to digital advertis
 
 ![](/images/pawn_and_moneylender_decimation.png)
 
-Craig McMahon's [Taming the Fringe](https://www.amazon.co.uk/Taming-Fringe-Regulation-Development-Pawnbroking/dp/3030706141) (which I have shoddily scanned) shows that pawnbrokers started to decline with the first world war (total war tends to lead to full employment). The slow decline continued, until it accelerated in the 1940s and 1950s. Note that the 1927 act restricting advertising had little impact on the trend.
+Craig McMahon's [Taming the Fringe](https://www.amazon.co.uk/Taming-Fringe-Regulation-Development-Pawnbroking/dp/3030706141) shows that pawnbrokers started to decline with the first world war (total war tends to lead to full employment). The slow decline continued, until it accelerated in the 1940s and 1950s. Note that the 1927 act restricting advertising had little impact on the trend.
 
 Why? The most likely explanation is the post-war expansion of the British welfare state and the creation of the NHS. This is supported by the fact that most recently, the generous government subsidies during the COVID-19 pandemic in the USA (also known as 'stimmies') also caused a period of reduced demand for American pawnbrokers and moneylenders.
 
