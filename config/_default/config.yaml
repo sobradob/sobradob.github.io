@@ -42,7 +42,7 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: always
+  useResourceCacheWhen: fallback
 
 permalinks:
   blog: /blog/:year/:month/:day/:title/
