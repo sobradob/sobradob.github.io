@@ -1,6 +1,6 @@
 ---
 title: Are we living in an advertising economy?
-description: Consumer sentiment is at lows while the economy is booming. How can that be?
+description: Consumer sentiment is at lows while the stock market is booming. How can that be?
 toc: true
 tags:
 - opinion
