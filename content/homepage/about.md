@@ -2,11 +2,11 @@
 title: Boaz Sobrado
 draft: false
 role: Growth & Data
-avatar: /images/boaz.JPG
+avatar: /images/boaz_profile_2023.jpg
 bio:
 organization:
   name: FinTech
-  url: https://example.com/
+  url: https://boazsobrado.com/
 social:
   - icon: envelope
     iconPack: fas
