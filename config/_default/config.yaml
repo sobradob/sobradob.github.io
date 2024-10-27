@@ -7,7 +7,8 @@ title: Boaz Sobrado's Website
 theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 10
+pagination:
+  pagerSize: 10  # Instead of the old 'paginate: 10'
 copyright: >
   &copy; 2024 <a href="https://www.boazsobrado.com/">Boaz Sobrado</a>
 enableEmoji: true
@@ -19,8 +20,6 @@ hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
 enableEmoji: true
-
-# Uncomment for google analytics googleAnalytics: G-YWF9KEKWZX
 
 markup:
   # Do not modify markup.highlight
@@ -48,4 +47,8 @@ permalinks:
   blog: /blog/:year/:month/:day/:title/
 
 params:
-  icon: "/sobrado_icon.png" 
+  icon: "/sobrado_icon.png"
+
+services:
+  googleAnalytics:
+    ID: ""
