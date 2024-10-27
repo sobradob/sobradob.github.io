@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bayes on Boaz Sobrado's Website</title><link>https://boazsobrado.com/tags/bayes/</link><description>Recent content in Bayes on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2022 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Mon, 22 May 2017 22:22:16 -0800</lastBuildDate><atom:link href="https://boazsobrado.com/tags/bayes/index.xml" rel="self" type="application/rss+xml"/><item><title>Bayesian Images</title><link>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</link><pubDate>Mon, 22 May 2017 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</guid><description>Graphs to accompany my poster presentation.
-The data set The generated data is plotted below: Metropolis Hastings Algorithm This visual explanation of the Metropolis Hastings algorithm shows the proposal and the true density along with the Metropolis Hastings step. It was inspired and adapted from code by Balazs Torok.
-Diagnostic Plots for Beta 2 via Gibbs Sampler Autocorrelation Plot The autocorrelations are negligable, suggesting good mixing.
-Running Means Plot The running means have settled.
-Three chain trace plot All three chains seem to be in the same place.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bayes on Boaz Sobrado's Website</title><link>https://boazsobrado.com/tags/bayes/</link><description>Recent content in Bayes on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Mon, 22 May 2017 22:22:16 -0800</lastBuildDate><atom:link href="https://boazsobrado.com/tags/bayes/index.xml" rel="self" type="application/rss+xml"/><item><title>Bayesian Images</title><link>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</link><pubDate>Mon, 22 May 2017 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</guid><description>&lt;p>Graphs to accompany my poster presentation.&lt;/p>
+&lt;h2 id="the-data-set">The data set&lt;/h2>
+&lt;p>The generated data is plotted below:
+&lt;img alt="data" src="https://boazsobrado.com/images/explorePlot.png">&lt;/p>
+&lt;h2 id="metropolis-hastings-algorithm">Metropolis Hastings Algorithm&lt;/h2>
+&lt;p>&lt;img alt="mhalgo" src="https://boazsobrado.com/images/metropolis_hastings2.gif">&lt;/p>
+&lt;p>This visual explanation of the Metropolis Hastings algorithm shows the proposal and the true density along with the Metropolis Hastings step. It was inspired and adapted from code by &lt;a href="https://www.researchgate.net/profile/Balazs_Toeroek6">Balazs Torok&lt;/a>.&lt;/p>
+&lt;h2 id="diagnostic-plots-for-beta-2-via-gibbs-sampler">Diagnostic Plots for Beta 2 via Gibbs Sampler&lt;/h2>
+&lt;h3 id="autocorrelation-plot">Autocorrelation Plot&lt;/h3>
+&lt;p>&lt;img alt="acf" src="https://boazsobrado.com/images/acfb2.png">&lt;/p>
+&lt;p>The autocorrelations are negligable, suggesting good mixing.&lt;/p>
+&lt;h3 id="running-means-plot">Running Means Plot&lt;/h3>
+&lt;p>&lt;img alt="rmp" src="https://boazsobrado.com/images/b2runningmeans.png">&lt;/p>
+&lt;p>The running means have settled.&lt;/p></description></item></channel></rss>
