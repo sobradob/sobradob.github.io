@@ -46,3 +46,6 @@ build:
 
 permalinks:
   blog: /blog/:year/:month/:day/:title/
+
+params:
+  icon: "/sobrado_icon.png" 
