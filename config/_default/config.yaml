@@ -49,6 +49,10 @@ permalinks:
 params:
   icon: "/sobrado_icon.png"
 
+# Add these lines at the top level of your config.yaml
 services:
   googleAnalytics:
-    ID: ""
+    ID: ""  # empty string to disable
+  analytics:
+    google:
+      disable: true

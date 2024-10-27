@@ -1,0 +1,13 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@sobradob">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+
+{{ with .Resources.GetMatch "**.jpg" }}
+    <meta name="twitter:image" content="{{ .RelPermalink }}">
+{{ else }}
+    {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
+    {{ with $icon }}
+    <meta name="twitter:image" content="{{ . }}">
+    {{ end }}
+{{ end }}
