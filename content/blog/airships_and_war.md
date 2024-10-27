@@ -6,6 +6,7 @@ tags:
 - airships
 categories:
 featuredImage: images/Uk_war_balloon.jpeg
+images: /images/Uk_war_balloon.jpeg
 date: '2024-10-26T13:11:22+08:00'
 draft: false
 ---
