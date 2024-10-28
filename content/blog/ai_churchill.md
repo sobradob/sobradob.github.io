@@ -11,12 +11,11 @@ images: /images/ai_churchill.webp
 date: '2024-10-28T13:11:22+08:00'
 draft: false
 ---
-
 Upon turning 31, I felt naturally compelled to begin reading Churchill's biography. While Churchill is remembered for many things—his heroic leadership during World War II, his ever-present cigars—he's also remembered as a prolific writer. During his lifetime, Churchill produced an enormous volume of works: books, histories, and autobiographies. These not only supported him financially during his political career but also cemented his legacy as a historical figure.
 
 What's particularly interesting about Churchill's writing process is that he rarely wrote in the way most of us do—sitting at a desk, typing or writing by hand. Instead, Churchill primarily wrote through dictation. He would speak his thoughts to secretaries who would transcribe them, after which they would collaboratively edit and refine the text. This method enabled him to produce an astonishing amount of written work.
 
-While I cannot afford a personal secretary, I now have access to tools like large language models (LLMs) and ChatGPT. Though these AI tools may not yet be perfect for many applications, they serve admirably as digital secretaries. They can take my dictated thoughts and transform them into coherent essays. Will the result be perfect? Probably not—but then again, neither were Churchill's human secretaries. This technology has democratised a writing method that was previously available only to those who could afford personal staff.
+While I cannot afford a personal secretary, I now have access to large language models. Though these AI tools may not yet be perfect for many applications, they serve admirably as digital secretaries. They can take my dictated thoughts and transform them into coherent essays. Will the result be perfect? Probably not—but then again, neither were Churchill's human secretaries. Serious editing is still required, whether the secretary is human or not. This technology has democratised a writing method that was previously available only to those who could afford personal staff.
 
 Does this mean I'll become as prolific a writer as Churchill? Also no. But it's worth noting that this technology has unlocked a writing approach that was previously inaccessible to most of us.
 
