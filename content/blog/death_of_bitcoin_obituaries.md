@@ -6,8 +6,8 @@ tags:
 - crypto
 categories:
 - crypto
-featuredImage: images/bitcoin_obituary_2024.png
-images: /images/bitcoin_obituary_2024.png
+featuredImage: images/bitcoin_obituaries_chart.svg
+images: /images/bitcoin_obituaries_chart.svg
 date: '2024-12-29T03:11:22+08:00'
 draft: false
 ---

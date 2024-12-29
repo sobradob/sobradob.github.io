@@ -1,0 +1,40 @@
+---
+title: "Crypto Banks Under Fire? Regulatory Crackdowns And Opportunities"
+description: "An examination of the evolving regulatory landscape for digital asset banks, exploring the tension between institutional oversight and financial innovation in the post-FTX era"
+toc: true
+tags:
+- Banking Regulation
+- Crypto
+- Financial Innovation
+- Regulatory Evolution
+categories:
+- Financial Regulation
+- Crypto
+series: Forbes Commentary
+date: '2024-10-20T00:00:00+00:00'
+featuredImage: images/forbes_contributor.jpeg
+draft: false
+author: "Boaz Sobrado"
+original_publication: "Forbes Digital Assets"
+original_url: "https://www.forbes.com/sites/digital-assets/2024/10/20/crypto-banks-under-fire-regulatory-crackdowns-and-opportunities/"
+---
+
+*Originally published in [Forbes Digital Assets](https://www.forbes.com/sites/digital-assets/2024/10/20/crypto-banks-under-fire-regulatory-crackdowns-and-opportunities/). Author's archive copy.*
+
+Two years after FTX's implosion, financial regulators are still closely scrutinizing the cryptocurrency industry. In the United States, several targeted enforcement actions have been levied against crypto banks and companies, signaling an increased focus on compliance and risk management in the sector.
+
+Following the collapse of Signature Bank and Silvergate, Pennsylvania-based Customers Bank has emerged as a key player in the crypto banking space, onboarding clients like Kraken and absorbing approximately $2 billion in deposits from crypto clients. A major draw for Customers Bank was its real-time payments system licensed from TassatPay, the same technology that had powered Signature Bank’s Signet. However, Customers Bank found itself under federal scrutiny, receiving an [enforcement action](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240808a.htm "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240808a.htm") from the Federal Reserve on August 5, 2024. The action cited “significant deficiencies” in the bank’s risk management practices and its compliance with anti-money laundering (AML) regulations, particularly in relation to its digital asset services.
+
+Similarly, Dallas-based United Texas Bank faced regulatory action for its crypto-related activities. On August 28, 2024, the [bank was cited for “deficiencies”](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240904a.htm "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240904a.htm") in its AML compliance and risk management practices, particularly related to virtual currency customers and foreign correspondent banking. United Texas Bank, which services a number of crypto clients, is also a [correspondent bank for Bank Frick](https://www.bankfrick.li/en/correspondent-accounts "https://www.bankfrick.li/en/correspondent-accounts"), a Liechtenstein-based institution specializing in cryptocurrency services. These enforcement actions reflect the growing concerns regulators have about crypto banks' ability to manage the unique AML risks posed by digital assets.
+
+At the same time, a multi-billion-dollar [fine was issued to TD Bank](https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank "https://www.fincen.gov/news/news-releases/fincen-assesses-record-13-billion-penalty-against-td-bank") for failing to meet AML standards. TD Bank did not automatically monitor a substantial portion of its transactions, leaving 92% of its total transaction volume unchecked between January 1, 2018, and April 12, 2024. This failure allowed “trillions of dollars in transactions annually to go unmonitored for potentially suspicious activity.” While TD Bank’s deficiencies were not exclusively tied to crypto transactions, the enforcement action did mention a “Customer Group C,” which reportedly laundered funds from a UK-based cryptocurrency exchange to a Colombian financial entity.
+
+Across the Atlantic, regulatory scrutiny of the crypto sector is intensifying as well. In the UK, crypto payments firm BCB was subject to an [S166 investigation](https://www.coindesk.com/business/2024/10/04/crypto-payments-firm-bcb-group-was-the-subject-of-an-fca-investigation-sources/ "https://www.coindesk.com/business/2024/10/04/crypto-payments-firm-bcb-group-was-the-subject-of-an-fca-investigation-sources/") this year by the Financial Conduct Authority (FCA), an indication that regulators are paying closer attention to how crypto firms manage risk. BCB is known to provide banking services to some of the largest institutions in the digital asset sector, including Bitstamp, Crypto.com, Gemini, and Kraken. In the EU, there are growing concerns over the compliance of stablecoins, with reports suggesting that [Coinbase may soon delist](https://www.bloomberg.com/news/articles/2024-10-04/coinbase-to-delist-non-compliant-stablecoins-in-eu-in-december "https://www.bloomberg.com/news/articles/2024-10-04/coinbase-to-delist-non-compliant-stablecoins-in-eu-in-december") USDT [Tether](https://www.forbes.com/digital-assets/assets/tether-usdt/) , the third-largest cryptocurrency, due to non-compliance with the EU's Markets in Crypto Assets (MiCA) regulation.
+
+Critics of these enforcement actions argue that regulators are applying a double standard when it comes to crypto companies. Nic Carter, a well-known voice in the cryptocurrency space, has been particularly vocal about what he calls "Operation Chokepoint 2.0," claiming that crypto companies in the US are being unfairly targeted by [politically motivated regulatory measures](https://www.piratewires.com/p/inside-biden-admin-plot-to-destroy-silvergate-and-debank-crypto-for-good-nic-carter "https://www.piratewires.com/p/inside-biden-admin-plot-to-destroy-silvergate-and-debank-crypto-for-good-nic-carter"). Others have pointed to the [disparity in the treatment](https://x.com/CampbellJAustin/status/1844439359178801269 "https://x.com/CampbellJAustin/status/1844439359178801269") of Binance and TD Bank. While Binance’s CEO, Changpeng Zhao (CZ), remains in prison amid allegations of AML failures, none of TD Bank’s top executives have faced similar consequences, despite the bank's significant failings in monitoring its transaction volumes.
+
+However, it’s not all doom and gloom for crypto firms. In Europe, there are signs of regulatory clarity and progress for companies that are adapting to the changing landscape. Switzerland-based Sygnum Bank, a digital assets specialist, recently [registered with Liechtenstein’s regulators](https://www.sygnum.com/news/sygnum-obtains-crypto-licence-in-liechtenstein-paving-the-way-for-eu-expansion/ "https://www.sygnum.com/news/sygnum-obtains-crypto-licence-in-liechtenstein-paving-the-way-for-eu-expansion/") as it prepares for an expansion into the EU. Likewise, Portugal’s Bison Bank has launched Bison Digital, a subsidiary designed to offer regulated services to the growing digital assets industry in Europe. These developments signal that the regulators are not unanimous in their crackdown on the industry.
+
+The past two years have seen a sharp increase in regulatory oversight of the cryptocurrency industry, with a particular focus on banks and institutions that service digital assets. Enforcement actions against banks like Customers Bank and United Texas Bank in the U.S. reveal how seriously regulators are taking the crypto sector. Meanwhile, the scrutiny of firms like BCB in the UK and the potential delisting of USDT in the EU further underline the global nature of this regulatory shift.
+
+Despite the heightened scrutiny, the outlook for crypto banking is not entirely bleak. While companies in the US are facing enforcement actions, those that embrace compliance abroad are finding opportunities to expand. As banks like Sygnum and Bison Digital demonstrate, there is still room for growth in this rapidly evolving industry. The road ahead will undoubtedly be challenging for crypto banks, but the potential for innovation and expansion remains strong for those able to adapt to the new regulatory reality.
