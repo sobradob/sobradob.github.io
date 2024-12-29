@@ -1,13 +1,453 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Boaz Sobrado's Website</title><link>https://boazsobrado.com/</link><description>Recent content on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Mon, 28 Oct 2024 13:11:22 +0800</lastBuildDate><atom:link href="https://boazsobrado.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Churchill's gift to Poland</title><link>https://boazsobrado.com/blog/2024/10/28/churchills-gift-to-poland/</link><pubDate>Mon, 28 Oct 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/10/28/churchills-gift-to-poland/</guid><description>&lt;p>Poland has emerged as one of the most remarkable growth stories of the past century. Among the world&amp;rsquo;s developing nations, two countries have particularly distinguished themselves through their exceptional economic growth: Poland and China. What makes Poland&amp;rsquo;s case especially intriguing is that, historically, it was never particularly wealthy.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Boaz Sobrado's Website</title><link>https://boazsobrado.com/</link><description>Recent content on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Sun, 29 Dec 2024 03:11:22 +0800</lastBuildDate><atom:link href="https://boazsobrado.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Is 2024 the year Bitcoin obituaries died?</title><link>https://boazsobrado.com/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/</link><pubDate>Sun, 29 Dec 2024 03:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/</guid><description>&lt;p>The chart tracks the frequency of &amp;ldquo;Bitcoin obituaries&amp;rdquo; - articles declaring Bitcoin&amp;rsquo;s demise - from 2010 to 2024.&lt;/p>
+&lt;p>The number of such articles peaked dramatically in 2017 with 124 publications, coinciding with Bitcoin&amp;rsquo;s first major price surge. Since then, obituaries have steadily declined, reaching just 2 articles in 2024 despite Bitcoin crossing $100,000.&lt;/p>
+&lt;p>This reduction in negative predictions, from the 2017 peak to present day, suggests a notable shift in how the cryptocurrency is perceived by commentators and institutions.&lt;/p></description></item><item><title>Chinese Radicals (部首) Reference Guide</title><link>https://boazsobrado.com/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/</link><pubDate>Sun, 15 Dec 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/</guid><description>&lt;p>I put this together using original Chinese source material and organised it using Claude. I&amp;rsquo;ve found it useful while learning to write in Chinese, I&amp;rsquo;ll share here in case its useful to someone else.&lt;/p>
+&lt;h2 id="1-nature-and-environment">1. Nature and Environment&lt;/h2>
+&lt;h3 id="celestial-and-weather-elements">Celestial and Weather Elements&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>日&lt;/td>
+ &lt;td>日字旁&lt;/td>
+ &lt;td>多与太阳或时间有关&lt;/td>
+ &lt;td>晓 映 时 早 晚 昨 明 晴&lt;/td>
+ &lt;td>Sun, day&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>雨&lt;/td>
+ &lt;td>雨字头&lt;/td>
+ &lt;td>多与天气气象有关&lt;/td>
+ &lt;td>雪 雷 零 雾 需 震 霉 霖&lt;/td>
+ &lt;td>Rain&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>冫&lt;/td>
+ &lt;td>两点水&lt;/td>
+ &lt;td>多与冰水寒冷有关&lt;/td>
+ &lt;td>冰 凉 净 冲 冷 冻 次 准&lt;/td>
+ &lt;td>Ice&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="landscape-and-earth">Landscape and Earth&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>山&lt;/td>
+ &lt;td>山字旁&lt;/td>
+ &lt;td>多与山和陆地有关&lt;/td>
+ &lt;td>岸 岛 出 岭 岩&lt;/td>
+ &lt;td>Mountain&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>土&lt;/td>
+ &lt;td>提土旁&lt;/td>
+ &lt;td>多与大地和建筑有关&lt;/td>
+ &lt;td>坪 坡 壁 块 塘 埋 堆 场&lt;/td>
+ &lt;td>Earth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>石&lt;/td>
+ &lt;td>石字旁&lt;/td>
+ &lt;td>多与石头有关&lt;/td>
+ &lt;td>砖 砖 矿 破 砍&lt;/td>
+ &lt;td>Stone&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="water-and-liquids">Water and Liquids&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>氵&lt;/td>
+ &lt;td>三点水&lt;/td>
+ &lt;td>多与水有关&lt;/td>
+ &lt;td>漂 河 清 波 满 湖 流 海&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>水&lt;/td>
+ &lt;td>水字旁&lt;/td>
+ &lt;td>多与水有关&lt;/td>
+ &lt;td>汗 泪 洋 海&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="2-living-beings">2. Living Beings&lt;/h2>
+&lt;h3 id="humans-and-body-parts">Humans and Body Parts&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>亻&lt;/td>
+ &lt;td>单人旁&lt;/td>
+ &lt;td>多与人有关&lt;/td>
+ &lt;td>住 修 做 们 位 伴 件 休&lt;/td>
+ &lt;td>Person&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>口&lt;/td>
+ &lt;td>囗字框&lt;/td>
+ &lt;td>围起来或口的意思&lt;/td>
+ &lt;td>圆 圓 回 囚 周 图 国&lt;/td>
+ &lt;td>Mouth, enclosure&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>目&lt;/td>
+ &lt;td>目字旁&lt;/td>
+ &lt;td>多与眼睛有关&lt;/td>
+ &lt;td>看 眼 睛 眨 眯 盯 眉&lt;/td>
+ &lt;td>Eye&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>手&lt;/td>
+ &lt;td>手字旁&lt;/td>
+ &lt;td>多与手或手的动作有关&lt;/td>
+ &lt;td>拜 拿 拳 掌 摊 摩 擦&lt;/td>
+ &lt;td>Hand&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>月&lt;/td>
+ &lt;td>月字旁&lt;/td>
+ &lt;td>多与人体器官骨肉等有关&lt;/td>
+ &lt;td>胖 脑 朝 胸 腰 脸 腿 脚&lt;/td>
+ &lt;td>Body, flesh&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="animals">Animals&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>犭&lt;/td>
+ &lt;td>反犬旁&lt;/td>
+ &lt;td>多与兽类动物有关&lt;/td>
+ &lt;td>猫 狗 猴 猪 狼 狮&lt;/td>
+ &lt;td>Animal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>鸟&lt;/td>
+ &lt;td>鸟字旁&lt;/td>
+ &lt;td>多与鸟类有关&lt;/td>
+ &lt;td>鸡 鸭 鹤 鹰 鹊 鸦&lt;/td>
+ &lt;td>Bird&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>虫&lt;/td>
+ &lt;td>虫字旁&lt;/td>
+ &lt;td>多与虫类等有关&lt;/td>
+ &lt;td>蜜蜂 蚂蚁 蜻蜓 蛐蛐 蝴蝶&lt;/td>
+ &lt;td>Insect&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>马&lt;/td>
+ &lt;td>马字旁&lt;/td>
+ &lt;td>多与马有关&lt;/td>
+ &lt;td>骑 驴&lt;/td>
+ &lt;td>Horse&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>牜&lt;/td>
+ &lt;td>提牛旁&lt;/td>
+ &lt;td>多与牛等畜类有关&lt;/td>
+ &lt;td>牡 牢 物 牧 牲 特 犊&lt;/td>
+ &lt;td>Cow, cattle&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="3-man-made-elements">3. Man-made Elements&lt;/h2>
+&lt;h3 id="buildings-and-structures">Buildings and Structures&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>门&lt;/td>
+ &lt;td>门字框&lt;/td>
+ &lt;td>多与门有关&lt;/td>
+ &lt;td>闪 闭 问 闪 闷 闻 闸 间&lt;/td>
+ &lt;td>Door&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>宀&lt;/td>
+ &lt;td>宝盖头&lt;/td>
+ &lt;td>与房子有遮盖的场所有关&lt;/td>
+ &lt;td>宿 安 定 完 穿 寒 守 宫&lt;/td>
+ &lt;td>Roof&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>广&lt;/td>
+ &lt;td>广字头&lt;/td>
+ &lt;td>多与房屋建筑有关&lt;/td>
+ &lt;td>床 座 席 应 底 度&lt;/td>
+ &lt;td>Building&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>户&lt;/td>
+ &lt;td>户字头&lt;/td>
+ &lt;td>多与门户有关&lt;/td>
+ &lt;td>房 局 所 房 局 扇 库 庭&lt;/td>
+ &lt;td>Household&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>穴&lt;/td>
+ &lt;td>穴字头&lt;/td>
+ &lt;td>多洞穴房屋有关&lt;/td>
+ &lt;td>穷 空 突 窗 窘 窃 穿 容&lt;/td>
+ &lt;td>Cave, hole&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="tools-and-objects">Tools and Objects&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>刂&lt;/td>
+ &lt;td>立刀&lt;/td>
+ &lt;td>多与刀或使用刀有关&lt;/td>
+ &lt;td>割 刻 划 列 到 刑 创 别&lt;/td>
+ &lt;td>Knife&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>车&lt;/td>
+ &lt;td>车字旁&lt;/td>
+ &lt;td>多与车有关&lt;/td>
+ &lt;td>轮 辆 轨 转 轻 斩 软&lt;/td>
+ &lt;td>Vehicle&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>钅&lt;/td>
+ &lt;td>金字旁&lt;/td>
+ &lt;td>多与金属有关&lt;/td>
+ &lt;td>钱 铃 铜 铁 银 链 镜 错&lt;/td>
+ &lt;td>Metal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>王&lt;/td>
+ &lt;td>王字旁&lt;/td>
+ &lt;td>多与玉器有关&lt;/td>
+ &lt;td>珠 理 班 球 现 班&lt;/td>
+ &lt;td>Jade, king&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="4-abstract-concepts-and-actions">4. Abstract Concepts and Actions&lt;/h2>
+&lt;h3 id="speech-and-thought">Speech and Thought&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>讠&lt;/td>
+ &lt;td>言字旁&lt;/td>
+ &lt;td>多与说话有关&lt;/td>
+ &lt;td>说 话 诉 讲 谈 许 让 该&lt;/td>
+ &lt;td>Speech&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>心&lt;/td>
+ &lt;td>心字底&lt;/td>
+ &lt;td>多与心理活动有关&lt;/td>
+ &lt;td>想 愿 意 感 思 急 息 忍&lt;/td>
+ &lt;td>Heart, mind&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>忄&lt;/td>
+ &lt;td>竖心旁&lt;/td>
+ &lt;td>多与内心活动有关&lt;/td>
+ &lt;td>怕 情 怪 憧 悄 慢 情 懒&lt;/td>
+ &lt;td>Heart, feelings&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="movement-and-action">Movement and Action&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>辶&lt;/td>
+ &lt;td>走之儿&lt;/td>
+ &lt;td>多与行走等脚的动作或道路有关&lt;/td>
+ &lt;td>远 这 环 连 达 运 迎 送&lt;/td>
+ &lt;td>Walking&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>足&lt;/td>
+ &lt;td>足字旁&lt;/td>
+ &lt;td>多表示脚或脚的动作&lt;/td>
+ &lt;td>跑 跳 跪 跳 踏 踢 跟 蹲&lt;/td>
+ &lt;td>Foot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>力&lt;/td>
+ &lt;td>力字旁&lt;/td>
+ &lt;td>多与力量、用力有关&lt;/td>
+ &lt;td>功 动 助 努 劲&lt;/td>
+ &lt;td>Power, force&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="materials-and-textiles">Materials and Textiles&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>纟&lt;/td>
+ &lt;td>绞丝旁&lt;/td>
+ &lt;td>多与丝线有关&lt;/td>
+ &lt;td>练 红 绿 绝 线 纸 织 编&lt;/td>
+ &lt;td>Silk, thread&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>系&lt;/td>
+ &lt;td>系字底&lt;/td>
+ &lt;td>多与丝绳织物有关&lt;/td>
+ &lt;td>系 素 索 紧 累 紫 索 繁&lt;/td>
+ &lt;td>Connect, system&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>巾&lt;/td>
+ &lt;td>巾字旁&lt;/td>
+ &lt;td>多与布织物有关&lt;/td>
+ &lt;td>帘 帮 帆 帐 常 布 希 帜&lt;/td>
+ &lt;td>Cloth&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="miscellaneous-elements">Miscellaneous Elements&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>火/灬&lt;/td>
+ &lt;td>火字旁/四点底&lt;/td>
+ &lt;td>多与火有关&lt;/td>
+ &lt;td>灯 烟 炒 灰 灭 炸&lt;/td>
+ &lt;td>Fire&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>礻&lt;/td>
+ &lt;td>示字旁&lt;/td>
+ &lt;td>多与祭祀神鬼祈福有关&lt;/td>
+ &lt;td>礼 社 祈 神 祖 祥 祸 福&lt;/td>
+ &lt;td>Worship, spirit&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>艹&lt;/td>
+ &lt;td>草字头&lt;/td>
+ &lt;td>多与花草植物有关&lt;/td>
+ &lt;td>茶 苦 花 苗 蓝 草 芬 英&lt;/td>
+ &lt;td>Grass, plant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>竹&lt;/td>
+ &lt;td>竹字头&lt;/td>
+ &lt;td>与竹子或竹制品有关&lt;/td>
+ &lt;td>笛 竿 筒 管 篮 笛 箱 篇&lt;/td>
+ &lt;td>Bamboo&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Churchill's gift to Poland</title><link>https://boazsobrado.com/blog/2024/10/28/churchills-gift-to-poland/</link><pubDate>Mon, 28 Oct 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/10/28/churchills-gift-to-poland/</guid><description>&lt;p>Poland has emerged as one of the most remarkable growth stories of the past century. Among the world&amp;rsquo;s developing nations, two countries have particularly distinguished themselves through their exceptional economic growth: Poland and China. What makes Poland&amp;rsquo;s case especially intriguing is that, historically, it was never particularly wealthy.&lt;/p>
 &lt;p>Consider that Poland recently surpassed Hungary in GDP per capita—a milestone that hadn&amp;rsquo;t occurred for centuries. In the 1990s, when Western companies were expanding into Eastern Europe, they debated whether to establish their headquarters in Budapest or Warsaw. Today, there&amp;rsquo;s no debate: Warsaw clearly prevails.&lt;/p></description></item><item><title>Unleashing my inner AI Churchill</title><link>https://boazsobrado.com/blog/2024/10/28/unleashing-my-inner-ai-churchill/</link><pubDate>Mon, 28 Oct 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/10/28/unleashing-my-inner-ai-churchill/</guid><description>&lt;p>Upon turning 31, I felt naturally compelled to begin reading Churchill&amp;rsquo;s biography. While Churchill is remembered for many things—his heroic leadership during World War II, his ever-present cigars—he&amp;rsquo;s also remembered as a prolific writer. During his lifetime, Churchill produced an enormous volume of works: books, histories, and autobiographies. These not only supported him financially during his political career but also cemented his legacy as a historical figure.&lt;/p>
 &lt;p>What&amp;rsquo;s particularly interesting about Churchill&amp;rsquo;s writing process is that he rarely wrote in the way most of us do—sitting at a desk, typing or writing by hand. Instead, Churchill primarily wrote through dictation. He would speak his thoughts to secretaries who would transcribe them, after which they would collaboratively edit and refine the text. This method enabled him to produce an astonishing amount of written work.&lt;/p></description></item><item><title>Mines in the Air</title><link>https://boazsobrado.com/blog/2024/10/26/mines-in-the-air/</link><pubDate>Sat, 26 Oct 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/10/26/mines-in-the-air/</guid><description>&lt;p>There is an entirely underrated opportunity with airships that challenges our conventional understanding of both lighter-than-air flight and modern warfare. If you&amp;rsquo;ve followed my thoughts before, you know I occasionally get quite excited about this topic – and I should qualify upfront that I&amp;rsquo;m no aerospace engineer, so take what follows with an appropriate grain of salt. But the possibilities here are fascinating.&lt;/p>
 &lt;p>While airships were common a century ago and drove much of the early progress in aviation, they have since fallen into relative obscurity. However, &lt;a href="https://x.com/DanielR33187703/status/1848073452462440867">recent developments in the Ukrainian war&lt;/a> suggest that airships and balloons might be poised for an unexpected renaissance—albeit in a form their original inventors never anticipated.&lt;/p></description></item><item><title>Decentralised Bitcoin trading platform BISQ has hit record highs.</title><link>https://boazsobrado.com/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./</link><pubDate>Mon, 01 Apr 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./</guid><description>&lt;p>Last year &lt;a href="https://boazsobrado.com/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/">I wrote about&lt;/a> the problems peer-to-peer trading networks were facing. This quarter BISQ, a decentralised peer-to-peer network, has shattered all previous records.&lt;/p>
 &lt;p>This quarter was its highest dollar volume quarter, lead high BTC/XMR volume.&lt;/p>
-&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_all_trades.png">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_all_trades.png" alt="">&lt;/p>
 &lt;p>But fiat volumes are at all time highs too, with tremendous growth in the BRL and EUR pairs.&lt;/p>
-&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_fiat_trades.png">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_fiat_trades.png" alt="">&lt;/p>
 &lt;p>In terms of fiat payment methods, the rise of PIX in Brazil is worth pointing out.&lt;/p>
-&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_payment_method.png">&lt;/p></description></item><item><title>Can payments networks solve the online ad attribution problem?</title><link>https://boazsobrado.com/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/</link><pubDate>Sun, 31 Mar 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/</guid><description>&lt;p>I really enjoyed &lt;a href="https://podcasts.apple.com/us/podcast/season-3-episode-7-the-evolving-ecommerce-advertising/id1423753783?i=1000650549817">this&lt;/a> Mobile Dev Memo podcast where Eric &amp;amp; Rishabh discuss the upcoming third party cookie depreciation and its consequences.&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/bisq_payment_method.png" alt="">&lt;/p></description></item><item><title>Can payments networks solve the online ad attribution problem?</title><link>https://boazsobrado.com/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/</link><pubDate>Sun, 31 Mar 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/</guid><description>&lt;p>I really enjoyed &lt;a href="https://podcasts.apple.com/us/podcast/season-3-episode-7-the-evolving-ecommerce-advertising/id1423753783?i=1000650549817">this&lt;/a> Mobile Dev Memo podcast where Eric &amp;amp; Rishabh discuss the upcoming third party cookie depreciation and its consequences.&lt;/p>
 &lt;p>Winners of this new world will be the “walled compounds” of Facebook, Amazon and other major players. In other words, platforms that have a lot of first party data. Losers will be small publishers that lack it. The traffic of these small publishers will become significantly less valuable given with the loss of third party cookies. They can no longer be used for high value ad targeting.&lt;/p></description></item><item><title>A salaryman worth his salt</title><link>https://boazsobrado.com/blog/2024/03/24/a-salaryman-worth-his-salt/</link><pubDate>Sun, 24 Mar 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/03/24/a-salaryman-worth-his-salt/</guid><description>&lt;p>Do you really know where your salary comes from?&lt;/p>
 &lt;p>The word &amp;ldquo;salary&amp;rdquo; comes from the Latin word &amp;ldquo;salarium,&amp;rdquo; which originally referred to a soldier&amp;rsquo;s allowance for the purchase of salt. Salt was a valuable commodity up until modern times, often used as a preservative and for seasoning. Sometimes even as a currency in trade. The Latin word &amp;ldquo;salarium&amp;rdquo; is derived from &amp;ldquo;sal,&amp;rdquo; meaning salt. The median UK salary after tax is about £2400 a month, which buys about 2 tons of salt.&lt;/p></description></item><item><title>The Tulip Craze Conspiracy</title><link>https://boazsobrado.com/blog/2024/03/23/the-tulip-craze-conspiracy/</link><pubDate>Sat, 23 Mar 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/03/23/the-tulip-craze-conspiracy/</guid><description>&lt;p>Have you heard of the Dutch Tulip craze? If so, you&amp;rsquo;ve likely fallen victim to centuries old propaganda. The Dutch tulip bubble of the 17th century never actually happened, at least not the way it is understood in popular culture.&lt;/p>
 &lt;p>The popular understanding of the tulip craze goes as follows:&lt;/p>
@@ -22,10 +462,10 @@
 &lt;p>A group of blind men heard that a strange phenomenon, called Bitcoin, had been brought to the town, but none of them were aware of its shape and form. Out of curiosity, they said: &amp;ldquo;We must inspect and know it by touch, of which we are capable&amp;rdquo;. So, they sought it out, and when they found it they groped about it.&lt;br>&lt;br>
 The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;This is like an online Casino!&amp;rdquo;. For another one whose hand reached libertarian Bitcoin believers, it seemed like a religious or political Movement. As for another person, whose hand was upon citizens of authoritarian countries evading capital controls, said Bitcoin is a Product. The blind man who placed his hand upon the cryptography papers and open source repositories, said it is a Technology.&lt;/p></description></item><item><title>The Blind Men and the Coin - Part II</title><link>https://boazsobrado.com/blog/2023/08/20/the-blind-men-and-the-coin-part-ii/</link><pubDate>Sun, 20 Aug 2023 13:10:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2023/08/20/the-blind-men-and-the-coin-part-ii/</guid><description>&lt;p>In &lt;a href="https://boazsobrado.com/blog/2023/08/19/the-blind-men-and-the-coin-part-i/">Part I of this essay&lt;/a> I discussed The Crypto Movement and Casino. In Part II I discuss the Product and Tech.&lt;/p>
 &lt;h2 id="the-product">The Product&lt;/h2>
-&lt;p>&lt;img src="https://lh4.googleusercontent.com/YHgW-ZYUPf94W_ktqtRJQNwCqGmh1QIummtPq3kkJ-NSY30DjS-6BXqsamn9YwzcFi2gduOLmkdLqzoSEB248Z056FhSEu6BrNgUxb2Q3YDY9hgUbHhiEl8KpZ40_WMnul9DyR4VMdkQLSFROc15t1Q">&lt;/p>
+&lt;p>&lt;img src="https://lh4.googleusercontent.com/YHgW-ZYUPf94W_ktqtRJQNwCqGmh1QIummtPq3kkJ-NSY30DjS-6BXqsamn9YwzcFi2gduOLmkdLqzoSEB248Z056FhSEu6BrNgUxb2Q3YDY9hgUbHhiEl8KpZ40_WMnul9DyR4VMdkQLSFROc15t1Q" alt="">&lt;/p>
 &lt;p>&lt;em>Cuban informal cash remittance operator accepts payments in PayPay, Zelle and Bitcoin. They are unlikely to be writing about either Crypto or PayPal on Twitter.&lt;/em>&lt;/p>
 &lt;p>Crypto as a Product refers to instances when people use crypto because it is the best way or only way to do something. Users of the Product don&amp;rsquo;t particularly care about the ideological baggage of the Movement. What they care about is a Product that solves whatever problem they have.&lt;/p></description></item><item><title>Old Age Originations</title><link>https://boazsobrado.com/blog/2023/07/16/old-age-originations/</link><pubDate>Sun, 16 Jul 2023 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2023/07/16/old-age-originations/</guid><description>&lt;p>In my &lt;a href="https://boazsobrado.com/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/">previous post&lt;/a> I discussed how credit score inflation contributed to the flurry of US mortgage originations in 2020-2021. As you can see from the chart below, the scale of the mortgage boom was truly unprecedented:&lt;/p>
-&lt;p>&lt;img alt="Mortgage origination by credit score" src="https://boazsobrado.com/images/mortgage_origination_credit_score.png">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/mortgage_origination_credit_score.png" alt="Mortgage origination by credit score">&lt;/p>
 &lt;p>Another part of the story is the quantity of older people taking out mortgages, which was vastly higher than in any previous period. The rise of the 70+ cohort is particularly exceptional.&lt;/p>
 &lt;p>The vast majority of these mortgages will not be paid back by the original mortgage holder. The average mortgage term in the US is 30 years. Life expectancy at birth is 79 for women and 73 for men. Healthy men reaching 70 can expect to live till 85. Very few will make it to 100+.&lt;/p></description></item><item><title>From subprime crisis to the newly prime crisis</title><link>https://boazsobrado.com/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/</link><pubDate>Sat, 17 Jun 2023 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/</guid><description>&lt;p>What if credit scores have misled banks into the next lending crisis? The Global Financial Crisis of 2007 is often blamed on irresponsible lending. Lenders offered large amounts of credit to &amp;ldquo;subprime&amp;rdquo; customers. Subprime being a fancy term for people with poor credit scores, who are less likely to pay the loans back.&lt;/p>
 &lt;p>According to &lt;a href="https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis">Wikipedia&lt;/a>:&lt;/p>
@@ -48,7 +488,7 @@ The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;Th
 &lt;p>Modern know-your-customer/anti-money laundering (KYC/AML) regulations are equivalent to financial bloodletting today: They do little good and may cause a lot of harm. Yet whether we like it or not, the KYC/AML nightmare is coming to crypto.&lt;/p></description></item><item><title>GameFi’s Promise and Reality Are Still Worlds Apart</title><link>https://boazsobrado.com/blog/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/</link><pubDate>Tue, 08 Mar 2022 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/</guid><description>&lt;p>&lt;em>Originally published in &lt;a href="https://www.coindesk.com/layer2/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/">CoinDesk&lt;/a>&lt;/em>&lt;/p>
 &lt;p>Among crypto&amp;rsquo;s hottest trends is GameFi, which brings Web 3&amp;rsquo;s advantages to gaming. Web 3&amp;rsquo;s meaning &lt;a href="https://cobie.substack.com/p/wtf-is-web3">varies&lt;/a> by individual but reflects rising demand among people who are spending more time and money in meta worlds to own their virtual assets, free from the interference of platform developers.&lt;/p>
 &lt;p>But are strong in-game property rights compatible with fun, escapist experiences that users are seeking?&lt;/p>
-&lt;p>Skeptics are not convinced. They say that GameFi games are not fun but rather merely repackaged versions of the worst elements of decentralized finance (&lt;a href="https://www.coindesk.com/learn/what-is-defi/">DeFi&lt;/a>). Play-to-earn games, some skeptics say, suffer because they are &lt;a href="https://frankmuci.substack.com/p/are-play-to-earn-p2e-games-pyramid?r=69dfl&amp;utm_campaign=post&amp;utm_medium=web">more or less pyramid&lt;/a> schemes.&lt;/p></description></item><item><title>Are Crypto Investors Savvy or Suckers? The UK’s Tax and Financial Regulators Don’t Agree</title><link>https://boazsobrado.com/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/</link><pubDate>Thu, 24 Feb 2022 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/</guid><description>&lt;p>&lt;em>Originally published in &lt;a href="https://www.coindesk.com/layer2/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-leading-tax-and-financial-regulators-dont-agree/">CoinDesk Magazine&lt;/a>&lt;/em>&lt;/p>
+&lt;p>Skeptics are not convinced. They say that GameFi games are not fun but rather merely repackaged versions of the worst elements of decentralized finance (&lt;a href="https://www.coindesk.com/learn/what-is-defi/">DeFi&lt;/a>). Play-to-earn games, some skeptics say, suffer because they are &lt;a href="https://frankmuci.substack.com/p/are-play-to-earn-p2e-games-pyramid?r=69dfl&amp;amp;utm_campaign=post&amp;amp;utm_medium=web">more or less pyramid&lt;/a> schemes.&lt;/p></description></item><item><title>Are Crypto Investors Savvy or Suckers? The UK’s Tax and Financial Regulators Don’t Agree</title><link>https://boazsobrado.com/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/</link><pubDate>Thu, 24 Feb 2022 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/</guid><description>&lt;p>&lt;em>Originally published in &lt;a href="https://www.coindesk.com/layer2/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-leading-tax-and-financial-regulators-dont-agree/">CoinDesk Magazine&lt;/a>&lt;/em>&lt;/p>
 &lt;p>Are crypto investors financially savvy investors who are capable of understanding the nuances of blockchain, Web 3 and &lt;a href="https://www.coindesk.com/learn/what-is-defi/">decentralized finance&lt;/a>? Or are they mostly vulnerable, uneducated speculators who are being taken advantage of?&lt;/p>
 &lt;p>&lt;a href="https://www.fca.org.uk/">The Financial Conduct Authority (FCA)&lt;/a>, the U.K.&amp;rsquo;s financial regulator, believes they are the latter, while the U.K.&amp;rsquo;s tax collection agency, &lt;a href="https://www.gov.uk/government/organisations/hm-revenue-customs">HM Revenue &amp;amp; Customs&lt;/a>, or HMRC, believes they are the former. While the agencies have issued a few helpful guidelines, their differing opinions underscore a fundamental inability to provide more sweeping and effective oversight that would protect consumers and ensure the industry&amp;rsquo;s development. Delays in finding such common ground are slowing progress on both fronts.&lt;/p></description></item><item><title>We All Need to Stop Only Seeing the Dark Side of Crypto</title><link>https://boazsobrado.com/blog/2021/12/19/we-all-need-to-stop-only-seeing-the-dark-side-of-crypto/</link><pubDate>Sun, 19 Dec 2021 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2021/12/19/we-all-need-to-stop-only-seeing-the-dark-side-of-crypto/</guid><description>&lt;p>&lt;strong>Originally published in &lt;a href="https://www.wired.com/story/crypto-remittances-cuba/">Wired Magazine&lt;/a>&lt;/strong>&lt;/p>
 &lt;p>IN 2021, BITCOIN went mainstream. Wall Street set its eyes on the world of crypto, with hotshot investors like hedge funder Paul Tudor Jones leading the pack; &lt;em>The Economist&lt;/em> went from calling the cryptocurrency &lt;a href="https://www.economist.com/leaders/2018/08/30/bitcoin-and-other-cryptocurrencies-are-useless">&amp;ldquo;useless&amp;rdquo; in 2018&lt;/a> to arguing that it belongs in most portfolios; tech CEOs Jack Dorsey and Elon Musk gamely crossed swords about Bitcoin&amp;rsquo;s merits at a conference run by an asset management firm. Popular opinion lags a bit: Many people still believe cryptocurrency is a giant, global get-rich-quick scheme. Others simply dismiss the entire thing as a speculation-driven fad in the best case, a criminal enterprise in the worst. But amid the noise, the enthusiasm, and the hype, we might be losing the most important story: the way cryptocurrency is changing lives in the developing world.&lt;/p></description></item><item><title>The Quest for Perp AMMs</title><link>https://boazsobrado.com/blog/2021/10/04/the-quest-for-perp-amms/</link><pubDate>Mon, 04 Oct 2021 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2021/10/04/the-quest-for-perp-amms/</guid><description>&lt;p>&lt;em>Originally published in &lt;a href="https://www.wired.com/story/crypto-remittances-cuba/">Deribit Insights&lt;/a>. Co-authored with Dr. Abdulla Al-Kamil.&lt;/em>&lt;/p>
@@ -63,7 +503,7 @@ The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;Th
 &lt;h2 id="graduate-recruiters--team-just">Graduate recruiters &amp;amp; Team JUST&lt;/h2>
 &lt;p>When I arrived at Cambridge in 2011 I was immediately approached by hordes of corporates trying to sell me (a clueless teenager) a vision of what I should do after university. Law firms, investment banks and consultancies spend a large amount of money getting clueless students to go to career events. All you have to do is listen a bit to what it is they do and you&amp;rsquo;ll get some booze and food in exchange. You go there and listen to some strange corporate mumbojumbo, a secular equivalent of sitting at Latin Mass. You should join our company because it is different from other companies. In the same way the United Methodist Church is clearly different to the Free Methodist Church. The HR person is followed up by someone that clearly has more important things to do, but is evangelising to boozed up teenagers out of a sense of duty. They are here to sell a vision, a structure of reality.&lt;/p></description></item><item><title>Ugocsa Non Coronat - the Visegradation of the European Union</title><link>https://boazsobrado.com/blog/2021/01/01/ugocsa-non-coronat-the-visegradation-of-the-european-union/</link><pubDate>Fri, 01 Jan 2021 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2021/01/01/ugocsa-non-coronat-the-visegradation-of-the-european-union/</guid><description>&lt;p>There is an apocryphal story about a meeting of the representatives of Hungarian noblemen in 1527. These representatives had gathered  to elect the new king Hungary, Ferdinand I, in a time of national crisis. The Ottoman empire had won a key battle at Mohacs and was threatening to conquer all of Hungary. Each nobleman a their vote for the new Habsburg king, until the representative of the smallest county in Hungary, Ugocsa (now in Ukraine) awaited his turn to raise his voice and say:&lt;/p></description></item><item><title>DeFi needs a Silk Road moment</title><link>https://boazsobrado.com/blog/2020/12/11/defi-needs-a-silk-road-moment/</link><pubDate>Fri, 11 Dec 2020 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2020/12/11/defi-needs-a-silk-road-moment/</guid><description>&lt;p>&lt;em>This article was originally published as an Op-Ed on &lt;a href="https://www.coindesk.com/defi-still-needs-a-silk-road-moment">CoinDesk&lt;/a>&lt;/em>&lt;/p>
 &lt;p>Mainstream criminal adoption would prove that decentralized finance (DeFi) is building tools with real utility, because if there&amp;rsquo;s any one group that is both underserved in their access to sophisticated financial products and willing to pay huge premiums to acquire them, it&amp;rsquo;s criminals. &lt;/p>
-&lt;p>The Silk Road was launched in &lt;a href="https://en.wikipedia.org/wiki/Silk_Road_(marketplace)">February of 2011&lt;/a> and quickly became the first example of Bitcoin&amp;rsquo;s product-market fit. While some proponents of cryptocurrencies argue that today criminal activities are a &lt;a href="https://blog.chainalysis.com/reports/cryptocurrency-crime-2020-report">small percentage of all cryptocurrency transactions&lt;/a>, censorship resistance is one of the key features of all decentralized technologies and criminals have played a part in crypto&amp;rsquo;s wider adoption. &lt;/p></description></item><item><title>Why Cuba is primed for bitcoin adoption</title><link>https://boazsobrado.com/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/</link><pubDate>Fri, 11 Dec 2020 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/</guid><description>&lt;p>&lt;em>This article was originally published as an Op-Ed on &lt;a href="https://decrypt.co/50491/cuba-bitcoin-adoption">Decrypt&lt;/a>&lt;/em>&lt;/p>
+&lt;p>The Silk Road was launched in &lt;a href="https://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29">February of 2011&lt;/a> and quickly became the first example of Bitcoin&amp;rsquo;s product-market fit. While some proponents of cryptocurrencies argue that today criminal activities are a &lt;a href="https://blog.chainalysis.com/reports/cryptocurrency-crime-2020-report">small percentage of all cryptocurrency transactions&lt;/a>, censorship resistance is one of the key features of all decentralized technologies and criminals have played a part in crypto&amp;rsquo;s wider adoption. &lt;/p></description></item><item><title>Why Cuba is primed for bitcoin adoption</title><link>https://boazsobrado.com/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/</link><pubDate>Fri, 11 Dec 2020 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/</guid><description>&lt;p>&lt;em>This article was originally published as an Op-Ed on &lt;a href="https://decrypt.co/50491/cuba-bitcoin-adoption">Decrypt&lt;/a>&lt;/em>&lt;/p>
 &lt;p>Cuba is having one of its worst years in recent memory&amp;mdash;but, as a consequence, a perfect storm is brewing on the island nation with regard to Bitcoin adoption.&lt;/p>
 &lt;p>Cubans live under a high level of financial censorship, as well as rampant inflation. Meanwhile, their access to foreign currencies has been heavily curtailed this year due to COVID and US sanctions. This has increased the appeal of cryptocurrencies, many of which act as censorship-resistant stores of value.&lt;/p></description></item><item><title>My thoughts on Cambridge Analytica</title><link>https://boazsobrado.com/blog/2020/11/07/my-thoughts-on-cambridge-analytica/</link><pubDate>Sat, 07 Nov 2020 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2020/11/07/my-thoughts-on-cambridge-analytica/</guid><description>&lt;p>I am writing this to share my conclusions regarding the Cambridge Analytica affair. I have a somewhat unique perspective on the topic for three reasons:&lt;/p>
 &lt;ul>
@@ -77,7 +517,7 @@ The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;Th
 &lt;p>&lt;em>&amp;ldquo;Four pesos&amp;rdquo;&lt;/em>&lt;/p>
 &lt;p>&lt;em>She looks in her purse and finds a 100 peso note. She hands the note to the seller, who nods and hands her the eggs. She leaves without getting any change, nor did she expect to.&lt;/em>&lt;/p></description></item><item><title>Restarting your sales after a coronavirus lockdown</title><link>https://boazsobrado.com/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/</link><pubDate>Mon, 20 Apr 2020 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/</guid><description>&lt;p>As I write this, a novel strain of coronavirus (colloquially known as &lt;em>the rona&lt;/em>) has a global lockdown. Unemployment rates are skyrocketing, the stock market has dropped substantially, but not nearly as much as consumer sentiment. Millions of businesses around the world, from small businesses like nail salons to tech giants like Airbnb are now facing the same problem: no revenues. At this point, we can only guess how long lockdowns will last. But there are encouraging signs that governments have decided to open. &lt;a href="https://www.euractiv.com/section/coronavirus/news/austrias-government-presents-covid-19-exit-schedule/">Austria plans to be open in May&lt;/a>. For cash strapped businesses, it is essential to get back into action as soon as possible.&lt;/p></description></item><item><title>Automating my business</title><link>https://boazsobrado.com/blog/2019/08/12/automating-my-business/</link><pubDate>Mon, 12 Aug 2019 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2019/08/12/automating-my-business/</guid><description>&lt;p>As a small business owner keeping track of things can be surprisingly difficult: how you spend your money, who owes you money, who you owe money, what are your expenses, margins, operating costs&amp;hellip;&lt;/p>
 &lt;p>If you have multiple revenue streams from multiple platforms, you can quickly reach a point where you ignore basic things, like for example how much you are making exactly. Specially when you are focused on numerous other things as you try to scale your business. I am guilty of having neglected this in the past.&lt;/p></description></item><item><title>Where I was in 2018</title><link>https://boazsobrado.com/blog/2019/01/13/where-i-was-in-2018/</link><pubDate>Sun, 13 Jan 2019 22:52:56 +0800</pubDate><guid>https://boazsobrado.com/blog/2019/01/13/where-i-was-in-2018/</guid><description>&lt;p>I spent a lot of time this year on the road. I started 2018 on a tropical beach in the Phillipines and ended it in Lisbon, with a lot of trips in between. Given that I spent a good part of this year playing around with maps for my thesis, I thought it would be fun to use my Google Location Services data to animate my movement this year. Here is the result:&lt;/p>
-&lt;p>&lt;img alt="image" src="https://boazsobrado.com/images/2me2018.gif">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/2me2018.gif" alt="image">&lt;/p>
 &lt;h2 id="how-did-i-make-this-animation">How did I make this animation?&lt;/h2>
 &lt;p>First, I download my Location History using &lt;a href="https://takeout.google.com/settings/takeout">Google Takeout&lt;/a>. Then, I extracted the relevant data from the resulting JSON file using this code in R:&lt;/p></description></item><item><title>Automating SMS &amp; email</title><link>https://boazsobrado.com/blog/2018/11/08/automating-sms-email/</link><pubDate>Thu, 08 Nov 2018 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2018/11/08/automating-sms-email/</guid><description>&lt;p>I face the following problem: I get a lot of similarly formatted emails that require some sort of action that can in theory be easily automated. For example, I get Woocommerce order notifications that I want to forward selectively to my team via SMS.&lt;/p>
 &lt;p>It turns out there is no Gmail extension that will help you do that (or at least I didn&amp;rsquo;t find anything like it). A better programmer would alter the php code of the Woocommerce site to interact with the API of a service like &lt;a href="https://www.smsglobal.com/">SMSGLOBAL&lt;/a>. I couldn&amp;rsquo;t quite wrap my head around the php code, and it didn&amp;rsquo;t really solve the issue of the other types of emails I get that require relatively automation.&lt;/p></description></item><item><title>Tale of two Johns</title><link>https://boazsobrado.com/blog/2018/09/02/tale-of-two-johns/</link><pubDate>Sun, 02 Sep 2018 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2018/09/02/tale-of-two-johns/</guid><description>&lt;p>There has recently been a flurry of articles with a nice soundbite recycled from &lt;a href="https://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100">2015&lt;/a>. The title of the &lt;a href="http://observer.com/2018/04/diversity-women-in-the-workplace-john/">Observer&amp;rsquo;s&lt;/a> version of the article is:&lt;/p>
@@ -168,16 +608,16 @@ The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;Th
 &lt;p>After some travelling in Latin America I realised this was simply not true. Cuba is exceptionally adept at original names (e.g. Guantanamo). Even neighbouring Nicaragua seemed to have more varied names. It turns out Costa Ricans are particularly unoriginal with names, after all approximately 10% of the population&amp;rsquo;s last name is &lt;a href="http://forebears.io/costa-rica#surnames">Rodriguez, Vargas, Jimenez, Mora or Rojas&lt;/a>. Similarly, 16% of all locations were named after a saint.&lt;/p></description></item><item><title>Bayesian Images</title><link>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</link><pubDate>Mon, 22 May 2017 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2017/05/22/bayesian-images/</guid><description>&lt;p>Graphs to accompany my poster presentation.&lt;/p>
 &lt;h2 id="the-data-set">The data set&lt;/h2>
 &lt;p>The generated data is plotted below:
-&lt;img alt="data" src="https://boazsobrado.com/images/explorePlot.png">&lt;/p>
+&lt;img src="https://boazsobrado.com/images/explorePlot.png" alt="data">&lt;/p>
 &lt;h2 id="metropolis-hastings-algorithm">Metropolis Hastings Algorithm&lt;/h2>
-&lt;p>&lt;img alt="mhalgo" src="https://boazsobrado.com/images/metropolis_hastings2.gif">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/metropolis_hastings2.gif" alt="mhalgo">&lt;/p>
 &lt;p>This visual explanation of the Metropolis Hastings algorithm shows the proposal and the true density along with the Metropolis Hastings step. It was inspired and adapted from code by &lt;a href="https://www.researchgate.net/profile/Balazs_Toeroek6">Balazs Torok&lt;/a>.&lt;/p>
 &lt;h2 id="diagnostic-plots-for-beta-2-via-gibbs-sampler">Diagnostic Plots for Beta 2 via Gibbs Sampler&lt;/h2>
 &lt;h3 id="autocorrelation-plot">Autocorrelation Plot&lt;/h3>
-&lt;p>&lt;img alt="acf" src="https://boazsobrado.com/images/acfb2.png">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/acfb2.png" alt="acf">&lt;/p>
 &lt;p>The autocorrelations are negligable, suggesting good mixing.&lt;/p>
 &lt;h3 id="running-means-plot">Running Means Plot&lt;/h3>
-&lt;p>&lt;img alt="rmp" src="https://boazsobrado.com/images/b2runningmeans.png">&lt;/p>
+&lt;p>&lt;img src="https://boazsobrado.com/images/b2runningmeans.png" alt="rmp">&lt;/p>
 &lt;p>The running means have settled.&lt;/p></description></item><item><title>Thirteen hours in Rotterdam</title><link>https://boazsobrado.com/blog/2017/01/11/thirteen-hours-in-rotterdam/</link><pubDate>Wed, 11 Jan 2017 11:32:32 -0600</pubDate><guid>https://boazsobrado.com/blog/2017/01/11/thirteen-hours-in-rotterdam/</guid><description>&lt;p>Oscar Wilde once wrote:&lt;/p>
 &lt;blockquote>
 &lt;p>“Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.”&lt;/p>
@@ -189,13 +629,13 @@ The first person, whose hand landed on the crypto exchanges, said, &amp;ldquo;Th
 &lt;p>These reasons led us – Dora and Boaz, authors of this article – to set up our websites as a means of learning and practising a bit of coding. We used amazing open source projects and their online tutorials as guidance, however, we have found that these tutorials are usually not written for people with no previous background in any sort of coding/hacking. Consequently, we have decided to write a tutorial in simple English in the hope that it will make it easier for you to set up your own website and really understand the logic behind each step.&lt;/p></description></item><item><title>Boaz's Review of Books: Violence, elaborate lies and a literary journey through China and Africa</title><link>https://boazsobrado.com/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/</link><pubDate>Mon, 18 Apr 2016 09:48:37 -0600</pubDate><guid>https://boazsobrado.com/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/</guid><description>&lt;p>The books I finished reading recently that I thought might be interesting to comment upon were Steven Pinker’s &lt;a href="https://www.wikiwand.com/en/The_Better_Angels_of_Our_Nature">The better Angels of Our Nature&lt;/a>, Mo Yan’s &lt;a href="https://www.wikiwand.com/en/Big_Breasts_and_Wide_Hips">Big Breast’s and Wide Hips&lt;/a>, Kapuscinski’s &lt;a href="https://www.wikiwand.com/en/The_Shadow_of_the_Sun">The Shadow of the Sun&lt;/a>, Robert Mazur’s &lt;a href="https://www.goodreads.com/book/show/6657841-the-infiltrator">Infiltrator&lt;/a> and David Maurer’s &lt;a href="https://www.goodreads.com/book/show/403452.The_Big_Con">Big Con&lt;/a> .
 &lt;br>
 &lt;br>
-Steven Pinker, a psychologist at Harvard, wrote a &lt;a href="http://www.amazon.co.uk/review/R2F21HEM6W56FI/ref=cm_cr_dp_title?ie=UTF8&amp;ASIN=0141034645&amp;channel=detail-glance&amp;nodeID=266239&amp;store=books">(way too long)&lt;/a> book to argue the world is becoming less, not more violent. What about ISIS, Ukraine, gang warfare and mass shootings? Terrible things, but not nearly as violent as the Thirty Year War or Genghis Khan. This is based on relative homicide rates, or simply put: how many people die a violent death as a percentage of the population. You might be one of those paleo diet people who idealises the “peaceful” times of back when we were hunter-gatherers, living in the comfort of nature eating fruits off trees and fish out of the water. It turns out that was the most violent time we ever lived. In fact, even in the last 50 years there has been a substantial decrease in violence in the world. Even terrorism isn’t what it &lt;a href="http://globalriskinsights.com/2016/03/19640/">used to be&lt;/a>.
+Steven Pinker, a psychologist at Harvard, wrote a &lt;a href="http://www.amazon.co.uk/review/R2F21HEM6W56FI/ref=cm_cr_dp_title?ie=UTF8&amp;amp;ASIN=0141034645&amp;amp;channel=detail-glance&amp;amp;nodeID=266239&amp;amp;store=books">(way too long)&lt;/a> book to argue the world is becoming less, not more violent. What about ISIS, Ukraine, gang warfare and mass shootings? Terrible things, but not nearly as violent as the Thirty Year War or Genghis Khan. This is based on relative homicide rates, or simply put: how many people die a violent death as a percentage of the population. You might be one of those paleo diet people who idealises the “peaceful” times of back when we were hunter-gatherers, living in the comfort of nature eating fruits off trees and fish out of the water. It turns out that was the most violent time we ever lived. In fact, even in the last 50 years there has been a substantial decrease in violence in the world. Even terrorism isn’t what it &lt;a href="http://globalriskinsights.com/2016/03/19640/">used to be&lt;/a>.
 &lt;br>
 &lt;br>
 ![terrorist attacks in Europe] (&lt;a href="http://i0.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/terrorist_attacks_in_western_europe_since_1970_n-557x1024.jpg">http://i0.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/terrorist_attacks_in_western_europe_since_1970_n-557x1024.jpg&lt;/a>)
 &lt;br>
 &lt;br>&lt;/p></description></item><item><title>Donald Trump and Zuckerberg's Matrix</title><link>https://boazsobrado.com/blog/2016/02/29/donald-trump-and-zuckerbergs-matrix/</link><pubDate>Mon, 29 Feb 2016 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2016/02/29/donald-trump-and-zuckerbergs-matrix/</guid><description>&lt;p>Prediction markets have the Republican nomination for President of the USA going to billionaire reality TV host and megalomaniac Donald Trump. On the other side of the aisle, self-described socialist Sanders is making Hillary Clinton’s campaign sweat. This isn’t “politics as usual” for anyone except the writers of The Simpsons.
-&lt;img alt="img" src="http://www.snopes.com/wp-content/uploads/2015/09/SimpsonsTrumpEpisode2000.jpg">
+&lt;img src="http://www.snopes.com/wp-content/uploads/2015/09/SimpsonsTrumpEpisode2000.jpg" alt="img">
 According to the party decides theory (or at least my interpretation of &lt;a href="http://fivethirtyeight.com/tag/the-party-decides/">Nate Silver’s interpretation&lt;/a>) the party, as a loose coalition of opinion forming individuals, can heavily weigh in on who gets nominated. Yet they took so long to settle on Rubio that Trump is now the likeliest candidate. Perhaps this is a sign of the GOP’s weakness, or perhaps they hate Cruz more than they hate Trump. These are all strong arguments that have been well &lt;a href="http://fivethirtyeight.com/features/dont-assume-conservatives-will-rally-behind-trump/">argued elsewhere&lt;/a>, but I would like to present an alternative one: the party just isn’t as effective at forming opinions as it used to be, because social media has created a pervasive platform for radicalisation.&lt;/p></description></item><item><title>Boaz's Review of Books</title><link>https://boazsobrado.com/blog/2016/02/17/boazs-review-of-books/</link><pubDate>Wed, 17 Feb 2016 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2016/02/17/boazs-review-of-books/</guid><description>&lt;p>A few books I recently finished reading are Ben Bernanke&amp;rsquo;s &lt;a href="http://www.nytimes.com/2015/10/25/books/review/ben-bernankes-the-courage-to-act.html">Courage to act&lt;/a>, Dr Philip Tetlock&amp;rsquo;s &lt;a href="http://www.economist.com/news/books-and-arts/21666098-forecasting-talent-luckily-it-can-be-learned-unclouded-vision">Superforecasting&lt;/a>, Peter Thiel’s &lt;a href="http://zerotoonebook.com/">Zero to One&lt;/a>, an unofficial biography on George Soros, and collection of druggie short stories titled &lt;a href="http://www.independent.co.uk/arts-entertainment/books/book-review-meeting-god-down-the-pub-the-acid-house-irvine-welsh-cape-pounds-999-1370403.html">Acid House&lt;/a> by Irvine Welsh. I do not expect to do justice to the arguments in the books (read a real book review if you want that), I&amp;rsquo;m just sharing the lessons I learned from them as a little exercise.&lt;/p>
 &lt;p>Superforecasting is a persuasive essay by a well known academic, Dr Philip Tetlock, on how hard it is to make good decisions. The first half sets the ground by arguing that most &amp;ldquo;expert&amp;rdquo; predictions are either wrong or too vague to assess. There is an entire cottage industry of pundits and hacks built upon the fact that human beings crave certainty and simple narratives in an increasingly uncertain world. Unlike the authors, I don’t think this industry will ever disappear: we’ve still got horoscopes in the internet age. Humans are attracted to anecdotal evidence like we are to junk food: it is appealing for evolutionary reasons, even if we know it shouldn’t be.&lt;/p></description></item><item><title>What I read in 2015</title><link>https://boazsobrado.com/blog/2015/12/27/what-i-read-in-2015/</link><pubDate>Sun, 27 Dec 2015 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2015/12/27/what-i-read-in-2015/</guid><description>&lt;p>I bought my Kindle slightly over a year ago, and since it has accompanied me everywhere I&amp;rsquo;ve been.
 It has provided me with entertainment on long journeys and education in subjects where I had none. I would like to share some of my favourite quotes. I have sorted them based on when I started reading them, with some slight editing.&lt;/p>
@@ -204,9 +644,9 @@ It has provided me with entertainment on long journeys and education in subjects
 &lt;p>Besides, pretexts for taking away the property are never wanting; for he who has once begun to live by robbery will always find pretexts for seizing what belongs to others; but reasons for taking life, on the contrary, are more difficult to find and sooner lapse.&lt;/p></description></item><item><title>Where I slept in 2015</title><link>https://boazsobrado.com/blog/2015/12/22/where-i-slept-in-2015/</link><pubDate>Tue, 22 Dec 2015 22:22:16 -0800</pubDate><guid>https://boazsobrado.com/blog/2015/12/22/where-i-slept-in-2015/</guid><description>&lt;p>This year has been an adventure. I&amp;rsquo;ve been on three continents, countless countries and dozens of cities.
 I thought it would be an interesting project to quantify it all by visualising on a map the places where I slept.
 This is the result:
-&lt;img alt="Asia" src="https://boazsobrado.com/images/Asia2015.png">
-&lt;img alt="EU" src="https://boazsobrado.com/images/EU2015.png">
-&lt;img alt="USA" src="https://boazsobrado.com/images/USA2015.png">&lt;/p>
+&lt;img src="https://boazsobrado.com/images/Asia2015.png" alt="Asia">
+&lt;img src="https://boazsobrado.com/images/EU2015.png" alt="EU">
+&lt;img src="https://boazsobrado.com/images/USA2015.png" alt="USA">&lt;/p>
 &lt;p>imgLeft: images/USA2015.png&lt;/p>
 &lt;p>In case you are interested in how I did it you can find the code below. I was inspired by &lt;a href="http://blog.revolutionanalytics.com/2015/11/marriott.html">this&lt;/a> blog post.&lt;/p>
 &lt;pre>&lt;code>library(readr)
@@ -250,7 +690,7 @@ Yet the problem with our handling of crises is that we often wait for one to hap
 Humans are vulnerable to &lt;a href="https://en.wikipedia.org/wiki/Psychophysics">overlooking gradual phenomena&lt;/a>
 with no easily distinguishable onset.
 There is an ongoing global demographic transition and it will influence most shifts in the next 25 years, be it in politics, business or international relations.
-&lt;img alt="Demographic onion" src="http://static1.squarespace.com/static/5408e9b3e4b0e5142540c5d3/t/55ef18a9e4b0845c040109e2/1441732779464/" title="An onion">&lt;/p></description></item><item><title>Using Google Maps API: Mol Bubi Competition</title><link>https://boazsobrado.com/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/</link><pubDate>Thu, 05 Nov 2015 11:36:16 +0100</pubDate><guid>https://boazsobrado.com/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/</guid><description>&lt;p>A few friends and I are involved in the Budapest public bicycle data science &lt;a href="https://dms.sztaki.hu/bubi/#/app/home">competition&lt;/a>. As of right now we are in the top ten, although in all honesty, it hasn&amp;rsquo;t really started yet.
+&lt;img src="http://static1.squarespace.com/static/5408e9b3e4b0e5142540c5d3/t/55ef18a9e4b0845c040109e2/1441732779464/" alt="Demographic onion" title="An onion">&lt;/p></description></item><item><title>Using Google Maps API: Mol Bubi Competition</title><link>https://boazsobrado.com/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/</link><pubDate>Thu, 05 Nov 2015 11:36:16 +0100</pubDate><guid>https://boazsobrado.com/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/</guid><description>&lt;p>A few friends and I are involved in the Budapest public bicycle data science &lt;a href="https://dms.sztaki.hu/bubi/#/app/home">competition&lt;/a>. As of right now we are in the top ten, although in all honesty, it hasn&amp;rsquo;t really started yet.
 We signed a non-disclosure agreement, so I cannot really share any cool details. What I can share however, is the function I wrote in R to get calculate the distances and duration of bike trips using Google Maps&amp;rsquo; &lt;a href="https://developers.google.com/maps/?hl=en">API&lt;/a>.&lt;/p>
 &lt;pre>&lt;code>#distance calucations
 #### This script uses RCurl and RJSONIO to download data from Google's API

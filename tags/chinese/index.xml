@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chinese on Boaz Sobrado's Website</title><link>https://boazsobrado.com/tags/chinese/</link><description>Recent content in Chinese on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Sun, 15 Dec 2024 13:11:22 +0800</lastBuildDate><atom:link href="https://boazsobrado.com/tags/chinese/index.xml" rel="self" type="application/rss+xml"/><item><title>Chinese Radicals (部首) Reference Guide</title><link>https://boazsobrado.com/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/</link><pubDate>Sun, 15 Dec 2024 13:11:22 +0800</pubDate><guid>https://boazsobrado.com/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/</guid><description>&lt;p>I put this together using original Chinese source material and organised it using Claude. I&amp;rsquo;ve found it useful while learning to write in Chinese, I&amp;rsquo;ll share here in case its useful to someone else.&lt;/p>
+&lt;h2 id="1-nature-and-environment">1. Nature and Environment&lt;/h2>
+&lt;h3 id="celestial-and-weather-elements">Celestial and Weather Elements&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>日&lt;/td>
+ &lt;td>日字旁&lt;/td>
+ &lt;td>多与太阳或时间有关&lt;/td>
+ &lt;td>晓 映 时 早 晚 昨 明 晴&lt;/td>
+ &lt;td>Sun, day&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>雨&lt;/td>
+ &lt;td>雨字头&lt;/td>
+ &lt;td>多与天气气象有关&lt;/td>
+ &lt;td>雪 雷 零 雾 需 震 霉 霖&lt;/td>
+ &lt;td>Rain&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>冫&lt;/td>
+ &lt;td>两点水&lt;/td>
+ &lt;td>多与冰水寒冷有关&lt;/td>
+ &lt;td>冰 凉 净 冲 冷 冻 次 准&lt;/td>
+ &lt;td>Ice&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="landscape-and-earth">Landscape and Earth&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>山&lt;/td>
+ &lt;td>山字旁&lt;/td>
+ &lt;td>多与山和陆地有关&lt;/td>
+ &lt;td>岸 岛 出 岭 岩&lt;/td>
+ &lt;td>Mountain&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>土&lt;/td>
+ &lt;td>提土旁&lt;/td>
+ &lt;td>多与大地和建筑有关&lt;/td>
+ &lt;td>坪 坡 壁 块 塘 埋 堆 场&lt;/td>
+ &lt;td>Earth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>石&lt;/td>
+ &lt;td>石字旁&lt;/td>
+ &lt;td>多与石头有关&lt;/td>
+ &lt;td>砖 砖 矿 破 砍&lt;/td>
+ &lt;td>Stone&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="water-and-liquids">Water and Liquids&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>氵&lt;/td>
+ &lt;td>三点水&lt;/td>
+ &lt;td>多与水有关&lt;/td>
+ &lt;td>漂 河 清 波 满 湖 流 海&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>水&lt;/td>
+ &lt;td>水字旁&lt;/td>
+ &lt;td>多与水有关&lt;/td>
+ &lt;td>汗 泪 洋 海&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="2-living-beings">2. Living Beings&lt;/h2>
+&lt;h3 id="humans-and-body-parts">Humans and Body Parts&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>亻&lt;/td>
+ &lt;td>单人旁&lt;/td>
+ &lt;td>多与人有关&lt;/td>
+ &lt;td>住 修 做 们 位 伴 件 休&lt;/td>
+ &lt;td>Person&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>口&lt;/td>
+ &lt;td>囗字框&lt;/td>
+ &lt;td>围起来或口的意思&lt;/td>
+ &lt;td>圆 圓 回 囚 周 图 国&lt;/td>
+ &lt;td>Mouth, enclosure&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>目&lt;/td>
+ &lt;td>目字旁&lt;/td>
+ &lt;td>多与眼睛有关&lt;/td>
+ &lt;td>看 眼 睛 眨 眯 盯 眉&lt;/td>
+ &lt;td>Eye&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>手&lt;/td>
+ &lt;td>手字旁&lt;/td>
+ &lt;td>多与手或手的动作有关&lt;/td>
+ &lt;td>拜 拿 拳 掌 摊 摩 擦&lt;/td>
+ &lt;td>Hand&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>月&lt;/td>
+ &lt;td>月字旁&lt;/td>
+ &lt;td>多与人体器官骨肉等有关&lt;/td>
+ &lt;td>胖 脑 朝 胸 腰 脸 腿 脚&lt;/td>
+ &lt;td>Body, flesh&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="animals">Animals&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>犭&lt;/td>
+ &lt;td>反犬旁&lt;/td>
+ &lt;td>多与兽类动物有关&lt;/td>
+ &lt;td>猫 狗 猴 猪 狼 狮&lt;/td>
+ &lt;td>Animal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>鸟&lt;/td>
+ &lt;td>鸟字旁&lt;/td>
+ &lt;td>多与鸟类有关&lt;/td>
+ &lt;td>鸡 鸭 鹤 鹰 鹊 鸦&lt;/td>
+ &lt;td>Bird&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>虫&lt;/td>
+ &lt;td>虫字旁&lt;/td>
+ &lt;td>多与虫类等有关&lt;/td>
+ &lt;td>蜜蜂 蚂蚁 蜻蜓 蛐蛐 蝴蝶&lt;/td>
+ &lt;td>Insect&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>马&lt;/td>
+ &lt;td>马字旁&lt;/td>
+ &lt;td>多与马有关&lt;/td>
+ &lt;td>骑 驴&lt;/td>
+ &lt;td>Horse&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>牜&lt;/td>
+ &lt;td>提牛旁&lt;/td>
+ &lt;td>多与牛等畜类有关&lt;/td>
+ &lt;td>牡 牢 物 牧 牲 特 犊&lt;/td>
+ &lt;td>Cow, cattle&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="3-man-made-elements">3. Man-made Elements&lt;/h2>
+&lt;h3 id="buildings-and-structures">Buildings and Structures&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>门&lt;/td>
+ &lt;td>门字框&lt;/td>
+ &lt;td>多与门有关&lt;/td>
+ &lt;td>闪 闭 问 闪 闷 闻 闸 间&lt;/td>
+ &lt;td>Door&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>宀&lt;/td>
+ &lt;td>宝盖头&lt;/td>
+ &lt;td>与房子有遮盖的场所有关&lt;/td>
+ &lt;td>宿 安 定 完 穿 寒 守 宫&lt;/td>
+ &lt;td>Roof&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>广&lt;/td>
+ &lt;td>广字头&lt;/td>
+ &lt;td>多与房屋建筑有关&lt;/td>
+ &lt;td>床 座 席 应 底 度&lt;/td>
+ &lt;td>Building&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>户&lt;/td>
+ &lt;td>户字头&lt;/td>
+ &lt;td>多与门户有关&lt;/td>
+ &lt;td>房 局 所 房 局 扇 库 庭&lt;/td>
+ &lt;td>Household&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>穴&lt;/td>
+ &lt;td>穴字头&lt;/td>
+ &lt;td>多洞穴房屋有关&lt;/td>
+ &lt;td>穷 空 突 窗 窘 窃 穿 容&lt;/td>
+ &lt;td>Cave, hole&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="tools-and-objects">Tools and Objects&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>刂&lt;/td>
+ &lt;td>立刀&lt;/td>
+ &lt;td>多与刀或使用刀有关&lt;/td>
+ &lt;td>割 刻 划 列 到 刑 创 别&lt;/td>
+ &lt;td>Knife&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>车&lt;/td>
+ &lt;td>车字旁&lt;/td>
+ &lt;td>多与车有关&lt;/td>
+ &lt;td>轮 辆 轨 转 轻 斩 软&lt;/td>
+ &lt;td>Vehicle&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>钅&lt;/td>
+ &lt;td>金字旁&lt;/td>
+ &lt;td>多与金属有关&lt;/td>
+ &lt;td>钱 铃 铜 铁 银 链 镜 错&lt;/td>
+ &lt;td>Metal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>王&lt;/td>
+ &lt;td>王字旁&lt;/td>
+ &lt;td>多与玉器有关&lt;/td>
+ &lt;td>珠 理 班 球 现 班&lt;/td>
+ &lt;td>Jade, king&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="4-abstract-concepts-and-actions">4. Abstract Concepts and Actions&lt;/h2>
+&lt;h3 id="speech-and-thought">Speech and Thought&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>讠&lt;/td>
+ &lt;td>言字旁&lt;/td>
+ &lt;td>多与说话有关&lt;/td>
+ &lt;td>说 话 诉 讲 谈 许 让 该&lt;/td>
+ &lt;td>Speech&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>心&lt;/td>
+ &lt;td>心字底&lt;/td>
+ &lt;td>多与心理活动有关&lt;/td>
+ &lt;td>想 愿 意 感 思 急 息 忍&lt;/td>
+ &lt;td>Heart, mind&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>忄&lt;/td>
+ &lt;td>竖心旁&lt;/td>
+ &lt;td>多与内心活动有关&lt;/td>
+ &lt;td>怕 情 怪 憧 悄 慢 情 懒&lt;/td>
+ &lt;td>Heart, feelings&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="movement-and-action">Movement and Action&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>辶&lt;/td>
+ &lt;td>走之儿&lt;/td>
+ &lt;td>多与行走等脚的动作或道路有关&lt;/td>
+ &lt;td>远 这 环 连 达 运 迎 送&lt;/td>
+ &lt;td>Walking&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>足&lt;/td>
+ &lt;td>足字旁&lt;/td>
+ &lt;td>多表示脚或脚的动作&lt;/td>
+ &lt;td>跑 跳 跪 跳 踏 踢 跟 蹲&lt;/td>
+ &lt;td>Foot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>力&lt;/td>
+ &lt;td>力字旁&lt;/td>
+ &lt;td>多与力量、用力有关&lt;/td>
+ &lt;td>功 动 助 努 劲&lt;/td>
+ &lt;td>Power, force&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="materials-and-textiles">Materials and Textiles&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>纟&lt;/td>
+ &lt;td>绞丝旁&lt;/td>
+ &lt;td>多与丝线有关&lt;/td>
+ &lt;td>练 红 绿 绝 线 纸 织 编&lt;/td>
+ &lt;td>Silk, thread&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>系&lt;/td>
+ &lt;td>系字底&lt;/td>
+ &lt;td>多与丝绳织物有关&lt;/td>
+ &lt;td>系 素 索 紧 累 紫 索 繁&lt;/td>
+ &lt;td>Connect, system&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>巾&lt;/td>
+ &lt;td>巾字旁&lt;/td>
+ &lt;td>多与布织物有关&lt;/td>
+ &lt;td>帘 帮 帆 帐 常 布 希 帜&lt;/td>
+ &lt;td>Cloth&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="miscellaneous-elements">Miscellaneous Elements&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Radical&lt;/th>
+ &lt;th>Name&lt;/th>
+ &lt;th>Meaning Description&lt;/th>
+ &lt;th>Example Characters&lt;/th>
+ &lt;th>English Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>火/灬&lt;/td>
+ &lt;td>火字旁/四点底&lt;/td>
+ &lt;td>多与火有关&lt;/td>
+ &lt;td>灯 烟 炒 灰 灭 炸&lt;/td>
+ &lt;td>Fire&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>礻&lt;/td>
+ &lt;td>示字旁&lt;/td>
+ &lt;td>多与祭祀神鬼祈福有关&lt;/td>
+ &lt;td>礼 社 祈 神 祖 祥 祸 福&lt;/td>
+ &lt;td>Worship, spirit&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>艹&lt;/td>
+ &lt;td>草字头&lt;/td>
+ &lt;td>多与花草植物有关&lt;/td>
+ &lt;td>茶 苦 花 苗 蓝 草 芬 英&lt;/td>
+ &lt;td>Grass, plant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>竹&lt;/td>
+ &lt;td>竹字头&lt;/td>
+ &lt;td>与竹子或竹制品有关&lt;/td>
+ &lt;td>笛 竿 筒 管 篮 笛 箱 篇&lt;/td>
+ &lt;td>Bamboo&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>
