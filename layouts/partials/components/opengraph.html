@@ -1,7 +1,17 @@
 <meta property="og:title" content="{{ partial "get-title" . }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-{{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
-{{ with $icon }}
+
+{{ $image := "" }}
+{{ with .Params.featuredImage }}
+    {{ $image = . | absURL }}
+{{ else }}
+    {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
+    {{ with $icon }}
+        {{ $image = . }}
+    {{ end }}
+{{ end }}
+
+{{ with $image }}
 <meta property="og:image" content="{{ . }}">
 {{ end }}
 

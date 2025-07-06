@@ -3,11 +3,20 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 
-{{ with .Resources.GetMatch "**.jpg" }}
-    <meta name="twitter:image" content="{{ .RelPermalink }}">
+{{ $image := "" }}
+{{ with .Params.featuredImage }}
+    {{ $image = . | absURL }}
 {{ else }}
-    {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
-    {{ with $icon }}
-    <meta name="twitter:image" content="{{ . }}">
+    {{ with .Resources.GetMatch "**.jpg" }}
+        {{ $image = .RelPermalink }}
+    {{ else }}
+        {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
+        {{ with $icon }}
+            {{ $image = . }}
+        {{ end }}
     {{ end }}
+{{ end }}
+
+{{ with $image }}
+<meta name="twitter:image" content="{{ . }}">
 {{ end }}
