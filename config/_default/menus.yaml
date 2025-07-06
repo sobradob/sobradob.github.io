@@ -12,7 +12,5 @@ main:
     url: '/series/media'
     weight: 4
   - name: CV
-    url: '/202507_BoazSobradoCV_short.pdf'
+    url: '/202507_boazsobradocv_short.pdf'
     weight: 5
-    params:
-      target: '_blank'
