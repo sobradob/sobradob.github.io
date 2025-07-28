@@ -3,16 +3,22 @@ title: Experience
 draft: false
 enableEmoji: true
 experiences:
-  - title: Director of Marketing Analytics
+  - title: Director of Growth, Analytics, and MarTech
     organization:
       name: Capital.com
       url: capital.com
     dates: "2023 - present"
     location: London, UK
     writeup: >   
-      Capital.com is one of Europe's fastest growing trading platforms.
+      Capital.com is one of the world's fastest growing trading platforms. Responsibilites:
 
-      My job is to ensure its marketing budget gets spent as efficiently as possible. 
+      - Lead growth and acquisition strategy by deploying a multi-million marketing budget and leading various teams across Analytics, Engineering, SEO, and CRM; collaborating directly with C-suite stakeholders and key partners (Google, Apple).
+
+      - Architect extensive marketing experiments and analytics initiatives (creative testing, CRM & website AB testing, media mix modeling, bonusing) to increase performance marketing efficiency, enabling the platform’s 33% YoY growth in 2024.
+
+      - Drove significant upgrades to MarTech infrastructure and data strategy using predictive modeling, conversion optimization, and audience generation, leading to significant improvements in uptime, resilience and accuracy.
+      
+      - Lead turnaround of the Refer-a-Friend, SEO and CRM divisions, reversing a multi-year decline and delivering growth (e.g. 10x growth in RAF) through data-driven interventions, operational efficiency increases and technology investments.
 
 
   - title: Lead Growth Data Analyst

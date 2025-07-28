@@ -45,8 +45,8 @@ widget:
 
 ## Introduction
 
-FinTech analyst & commentator with an interest in innovative solutions for individuals on the margins of society. Cited by [CNBC, Fortune, WIRED, NASDAQ.com]((/series/media/)), the Human Rights Foundation and others. As seen on the main stage of Bitcoin 2021 and occasionally Nigerian television.
+Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. A Top 100 Forbes Fintech contributor, I’ve been cited by [CNBC, Fortune, WIRED, NASDAQ.com]((/series/media/)), the Human Rights Foundation and others.vWith over 10 years of experience in digital marketing & growth, I am currently the Director of Growth & Marketing Technology at a global trading platform with over 500k users handling over $1.7 trillion in trading volume.
 
-Commercially aware, data savvy and tech literate. Professionally focused on growth strategy & analytics for FinTech companies. Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about using the internet to bring opportunities to those who need them most.
+Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about how technology impacts people that society sometimes [overlooks](www.on-the-margin.com).
 
-Have written & spoken about topics ranging from cross-border transfers, the efficacy of the current KYC/AML regime, web3 gaming & the "Metaverse", decentralised finance, futures & automated market makers, the use of cryptocurrencies in authoritarian nations and the difficulties of measuring Bitcoin markets.
+Currently interested in: stablecoins and their consequences (e.g. global from day one businesses), Bitcoin and its consequences (e.g. long term trends in government debt), AI-enabled social behaviour (e.g. social trading or AI driven coaching), the quantified self (e.g. movement, health), learning Mandarin & running ultramarathons.
