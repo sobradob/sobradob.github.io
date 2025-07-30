@@ -10,6 +10,7 @@ GOOGLE_DOC_ID="1BtkcTFTMQb9OcFOpM2-ex3Ynm31VcJPaItTDGnZACAQ"
 CV_FILENAME="boaz_sobrado_cv.pdf"
 STATIC_DIR="static"
 TEMP_FILE="temp_cv.pdf"
+TEMP_FILE_NO_FIRST_PAGE="temp_cv_no_first_page.pdf"
 
 # Colors for output
 RED='\033[0;31m'
@@ -47,6 +48,18 @@ else
     exit 1
 fi
 
+# Remove the first page using Ghostscript
+echo -e "${YELLOW}✂️  Removing first page from PDF...${NC}"
+if gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -dFirstPage=2 -sOutputFile="$TEMP_FILE_NO_FIRST_PAGE" "$TEMP_FILE"; then
+    echo -e "${GREEN}✅ Successfully removed first page${NC}"
+    # Clean up the original temp file
+    rm -f "$TEMP_FILE"
+else
+    echo -e "${RED}❌ Failed to remove first page from PDF${NC}"
+    rm -f "$TEMP_FILE" "$TEMP_FILE_NO_FIRST_PAGE"
+    exit 1
+fi
+
 # Backup the existing CV (optional)
 if [ -f "$STATIC_DIR/$CV_FILENAME" ]; then
     cp "$STATIC_DIR/$CV_FILENAME" "$STATIC_DIR/${CV_FILENAME}.backup"
@@ -54,7 +67,7 @@ if [ -f "$STATIC_DIR/$CV_FILENAME" ]; then
 fi
 
 # Replace the existing CV
-mv "$TEMP_FILE" "$STATIC_DIR/$CV_FILENAME"
+mv "$TEMP_FILE_NO_FIRST_PAGE" "$STATIC_DIR/$CV_FILENAME"
 echo -e "${GREEN}✅ CV successfully updated at $STATIC_DIR/$CV_FILENAME${NC}"
 
 # Show file info
