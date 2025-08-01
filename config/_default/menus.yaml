@@ -14,3 +14,6 @@ main:
   - name: CV
     url: '/boaz_sobrado_cv.pdf'
     weight: 5
+  - name: Contact Me
+    url: /contact/
+    weight: 6
