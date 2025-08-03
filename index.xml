@@ -1,28 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Boaz Sobrado's Website</title><link>https://boazsobrado.com/</link><description>Recent content on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://boazsobrado.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact Me</title><link>https://boazsobrado.com/contact/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://boazsobrado.com/contact/</guid><description>&lt;h2 id="get-in-touch">Get in Touch&lt;/h2>
-&lt;h3 id="email">Email&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>General inquiries:&lt;/strong> &lt;a href="mailto:me@boazsobrado.com">me@boazsobrado.com&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="social-media">Social Media&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://twitter.com/sobradob">Twitter (@sobradob)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.linkedin.com/in/boazsobrado/">LinkedIn&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/sobradob/">GitHub&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="professional-services">Professional Services&lt;/h3>
-&lt;p>I&amp;rsquo;m available for:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Consulting:&lt;/strong> FinTech strategy, growth marketing, and data analytics&lt;/li>
-&lt;li>&lt;strong>Speaking:&lt;/strong> Cryptocurrency, financial technology, and digital marketing topics&lt;/li>
-&lt;li>&lt;strong>Media interviews:&lt;/strong> Expert commentary on FinTech and crypto markets&lt;/li>
-&lt;li>&lt;strong>Writing:&lt;/strong> Guest articles and thought leadership pieces&lt;/li>
-&lt;/ul>
-&lt;p>Response time: I typically respond to emails within 24-48 hours during business days.&lt;/p>
-&lt;h2 id="schedule-a-meeting">Schedule a Meeting&lt;/h2>
-&lt;p>Book a call directly through my calendar:&lt;/p>
-&lt;div style="width: 100%; height: 500px; margin: 20px 0;">
-&lt;iframe src="https://cal.com/boaz-sobrado/15min" width="100%" height="100%" frameborder="0">&lt;/iframe>
-&lt;/div></description></item><item><title>MoneroTalk Podcast - Keeping Bitcoin's Cypherpunk Dream Alive</title><link>https://boazsobrado.com/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/</link><pubDate>Thu, 20 Feb 2025 11:00:00 +0000</pubDate><guid>https://boazsobrado.com/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/</guid><description>&lt;p>An in-depth conversation with Doug from MoneroTalk about my Forbes article &amp;ldquo;Monero: Keeping Bitcoin&amp;rsquo;s Cypherpunk Dream Alive&amp;rdquo; and the real-world applications of privacy-focused cryptocurrencies. Topics include crypto adoption in Cuba, the resilience of Monero through delistings, and the future of digital cash.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Boaz Sobrado's Website</title><link>https://boazsobrado.com/</link><description>Recent content on Boaz Sobrado's Website</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; 2024 &lt;a href="https://www.boazsobrado.com/">Boaz Sobrado&lt;/a></copyright><lastBuildDate>Sun, 03 Aug 2025 10:00:00 -0400</lastBuildDate><atom:link href="https://boazsobrado.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Smoking, Lung Cancer, and Obesity Rates in the USA</title><link>https://boazsobrado.com/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/</link><pubDate>Sun, 03 Aug 2025 10:00:00 -0400</pubDate><guid>https://boazsobrado.com/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/</guid><description>&lt;p>The chart above by the World In Data is a striking piece of data visualisation, showing us how lung cancer and cigarette sales are strongly related to each other.&lt;/p>
+&lt;p>However, given that cigarettes are also an appetite suppressant, I have always wondered what the chart would look like if we include obesity rates. Obesity started becoming a problem more or less when cigarette sales started to drop.&lt;/p>
+&lt;p>This isn&amp;rsquo;t to imply that one directly caused the other, but it does warrant some investigation. Anyway, I decided to replicate the famous chart and include obesity rates in it.&lt;/p></description></item><item><title>MoneroTalk Podcast - Keeping Bitcoin's Cypherpunk Dream Alive</title><link>https://boazsobrado.com/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/</link><pubDate>Thu, 20 Feb 2025 11:00:00 +0000</pubDate><guid>https://boazsobrado.com/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/</guid><description>&lt;p>An in-depth conversation with Doug from MoneroTalk about my Forbes article &amp;ldquo;Monero: Keeping Bitcoin&amp;rsquo;s Cypherpunk Dream Alive&amp;rdquo; and the real-world applications of privacy-focused cryptocurrencies. Topics include crypto adoption in Cuba, the resilience of Monero through delistings, and the future of digital cash.&lt;/p>
 &lt;h2 id="video">Video&lt;/h2>
 &lt;iframe width="100%" height="415" src="https://www.youtube.com/embed/r2ZhoPAglJQ" frameborder="0" allowfullscreen>&lt;/iframe>
 &lt;hr>
@@ -779,4 +757,27 @@ DistDur &amp;lt;- function(address,time = as.integer(Sys.time()),mode, return.ca
 &lt;/code>&lt;/pre>
 &lt;p>The code itself is quite simple, but its my first time using the Google Maps API and I was amazed by how easy it was. This and more can be found on my &lt;a href="www.github.com/sobradob">Github&lt;/a>.&lt;/p></description></item><item><title>Myanmar 2015</title><link>https://boazsobrado.com/blog/2015/10/26/myanmar-2015/</link><pubDate>Mon, 26 Oct 2015 11:36:16 +0100</pubDate><guid>https://boazsobrado.com/blog/2015/10/26/myanmar-2015/</guid><description>&lt;p>I spent six amazing months in Myanmar (Burma). Here&amp;rsquo;s a video of my adventures with monkeys, monks and motorcycles.&lt;/p>
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xHCn4agi1Qw" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>Do stupid people make more spelling mistakes? An analysis with R.</title><link>https://boazsobrado.com/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./</link><pubDate>Tue, 20 Oct 2015 10:23:55 +0200</pubDate><guid>https://boazsobrado.com/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./</guid><description>&lt;p>English orthography is a tricky topic. Most people learning English (and a great number of native speakers) are puzzled by a written language with an utter disregard for phonemic representation. It is therefore very worrying that individuals intuitively assume making orthographic mistakes is a sign of &lt;a href="http://www.businessinsider.com/common-spelling-mistakes-2015-6">low intelligence&lt;/a> or unprofessionalism. In this post we are going to show how we looked into the relationship of IQ and orthography using R. We are going to need two things:&lt;/p></description></item><item><title>Don't fear foreign education</title><link>https://boazsobrado.com/blog/2012/11/20/dont-fear-foreign-education/</link><pubDate>Tue, 20 Nov 2012 15:52:58 +0200</pubDate><guid>https://boazsobrado.com/blog/2012/11/20/dont-fear-foreign-education/</guid><description>&lt;p>Startling new data show that emigration out of Hungary is at a 20-year record high and that many more Hungarians have seriously considered leaving Hungary to live, work, or study in another member state of the EU. But instead of speaking ominously about the potentially catastrophic consequences of such emigration trends for Hungary, it is useful to think of this increased mobility as a potentially positive phenomenon.&lt;/p>
-&lt;p>Geographic mobility is often an indicator of social mobility. Movement allows workers and entrepreneurs to fill market gaps wherever they may be found. In fact, it is estimated that increased mobility in the EU would greatly enhance European competitiveness in comparison to the United States, where citizens have always been willing to move in search of opportunities, and China, where urbanisation has been key to economic growth. Of course, international mobility may be considered qualitatively different than national mobility. Moving from Budapest to Győr (or from California to New York) is different than moving from Hungary to Germany or England. These differences ought not to be overstated, however; we are now part of a pan-European single market (whether we like it or not), and geographic mobility has become a central characteristic of that market.&lt;/p></description></item><item><title/><link>https://boazsobrado.com/blog/1/01/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://boazsobrado.com/blog/1/01/01/</guid><description/></item></channel></rss>
+&lt;p>Geographic mobility is often an indicator of social mobility. Movement allows workers and entrepreneurs to fill market gaps wherever they may be found. In fact, it is estimated that increased mobility in the EU would greatly enhance European competitiveness in comparison to the United States, where citizens have always been willing to move in search of opportunities, and China, where urbanisation has been key to economic growth. Of course, international mobility may be considered qualitatively different than national mobility. Moving from Budapest to Győr (or from California to New York) is different than moving from Hungary to Germany or England. These differences ought not to be overstated, however; we are now part of a pan-European single market (whether we like it or not), and geographic mobility has become a central characteristic of that market.&lt;/p></description></item><item><title/><link>https://boazsobrado.com/blog/1/01/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://boazsobrado.com/blog/1/01/01/</guid><description/></item><item><title>Contact Me</title><link>https://boazsobrado.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://boazsobrado.com/contact/</guid><description>&lt;h3 id="email">Email&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>General inquiries:&lt;/strong> &lt;a href="mailto:me@boazsobrado.com">me@boazsobrado.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GPG Public Key:&lt;/strong> &lt;a href="https://boazsobrado.com/public-key.asc" target="_blank" rel="noopener">Download public-key.asc&lt;/a> for encrypted communication&lt;/li>
+&lt;/ul>
+&lt;h3 id="social-media">Social Media&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/sobradob">Twitter (@sobradob)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/boazsobrado/">LinkedIn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sobradob/">GitHub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="professional-services">Professional Services&lt;/h3>
+&lt;p>I&amp;rsquo;m available for:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Consulting:&lt;/strong> FinTech strategy, growth marketing, and data analytics&lt;/li>
+&lt;li>&lt;strong>Speaking:&lt;/strong> Cryptocurrency, financial technology, and digital marketing topics&lt;/li>
+&lt;li>&lt;strong>Media interviews:&lt;/strong> Expert commentary on FinTech and crypto markets&lt;/li>
+&lt;li>&lt;strong>Writing:&lt;/strong> Guest articles and thought leadership pieces&lt;/li>
+&lt;/ul>
+&lt;h2 id="schedule-a-meeting">Schedule a Meeting&lt;/h2>
+&lt;p>Book a call directly through my calendar:&lt;/p>
+&lt;div style="width: 100%; height: 500px; margin: 20px 0;">
+&lt;iframe src="https://cal.com/boaz-sobrado/15min" width="100%" height="100%" frameborder="0">&lt;/iframe>
+&lt;/div></description></item></channel></rss>
