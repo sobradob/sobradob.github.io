@@ -1,15 +1,13 @@
 ---
 title: "Contact Me"
 description: "Get in touch with Boaz Sobrado for consulting, speaking engagements, or collaboration opportunities."
-date: 2025-08-01
-lastmod: 2025-08-01
 draft: false
+type: "page"
+layout: "single-no-meta"
 ---
-
-## Get in Touch
-
 ### Email
 - **General inquiries:** [me@boazsobrado.com](mailto:me@boazsobrado.com)
+- **GPG Public Key:** <a href="/public-key.asc" target="_blank" rel="noopener">Download public-key.asc</a> for encrypted communication
 
 ### Social Media
 
@@ -24,9 +22,6 @@ I'm available for:
 - **Speaking:** Cryptocurrency, financial technology, and digital marketing topics  
 - **Media interviews:** Expert commentary on FinTech and crypto markets
 - **Writing:** Guest articles and thought leadership pieces
-
-Response time: I typically respond to emails within 24-48 hours during business days.
-
 
 ## Schedule a Meeting
 
