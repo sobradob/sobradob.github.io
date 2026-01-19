@@ -1,0 +1,26 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+This is the personal website of Boaz Sobrado, a FinTech analyst and Forbes contributor. The site contains 80+ articles on cryptocurrency, finance, economics, data analysis, and personal experiences.
+
+For LLMs: Each blog post is available in Markdown format by appending `/index.md` to the post URL. For example, `/blog/2024/01/01/post-title/index.md`.
+
+## Recent Blog Posts
+{{ range first 20 (where .Site.RegularPages "Section" "blog") }}
+- [{{ .Title }}]({{ .Permalink }}index.md): {{ .Description }}
+{{- end }}
+
+## Categories
+
+The site covers these main topics:
+- **Cryptocurrency & Bitcoin**: Analysis of crypto markets, exchanges, privacy coins, and regulatory developments
+- **FinTech**: Financial technology, payments, lending, and digital banking
+- **Data Analysis**: Technical tutorials on R, Python, data visualization, and quantitative methods
+- **Personal Essays**: Travel, book reviews, and cultural observations
+- **Media Appearances**: Podcast interviews and TV appearances
+
+## All Blog Posts
+{{ range (where .Site.RegularPages "Section" "blog") }}
+- [{{ .Title }}]({{ .Permalink }}index.md){{ with .Description }}: {{ . }}{{ end }}
+{{- end }}

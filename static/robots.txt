@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boazsobrado.com/sitemap.xml
+llms-txt: https://boazsobrado.com/llms.txt

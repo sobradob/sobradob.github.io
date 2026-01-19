@@ -43,6 +43,24 @@ taxonomies:
 build:
   useResourceCacheWhen: fallback
 
+# Output formats for llms.txt support
+outputFormats:
+  MD:
+    mediaType: text/markdown
+    baseName: index
+    isPlainText: true
+    notAlternative: true
+  LLMS:
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML", "RSS", "LLMS"]
+  page: ["HTML", "MD"]
+  section: ["HTML", "RSS"]
+
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 
