@@ -45,8 +45,12 @@ widget:
 
 ## Introduction
 
-Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. A Top 100 Forbes Fintech contributor, I’ve been cited by [CNBC, Fortune, WIRED, NASDAQ.com]((/series/media/)), the Human Rights Foundation and others.vWith over 10 years of experience in digital marketing & growth, I am currently the Director of Growth & Marketing Technology at a global trading platform with over 500k users handling over $1.7 trillion in trading volume.
+Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. A Top 100 Forbes Fintech contributor, I've been cited by [CNBC, Fortune, WIRED, NASDAQ.com](/series/media/), the Human Rights Foundation and others.
 
-Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about how technology impacts people that society sometimes [overlooks](www.on-the-margin.com).
+Currently founder of [Tempisque Tech](https://tempisque.tech), offering growth & analytics advisory, AI-powered software development, and media & content services for the fintech industry.
+
+Previously Director of Growth & Marketing Technology at [Capital.com](https://capital.com) (2020-2025), a global trading platform with over 500k users handling over $1.7 trillion in trading volume.
+
+Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about how technology impacts people that society sometimes [overlooks](https://www.on-the-margin.com).
 
 Currently interested in: stablecoins and their consequences (e.g. global from day one businesses), Bitcoin and its consequences (e.g. long term trends in government debt), AI-enabled social behaviour (e.g. social trading or AI driven coaching), the quantified self (e.g. movement, health), learning Mandarin & running ultramarathons.

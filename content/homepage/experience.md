@@ -3,13 +3,22 @@ title: Experience
 draft: false
 enableEmoji: true
 experiences:
+  - title: Founder
+    organization:
+      name: Tempisque Tech
+      url: https://tempisque.tech
+    dates: "2025 - present"
+    location: San Francisco, USA
+    writeup: >
+      Digital growth marketing and data analysis for the fintech industry. Services include growth & analytics advisory, AI-powered software development, and media & content production.
+
   - title: Director of Growth, Analytics, and MarTech
     organization:
       name: Capital.com
-      url: capital.com
-    dates: "2023 - present"
+      url: https://capital.com
+    dates: "2023 - 2025"
     location: London, UK
-    writeup: >   
+    writeup: >
       Capital.com is one of the world's fastest growing trading platforms. Responsibilites:
 
       - Lead growth and acquisition strategy by deploying a multi-million marketing budget and leading various teams across Analytics, Engineering, SEO, and CRM; collaborating directly with C-suite stakeholders and key partners (Google, Apple).
