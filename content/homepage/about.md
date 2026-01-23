@@ -49,7 +49,7 @@ Fintech leader and entrepreneur specializing in growth strategy, data analytics,
 
 Currently founder of [Tempisque Tech](https://tempisque.tech), offering growth & analytics advisory, AI-powered software development, and media & content services for the fintech industry.
 
-Previously Director of Growth & Marketing Technology at [Capital.com](https://capital.com) (2020-2025), a global trading platform with over 500k users handling over $1.7 trillion in trading volume.
+Previously Director of Growth & Marketing Technology at [Capital.com](https://capital.com) (2023-2025), a global trading platform with over 500k users handling over $1.7 trillion in trading volume.
 
 Digital marketing experience since 2015, when I researched psychometric digital advertising and helped unearth the [Cambridge Analytica](/blog/2020/12/11/my-thoughts-on-cambridge-analytica/) scandal. Passionate about how technology impacts people that society sometimes [overlooks](https://www.on-the-margin.com).
 
