@@ -41,7 +41,7 @@
       {{/* Deprecation warning(v1.0.0) ends */}}
       {{ $src := print $iconPack " fa-" .icon }}
       <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
-        <a href="{{ .url }}"><i class="{{ print $src }}"></i></a>
+        <a href="{{ .url }}" class="inline-flex items-center justify-center w-10 h-10 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"><i class="{{ print $src }} fa-lg"></i></a>
       </div>
     {{ end }}
   </div>
