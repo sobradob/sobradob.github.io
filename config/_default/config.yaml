@@ -10,7 +10,7 @@ theme: wangchucheng.com/hugo-eureka
 pagination:
   pagerSize: 10  # Instead of the old 'paginate: 10'
 copyright: >
-  &copy; 2024 <a href="https://www.boazsobrado.com/">Boaz Sobrado</a>
+  &copy; 2026 <a href="https://www.boazsobrado.com/">Boaz Sobrado</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75

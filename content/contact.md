@@ -15,6 +15,10 @@ layout: "single-no-meta"
 - [LinkedIn](https://www.linkedin.com/in/boazsobrado/)
 - [GitHub](https://github.com/sobradob/)
 
+### PR & Media Pitches
+
+If you're a publicist or PR professional looking to pitch a story or book a guest appearance, please fill out [this form](https://forms.gle/AGuKqs7nGsabH4AV7). It covers my work as a Forbes contributor and my podcast, On The Margin, and explains how I work with sources.
+
 ### Professional Services
 
 I'm available for:
