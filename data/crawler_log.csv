@@ -104,3 +104,6 @@ timestamp,bot_name,request_count,host
 2026-02-25T19:00:00Z - 2026-02-25T20:00:00Z,Amazonbot,8,boazsobrado.com
 2026-02-25T19:00:00Z - 2026-02-25T20:00:00Z,Bytespider,7,boazsobrado.com
 2026-02-25T19:00:00Z - 2026-02-25T20:00:00Z,ChatGPT,4,boazsobrado.com
+2026-02-25T20:00:00Z - 2026-02-25T21:00:00Z,ChatGPT,1,boazsobrado.com
+2026-02-25T20:00:00Z - 2026-02-25T21:00:00Z,ClaudeBot,2,boazsobrado.com
+2026-02-25T20:00:00Z - 2026-02-25T21:00:00Z,Meta AI,1,boazsobrado.com
