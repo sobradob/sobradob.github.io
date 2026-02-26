@@ -143,3 +143,6 @@ timestamp,bot_name,request_count,host
 2026-02-26T10:00:00Z - 2026-02-26T11:00:00Z,Amazonbot,1,boazsobrado.com
 2026-02-26T10:00:00Z - 2026-02-26T11:00:00Z,ClaudeBot,2,boazsobrado.com
 2026-02-26T10:00:00Z - 2026-02-26T11:00:00Z,GPTBot,1,boazsobrado.com
+2026-02-26T12:00:00Z - 2026-02-26T13:00:00Z,Amazonbot,5,boazsobrado.com
+2026-02-26T12:00:00Z - 2026-02-26T13:00:00Z,Bingbot,1,boazsobrado.com
+2026-02-26T12:00:00Z - 2026-02-26T13:00:00Z,ClaudeBot,2,boazsobrado.com
