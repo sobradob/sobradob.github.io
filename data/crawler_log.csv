@@ -191,3 +191,7 @@ timestamp,bot_name,request_count,host
 2026-02-27T06:00:00Z - 2026-02-27T07:00:00Z,ChatGPT,6,boazsobrado.com
 2026-02-27T06:00:00Z - 2026-02-27T07:00:00Z,ClaudeBot,2,boazsobrado.com
 2026-02-27T06:00:00Z - 2026-02-27T07:00:00Z,Meta AI,54,boazsobrado.com
+2026-02-27T07:00:00Z - 2026-02-27T08:00:00Z,Bingbot,2,boazsobrado.com
+2026-02-27T07:00:00Z - 2026-02-27T08:00:00Z,ClaudeBot,2,boazsobrado.com
+2026-02-27T07:00:00Z - 2026-02-27T08:00:00Z,GPTBot,1,boazsobrado.com
+2026-02-27T07:00:00Z - 2026-02-27T08:00:00Z,Meta AI,32,boazsobrado.com
