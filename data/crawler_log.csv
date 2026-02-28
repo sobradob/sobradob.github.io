@@ -303,3 +303,11 @@ timestamp,bot_name,request_count,host
 2026-02-28T19:00:00Z - 2026-02-28T20:00:00Z,Bytespider,1,www.boazsobrado.com
 2026-02-28T19:00:00Z - 2026-02-28T20:00:00Z,ChatGPT,2,boazsobrado.com
 2026-02-28T19:00:00Z - 2026-02-28T20:00:00Z,Meta AI,2,boazsobrado.com
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2021/01/15/disrupting-ransom-payments/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,Amazonbot,1,boazsobrado.com,/categories/android/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,Amazonbot,1,boazsobrado.com,/series/op-ed/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,Bingbot,1,boazsobrado.com,/tags/monetary-policy/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2015/12/27/what-i-read-in-2015/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-02-28T20:00:00Z - 2026-02-28T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/17/how-stripe-and-stablecoins-are-rewiring-remote-work/
