@@ -36,7 +36,7 @@ AI_BOT_IDENTIFIERS = {
 CF_GRAPHQL_ENDPOINT = "https://api.cloudflare.com/client/v4/graphql"
 
 CSV_PATH = Path(__file__).resolve().parent.parent / "data" / "crawler_log.csv"
-CSV_HEADERS = ["timestamp", "bot_name", "request_count", "host"]
+CSV_HEADERS = ["timestamp", "bot_name", "request_count", "host", "path"]
 
 GRAPHQL_QUERY = """
 query GetAICrawlerTraffic($zoneTag: String!, $start: String!, $end: String!) {
@@ -54,6 +54,7 @@ query GetAICrawlerTraffic($zoneTag: String!, $start: String!, $end: String!) {
         dimensions {
           userAgent
           clientRequestHTTPHost
+          clientRequestPath
         }
       }
     }
@@ -109,23 +110,24 @@ def query_cloudflare(api_token: str, zone_id: str, start: str, end: str) -> list
 
 
 def aggregate_bot_traffic(groups: list[dict], window_label: str) -> list[list[str]]:
-    aggregated: dict[tuple[str, str], int] = {}
+    aggregated: dict[tuple[str, str, str], int] = {}
 
     for group in groups:
         ua = group.get("dimensions", {}).get("userAgent", "")
         host = group.get("dimensions", {}).get("clientRequestHTTPHost", "unknown")
+        path = group.get("dimensions", {}).get("clientRequestPath", "/")
         count = group.get("count", 0)
 
         bot_name = identify_bot(ua)
         if bot_name is None:
             continue
 
-        key = (bot_name, host)
+        key = (bot_name, host, path)
         aggregated[key] = aggregated.get(key, 0) + count
 
     rows = []
-    for (bot_name, host), total_count in sorted(aggregated.items()):
-        rows.append([window_label, bot_name, str(total_count), host])
+    for (bot_name, host, path), total_count in sorted(aggregated.items()):
+        rows.append([window_label, bot_name, str(total_count), host, path])
 
     return rows
 
