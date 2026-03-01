@@ -4,7 +4,7 @@ Log AI crawler traffic from Cloudflare Analytics to a CSV file.
 
 Queries the Cloudflare GraphQL Analytics API for the past hour,
 filters for known AI bot user agents, and appends results to
-data/crawler_log.csv in the repository.
+logs/crawler_log.csv in the repository.
 
 Environment variables required:
     CF_API_TOKEN  - Cloudflare API token with Zone Analytics read permission
@@ -35,7 +35,7 @@ AI_BOT_IDENTIFIERS = {
 
 CF_GRAPHQL_ENDPOINT = "https://api.cloudflare.com/client/v4/graphql"
 
-CSV_PATH = Path(__file__).resolve().parent.parent / "data" / "crawler_log.csv"
+CSV_PATH = Path(__file__).resolve().parent.parent / "logs" / "crawler_log.csv"
 CSV_HEADERS = ["timestamp", "bot_name", "request_count", "host", "path"]
 
 GRAPHQL_QUERY = """
