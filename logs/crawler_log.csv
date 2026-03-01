@@ -329,3 +329,11 @@ timestamp,bot_name,request_count,host
 2026-03-01T18:00:00Z - 2026-03-01T19:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
 2026-03-01T18:00:00Z - 2026-03-01T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-01T18:00:00Z - 2026-03-01T19:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/images/blind_men_coin_1.jpg
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/images/casino_ill1.png
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/images/everything_scam.png
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,1,boazsobrado.com,/images/generation_moonshot.png
+2026-03-01T19:00:00Z - 2026-03-01T20:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
