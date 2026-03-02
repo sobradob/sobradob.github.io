@@ -451,3 +451,8 @@ timestamp,bot_name,request_count,host
 2026-03-02T13:00:00Z - 2026-03-02T14:00:00Z,Bingbot,1,boazsobrado.com,/images/forbes_contributor.jpeg
 2026-03-02T13:00:00Z - 2026-03-02T14:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-03-02T13:00:00Z - 2026-03-02T14:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-03-02T14:00:00Z - 2026-03-02T15:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-03-02T14:00:00Z - 2026-03-02T15:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2015/12/27/what-i-read-in-2015/
+2026-03-02T14:00:00Z - 2026-03-02T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-03-02T14:00:00Z - 2026-03-02T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-03-02T14:00:00Z - 2026-03-02T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
