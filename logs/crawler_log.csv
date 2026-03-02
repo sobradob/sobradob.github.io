@@ -415,3 +415,8 @@ timestamp,bot_name,request_count,host
 2026-03-02T06:00:00Z - 2026-03-02T07:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
 2026-03-02T06:00:00Z - 2026-03-02T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-02T06:00:00Z - 2026-03-02T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-02T07:00:00Z - 2026-03-02T08:00:00Z,Bingbot,1,boazsobrado.com,/blog/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/
+2026-03-02T07:00:00Z - 2026-03-02T08:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-02T07:00:00Z - 2026-03-02T08:00:00Z,Bingbot,1,boazsobrado.com,/tags/liderazgo/
+2026-03-02T07:00:00Z - 2026-03-02T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-02T07:00:00Z - 2026-03-02T08:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
