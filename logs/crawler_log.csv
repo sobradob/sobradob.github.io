@@ -634,3 +634,13 @@ timestamp,bot_name,request_count,host
 2026-03-03T09:00:00Z - 2026-03-03T10:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-03-03T09:00:00Z - 2026-03-03T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
 2026-03-03T09:00:00Z - 2026-03-03T10:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Bingbot,1,boazsobrado.com,/images/bartolome_de_las_casas.jpg
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/chinese/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-innovation/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/writing/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/airships/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/health/index.xml
+2026-03-03T10:00:00Z - 2026-03-03T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/index.xml
