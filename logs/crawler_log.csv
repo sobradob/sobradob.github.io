@@ -685,3 +685,4 @@ timestamp,bot_name,request_count,host,path
 2026-03-03T21:00:00Z - 2026-03-03T22:00:00Z,Bytespider,1,boazsobrado.com,/images/forbes_contributor.jpeg
 2026-03-03T21:00:00Z - 2026-03-03T22:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-03T21:00:00Z - 2026-03-03T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-03T22:00:00Z - 2026-03-03T23:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
