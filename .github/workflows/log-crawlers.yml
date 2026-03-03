@@ -38,4 +38,9 @@ jobs:
           git add logs/crawler_log.csv
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "chore: log AI crawler traffic [skip ci]"
-          git push
+          # Pull with rebase to handle concurrent pushes, then retry push up to 3 times
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
