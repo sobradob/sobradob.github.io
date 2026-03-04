@@ -776,3 +776,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Amazonbot,1,boazsobrado.com,/series/hacking/
 2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Meta AI,2,boazsobrado.com,/categories/opinion/
 2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-03-04T12:00:00Z - 2026-03-04T13:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-03-04T12:00:00Z - 2026-03-04T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/crypto/
+2026-03-04T12:00:00Z - 2026-03-04T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/literature/
+2026-03-04T12:00:00Z - 2026-03-04T13:00:00Z,Amazonbot,1,boazsobrado.com,/series/finance/
+2026-03-04T12:00:00Z - 2026-03-04T13:00:00Z,Bingbot,1,boazsobrado.com,/images/games_per_month.png
