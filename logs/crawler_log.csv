@@ -739,3 +739,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
+2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
