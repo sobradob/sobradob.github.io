@@ -773,3 +773,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T09:00:00Z - 2026-03-04T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/index.xml
 2026-03-04T09:00:00Z - 2026-03-04T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/index.xml
 2026-03-04T09:00:00Z - 2026-03-04T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/traducci%C3%B3n/index.xml
+2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Amazonbot,1,boazsobrado.com,/series/hacking/
+2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Meta AI,2,boazsobrado.com,/categories/opinion/
+2026-03-04T10:00:00Z - 2026-03-04T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
