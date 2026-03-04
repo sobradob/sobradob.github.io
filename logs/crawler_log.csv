@@ -708,3 +708,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T03:00:00Z - 2026-03-04T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-04T03:00:00Z - 2026-03-04T04:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-04T03:00:00Z - 2026-03-04T04:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Bingbot,1,boazsobrado.com,/docs/example-doc/
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Bingbot,2,boazsobrado.com,/images/del_tercer_mundo_al_primero.png
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Bingbot,1,boazsobrado.com,/images/elo_vs_time_scatter.png
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Bingbot,1,boazsobrado.com,/images/mortgage_origination_credit_score.png
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Bingbot,2,boazsobrado.com,/robots.txt
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-04T04:00:00Z - 2026-03-04T05:00:00Z,Meta AI,2,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
