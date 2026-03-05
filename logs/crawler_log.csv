@@ -922,3 +922,21 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T22:00:00Z - 2026-03-04T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/singapur/
 2026-03-04T22:00:00Z - 2026-03-04T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/trading-platforms/
 2026-03-04T22:00:00Z - 2026-03-04T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/travel/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Bingbot,1,boazsobrado.com,/images/Japanese_fire_balloon_Moffett.jpg
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/01/time-series-analysis-for-facebook-message-volume/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,ChatGPT,1,boazsobrado.com,/categories/r/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/10/29/how-to-get-your-facebook-messages-into-r/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/history/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/policy-analysis/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/contact/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/series/forbes-commentary/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/series/on-books/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-rights/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
+2026-03-05T01:00:00Z - 2026-03-05T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-structure/
