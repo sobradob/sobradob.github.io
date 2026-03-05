@@ -981,3 +981,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-05T10:00:00Z - 2026-03-05T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
 2026-03-05T10:00:00Z - 2026-03-05T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-systems/
 2026-03-05T10:00:00Z - 2026-03-05T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/monero/
+2026-03-05T12:00:00Z - 2026-03-05T13:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
+2026-03-05T12:00:00Z - 2026-03-05T13:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-03-05T12:00:00Z - 2026-03-05T13:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
