@@ -132,8 +132,23 @@ def aggregate_bot_traffic(groups: list[dict], window_label: str) -> list[list[st
     return rows
 
 
-def write_to_csv(rows: list[list[str]]) -> None:
+def window_already_logged(window_label: str) -> bool:
+    """Check if data for this time window has already been written to the CSV."""
+    if not CSV_PATH.exists() or CSV_PATH.stat().st_size == 0:
+        return False
+    with open(CSV_PATH, "r", newline="") as f:
+        for line in f:
+            if line.startswith(window_label):
+                return True
+    return False
+
+
+def write_to_csv(rows: list[list[str]], window_label: str) -> None:
     CSV_PATH.parent.mkdir(parents=True, exist_ok=True)
+
+    if window_already_logged(window_label):
+        print(f"Data for {window_label} already exists. Skipping to avoid duplicates.")
+        return
 
     write_header = not CSV_PATH.exists() or CSV_PATH.stat().st_size == 0
 
@@ -170,7 +185,7 @@ def main() -> None:
         print("No AI crawler traffic found in the query window. Nothing to append.")
         return
 
-    write_to_csv(rows)
+    write_to_csv(rows, window_label)
     print("Done.")
 
 

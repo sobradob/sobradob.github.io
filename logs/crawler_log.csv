@@ -18,9 +18,6 @@ timestamp,bot_name,request_count,host,path
 2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,Amazonbot,9,boazsobrado.com
 2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,ChatGPT,3,boazsobrado.com
 2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,Meta AI,4,boazsobrado.com
-2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,Amazonbot,9,boazsobrado.com
-2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,ChatGPT,3,boazsobrado.com
-2026-02-24T09:00:00Z - 2026-02-24T10:00:00Z,Meta AI,4,boazsobrado.com
 2026-02-24T10:00:00Z - 2026-02-24T11:00:00Z,ClaudeBot,3,boazsobrado.com
 2026-02-24T10:00:00Z - 2026-02-24T11:00:00Z,GPTBot,1,boazsobrado.com
 2026-02-24T10:00:00Z - 2026-02-24T11:00:00Z,GPTBot,1,www.boazsobrado.com
@@ -73,10 +70,6 @@ timestamp,bot_name,request_count,host,path
 2026-02-25T09:00:00Z - 2026-02-25T10:00:00Z,Bytespider,4,boazsobrado.com
 2026-02-25T09:00:00Z - 2026-02-25T10:00:00Z,ChatGPT,1,boazsobrado.com
 2026-02-25T09:00:00Z - 2026-02-25T10:00:00Z,ClaudeBot,8,boazsobrado.com
-2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,Bingbot,2,boazsobrado.com
-2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,ChatGPT,1,boazsobrado.com
-2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,ClaudeBot,7,boazsobrado.com
-2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,Meta AI,18,boazsobrado.com
 2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,Bingbot,2,boazsobrado.com
 2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,ChatGPT,1,boazsobrado.com
 2026-02-25T10:00:00Z - 2026-02-25T11:00:00Z,ClaudeBot,7,boazsobrado.com
@@ -160,9 +153,7 @@ timestamp,bot_name,request_count,host,path
 2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,Bytespider,7,boazsobrado.com
 2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,ClaudeBot,51,boazsobrado.com
 2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,Meta AI,4,boazsobrado.com
-2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,Bytespider,7,boazsobrado.com
 2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,ClaudeBot,49,boazsobrado.com
-2026-02-26T18:00:00Z - 2026-02-26T19:00:00Z,Meta AI,4,boazsobrado.com
 2026-02-26T19:00:00Z - 2026-02-26T20:00:00Z,Bytespider,8,boazsobrado.com
 2026-02-26T19:00:00Z - 2026-02-26T20:00:00Z,ClaudeBot,23,boazsobrado.com
 2026-02-26T20:00:00Z - 2026-02-26T21:00:00Z,Amazonbot,1,boazsobrado.com
@@ -267,14 +258,6 @@ timestamp,bot_name,request_count,host,path
 2026-02-28T10:00:00Z - 2026-02-28T11:00:00Z,Bingbot,1,boazsobrado.com
 2026-02-28T10:00:00Z - 2026-02-28T11:00:00Z,ChatGPT,3,boazsobrado.com
 2026-02-28T10:00:00Z - 2026-02-28T11:00:00Z,PerplexityBot,3,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Amazonbot,2,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bingbot,2,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bingbot,2,www.boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bytespider,1,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bytespider,1,www.boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,ChatGPT,1,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Meta AI,1,boazsobrado.com
-2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,PerplexityBot,3,boazsobrado.com
 2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Amazonbot,2,boazsobrado.com
 2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bingbot,2,boazsobrado.com
 2026-02-28T12:00:00Z - 2026-02-28T13:00:00Z,Bingbot,2,www.boazsobrado.com
@@ -428,14 +411,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/index.xml
 2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-regulation/index.xml
 2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-regulation/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-regulation/index.xml
-2026-03-02T09:00:00Z - 2026-03-02T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/index.xml
 2026-03-02T10:00:00Z - 2026-03-02T11:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
 2026-03-02T10:00:00Z - 2026-03-02T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
 2026-03-02T10:00:00Z - 2026-03-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/12/22/how-digital-collateral-is-revolutionising-credit-in-emerging-markets
@@ -461,18 +436,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,Amazonbot,1,boazsobrado.com,/docs/
 2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,ChatGPT,1,boazsobrado.com,/
 2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
-2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/
-2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,Amazonbot,1,boazsobrado.com,/categories/regulatory-analysis/
-2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,Amazonbot,1,boazsobrado.com,/docs/
-2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,ChatGPT,1,boazsobrado.com,/
-2026-03-02T16:00:00Z - 2026-03-02T17:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,www.boazsobrado.com,/sitemap.xml
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
 2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
 2026-03-02T18:00:00Z - 2026-03-02T19:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
@@ -601,15 +564,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
 2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/nested-chapter/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Amazonbot,1,boazsobrado.com,/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Amazonbot,1,boazsobrado.com,/categories/cryptocurrency/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Amazonbot,2,boazsobrado.com,/categories/rotterdam/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
-2026-03-03T06:00:00Z - 2026-03-03T07:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/nested-chapter/
 2026-03-03T07:00:00Z - 2026-03-03T08:00:00Z,Amazonbot,1,boazsobrado.com,/docs/example-doc/
 2026-03-03T07:00:00Z - 2026-03-03T08:00:00Z,Bingbot,1,boazsobrado.com,/images/monerotalk_podcast_thumbnail.jpg
 2026-03-03T07:00:00Z - 2026-03-03T08:00:00Z,Bytespider,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
@@ -652,10 +606,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-03T14:00:00Z - 2026-03-03T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
 2026-03-03T14:00:00Z - 2026-03-03T15:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-03T14:00:00Z - 2026-03-03T15:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
-2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./
-2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Amazonbot,1,boazsobrado.com,/categories/personal/
-2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Bingbot,1,boazsobrado.com,/
-2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
 2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./
 2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Amazonbot,1,boazsobrado.com,/categories/personal/
 2026-03-03T16:00:00Z - 2026-03-03T17:00:00Z,Bingbot,1,boazsobrado.com,/
@@ -729,16 +679,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,2,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
 2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,2,boazsobrado.com,/images/bisq_logo.png
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,1,boazsobrado.com,/images/bitcoin_obituaries_chart.svg
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,1,boazsobrado.com,/images/ccc_tether_cuba.jpeg
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,1,boazsobrado.com,/images/forbes_contributor.jpeg
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Bytespider,1,boazsobrado.com,/tags/crypto/
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
-2026-03-04T06:00:00Z - 2026-03-04T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
 2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,ChatGPT,1,boazsobrado.com,/
 2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
 2026-03-04T07:00:00Z - 2026-03-04T08:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
@@ -810,10 +751,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-04T16:00:00Z - 2026-03-04T17:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/10/26/mines-in-the-air/
 2026-03-04T16:00:00Z - 2026-03-04T17:00:00Z,Meta AI,2,boazsobrado.com,/categories/finance/
 2026-03-04T16:00:00Z - 2026-03-04T17:00:00Z,Meta AI,2,boazsobrado.com,/categories/travel/
-2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
-2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Amazonbot,1,boazsobrado.com,/series/opinion/
-2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Meta AI,1,boazsobrado.com,/
-2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Meta AI,1,boazsobrado.com,/index.xml
 2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
 2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Amazonbot,1,boazsobrado.com,/series/opinion/
 2026-03-04T18:00:00Z - 2026-03-04T19:00:00Z,Meta AI,1,boazsobrado.com,/
@@ -950,11 +887,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-05T04:00:00Z - 2026-03-05T05:00:00Z,Amazonbot,1,boazsobrado.com,/categories/mistakes/
 2026-03-05T04:00:00Z - 2026-03-05T05:00:00Z,Amazonbot,2,boazsobrado.com,/categories/politics/
 2026-03-05T04:00:00Z - 2026-03-05T05:00:00Z,Meta AI,2,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
-2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
-2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-regulation
-2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-regulation/
-2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,Meta AI,2,boazsobrado.com,/categories/crypto/
 2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
 2026-03-05T06:00:00Z - 2026-03-05T07:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-regulation
@@ -1113,12 +1045,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-06T04:00:00Z - 2026-03-06T05:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
 2026-03-06T04:00:00Z - 2026-03-06T05:00:00Z,Bytespider,3,boazsobrado.com,/robots.txt
 2026-03-06T04:00:00Z - 2026-03-06T05:00:00Z,Meta AI,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Meta AI,2,boazsobrado.com,/categories/costa-rica/
-2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Meta AI,2,boazsobrado.com,/tags/trading-platforms/
 2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
 2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
 2026-03-06T06:00:00Z - 2026-03-06T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
@@ -1332,14 +1258,4 @@ timestamp,bot_name,request_count,host,path
 2026-03-07T10:00:00Z - 2026-03-07T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-07T12:00:00Z - 2026-03-07T13:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
 2026-03-07T12:00:00Z - 2026-03-07T13:00:00Z,Bingbot,1,boazsobrado.com,/blog/2025/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
-2026-03-07T12:00:00Z - 2026-03-07T13:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
-2026-03-07T12:00:00Z - 2026-03-07T13:00:00Z,Bingbot,1,boazsobrado.com,/blog/2025/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
 2026-03-07T13:00:00Z - 2026-03-07T14:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2016/11/13/you-are-wasting-your-time-with-spreadsheets/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2021/06/04/bitcoin-2021-what-to-do-when-your-country-bans-bitcoin/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,Amazonbot,1,boazsobrado.com,/categories/cuba/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,ChatGPT,1,boazsobrado.com,/
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
-2026-03-07T14:00:00Z - 2026-03-07T15:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
