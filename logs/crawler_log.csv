@@ -1300,3 +1300,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-07T03:00:00Z - 2026-03-07T04:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
 2026-03-07T03:00:00Z - 2026-03-07T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-07T03:00:00Z - 2026-03-07T04:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-07T04:00:00Z - 2026-03-07T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-07T04:00:00Z - 2026-03-07T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
