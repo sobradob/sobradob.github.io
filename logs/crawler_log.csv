@@ -1478,3 +1478,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/adtech/index.xml
 2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/health/index.xml
 2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/marketing-analytics/index.xml
+2026-03-08T06:00:00Z - 2026-03-08T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/mistakes/
+2026-03-08T06:00:00Z - 2026-03-08T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/rotterdam/
+2026-03-08T06:00:00Z - 2026-03-08T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-08T06:00:00Z - 2026-03-08T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-08T06:00:00Z - 2026-03-08T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
