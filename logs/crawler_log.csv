@@ -1472,3 +1472,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-08T04:00:00Z - 2026-03-08T05:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
 2026-03-08T04:00:00Z - 2026-03-08T05:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
 2026-03-08T04:00:00Z - 2026-03-08T05:00:00Z,Meta AI,2,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/categories/bayes/
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/series/forbes-commentary/
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/adtech/index.xml
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/health/index.xml
+2026-03-08T05:00:00Z - 2026-03-08T06:00:00Z,Amazonbot,1,boazsobrado.com,/tags/marketing-analytics/index.xml
