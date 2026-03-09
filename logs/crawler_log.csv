@@ -1660,3 +1660,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Meta AI,2,boazsobrado.com,/categories/politics/
 2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/
 2026-03-09T07:00:00Z - 2026-03-09T08:00:00Z,Meta AI,2,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-03-09T09:00:00Z - 2026-03-09T10:00:00Z,Bingbot,1,boazsobrado.com,/tags/liderazgo/
+2026-03-09T09:00:00Z - 2026-03-09T10:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-09T09:00:00Z - 2026-03-09T10:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
