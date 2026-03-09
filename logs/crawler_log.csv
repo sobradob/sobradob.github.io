@@ -1624,3 +1624,11 @@ timestamp,bot_name,request_count,host,path
 2026-03-09T04:00:00Z - 2026-03-09T05:00:00Z,GPTBot,1,boazsobrado.com,/js/fontawesome.min.4695061e2bdde22bc383d4705fb1ca9f5035d1570d0eea67b684c1a625d18b4058348db18368b7284147c9134566569e.js
 2026-03-09T04:00:00Z - 2026-03-09T05:00:00Z,GPTBot,1,www.boazsobrado.com,/
 2026-03-09T04:00:00Z - 2026-03-09T05:00:00Z,Meta AI,2,boazsobrado.com,/categories/media/
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/17/how-stripe-and-stablecoins-are-rewiring-remote-work/
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/book_review_Boaz_1
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,Meta AI,2,boazsobrado.com,/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/
