@@ -1632,3 +1632,30 @@ timestamp,bot_name,request_count,host,path
 2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/book_review_Boaz_1
 2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-09T05:00:00Z - 2026-03-09T06:00:00Z,Meta AI,2,boazsobrado.com,/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/banking-regulation/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/rotterdam/index.xml
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bingbot,1,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/blog/2015/12/27/what-i-read-in-2015/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,7,boazsobrado.com,/cdn-cgi/rum
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,2,boazsobrado.com,/images/cave_club_trinidad.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/deribit.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/fruit_stall.jpg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/havana_hilton_cuba.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,2,boazsobrado.com,/images/havana_ice_cream.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/havana_universities.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/havana_university.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/images/soviet_building_cuba.jpeg
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/js/fontawesome.min.4695061e2bdde22bc383d4705fb1ca9f5035d1570d0eea67b684c1a625d18b4058348db18368b7284147c9134566569e.js
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/series/verbose-musings/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Bytespider,1,boazsobrado.com,/tags/r/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Meta AI,2,boazsobrado.com,/blog/2019/08/12/automating-my-business/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Meta AI,2,boazsobrado.com,/categories/politics/
+2026-03-09T06:00:00Z - 2026-03-09T07:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/
