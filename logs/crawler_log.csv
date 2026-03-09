@@ -1671,3 +1671,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-09T12:00:00Z - 2026-03-09T13:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2020/12/11/my-thoughts-on-cambridge-analytica
 2026-03-09T12:00:00Z - 2026-03-09T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-09T12:00:00Z - 2026-03-09T13:00:00Z,Meta AI,2,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-03-09T14:00:00Z - 2026-03-09T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-09T14:00:00Z - 2026-03-09T15:00:00Z,Meta AI,2,boazsobrado.com,/series/verbose-musings/
