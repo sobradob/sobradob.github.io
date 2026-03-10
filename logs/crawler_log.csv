@@ -1869,3 +1869,20 @@ timestamp,bot_name,request_count,host,path
 2026-03-10T08:00:00Z - 2026-03-10T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/growth
 2026-03-10T08:00:00Z - 2026-03-10T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/growth/
 2026-03-10T08:00:00Z - 2026-03-10T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/financial-innovation
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/financial-innovation/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/series/forbes-commentary
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/series/forbes-commentary/
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/chinese/index.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/writing/index.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/airships/index.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/index.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/health/index.xml
+2026-03-10T09:00:00Z - 2026-03-10T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/index.xml
