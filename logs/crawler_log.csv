@@ -1825,3 +1825,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/series/media
 2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/series/media/
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/02/23/are-we-living-in-an-advertising-economy/
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,www.boazsobrado.com,/blog/2020/12/11/my-thoughts-on-cambridge-analytica/
+2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
