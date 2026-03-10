@@ -1831,3 +1831,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
 2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,www.boazsobrado.com,/blog/2020/12/11/my-thoughts-on-cambridge-analytica/
 2026-03-10T04:00:00Z - 2026-03-10T05:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,Amazonbot,1,boazsobrado.com,/categories/cryptocurrency/
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,Amazonbot,2,boazsobrado.com,/categories/rotterdam/
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,Bingbot,1,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-03-10T06:00:00Z - 2026-03-10T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
