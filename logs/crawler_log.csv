@@ -1821,3 +1821,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-10T01:00:00Z - 2026-03-10T02:00:00Z,Bingbot,1,boazsobrado.com,/images/plot_device_daily.png
 2026-03-10T01:00:00Z - 2026-03-10T02:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
 2026-03-10T01:00:00Z - 2026-03-10T02:00:00Z,Meta AI,2,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
+2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/series/media
+2026-03-10T03:00:00Z - 2026-03-10T04:00:00Z,ClaudeBot,1,boazsobrado.com,/series/media/
