@@ -2236,3 +2236,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-11T09:00:00Z - 2026-03-11T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/index.xml
 2026-03-11T09:00:00Z - 2026-03-11T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/index.xml
 2026-03-11T09:00:00Z - 2026-03-11T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/traducci%C3%B3n/index.xml
+2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,Meta AI,1,boazsobrado.com,/
