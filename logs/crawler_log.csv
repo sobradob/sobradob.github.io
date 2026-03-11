@@ -2239,3 +2239,11 @@ timestamp,bot_name,request_count,host,path
 2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-11T10:00:00Z - 2026-03-11T11:00:00Z,Meta AI,1,boazsobrado.com,/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,1,boazsobrado.com,/boaz_sobrado_cv.pdf
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/crypto/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/literature/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,1,boazsobrado.com,/series/finance/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Amazonbot,1,boazsobrado.com,/tags/writing/index.xml
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-11T12:00:00Z - 2026-03-11T13:00:00Z,Meta AI,2,boazsobrado.com,/categories/shiny/
