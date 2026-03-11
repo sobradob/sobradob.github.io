@@ -2271,3 +2271,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-11T19:00:00Z - 2026-03-11T20:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-11T19:00:00Z - 2026-03-11T20:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-11T19:00:00Z - 2026-03-11T20:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
+2026-03-11T20:00:00Z - 2026-03-11T21:00:00Z,Bingbot,1,boazsobrado.com,/categories/policy-analysis/
+2026-03-11T20:00:00Z - 2026-03-11T21:00:00Z,Bingbot,1,boazsobrado.com,/tags/liderazgo/
+2026-03-11T20:00:00Z - 2026-03-11T21:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-11T20:00:00Z - 2026-03-11T21:00:00Z,Meta AI,2,boazsobrado.com,/categories/opinion/
