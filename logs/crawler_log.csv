@@ -2075,3 +2075,42 @@ timestamp,bot_name,request_count,host,path
 2026-03-10T22:00:00Z - 2026-03-10T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
 2026-03-10T22:00:00Z - 2026-03-10T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/latin-america/
 2026-03-10T22:00:00Z - 2026-03-10T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Bytespider,1,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Bytespider,10,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Bytespider,1,boazsobrado.com,/tags/programming/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/8
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/8/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/10/26/myanmar-2015/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/10/29/how-to-get-your-facebook-messages-into-r/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/08/12/automating-my-business/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/27/mixpanel-live-growth-and-analytics/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/05/12/pricing-profit-and-paternalism/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/02/23/are-we-living-in-an-advertising-economy/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/bayes/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/fundraising/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/news_sitemap.xml
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/series/cuban-chapter/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/series/hacking/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/adtech/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/banking-regulation/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/colonialism/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-credit/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-innovation/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/growth/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/lee-kuan-yew/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-structure/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/monetary-policy/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/politics/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
+2026-03-11T01:00:00Z - 2026-03-11T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/regulatory-evolution/
