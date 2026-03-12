@@ -2461,3 +2461,49 @@ timestamp,bot_name,request_count,host,path
 2026-03-12T20:00:00Z - 2026-03-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/literature/
 2026-03-12T20:00:00Z - 2026-03-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
 2026-03-12T20:00:00Z - 2026-03-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/shiny/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/central-banking
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/central-banking/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/history
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/history/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,GPTBot,1,boazsobrado.com,/categories/crypto/index.xml
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,GPTBot,1,boazsobrado.com,/categories/derivatives/index.xml
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,GPTBot,1,boazsobrado.com,/categories/finance/index.xml
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,GPTBot,1,boazsobrado.com,/series/finance/index.xml
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2012/11/20/dont-fear-foreign-education/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/12/22/where-i-slept-in-2015/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/12/27/what-i-read-in-2015/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/02/29/donald-trump-and-zuckerbergs-matrix/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-ii/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/11/30/will-regulation-drive-consolidation-for-european-retail-brokers/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/cryptocurrency/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/finance/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-markets/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-1/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/advertising/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/coding/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/desarrollo-econ%C3%B3mico/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-cash/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/economic-analysis/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/lee-kuan-yew/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/maps/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/marketing-analytics/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/monero/
+2026-03-12T21:00:00Z - 2026-03-12T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/rotterdam/
