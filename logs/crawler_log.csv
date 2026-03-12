@@ -2420,3 +2420,17 @@ timestamp,bot_name,request_count,host,path
 2026-03-12T18:00:00Z - 2026-03-12T19:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-12T18:00:00Z - 2026-03-12T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-12T18:00:00Z - 2026-03-12T19:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Bytespider,3,boazsobrado.com,/boaz_sobrado_cv.pdf
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/writing
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/writing/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,GPTBot,2,boazsobrado.com,/blog/2020/11/07/my-thoughts-on-cambridge-analytica/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,GPTBot,1,boazsobrado.com,/tags/advertising/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,GPTBot,1,boazsobrado.com,/tags/advertising/index.xml
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2025/01/30/the-shiny-new-object-podcast-predictive-modeling-of-conversion-events/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Meta AI,2,boazsobrado.com,/categories/mistakes/
+2026-03-12T19:00:00Z - 2026-03-12T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/airships/
