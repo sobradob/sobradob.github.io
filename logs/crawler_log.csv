@@ -2696,3 +2696,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-13T15:00:00Z - 2026-03-13T16:00:00Z,GPTBot,1,boazsobrado.com,/tags/opinion/index.xml
 2026-03-13T15:00:00Z - 2026-03-13T16:00:00Z,Meta AI,2,boazsobrado.com,/categories/books/
 2026-03-13T15:00:00Z - 2026-03-13T16:00:00Z,Meta AI,2,boazsobrado.com,/categories/latin-america/
+2026-03-13T16:00:00Z - 2026-03-13T17:00:00Z,Amazonbot,1,boazsobrado.com,/(/series/media/)
+2026-03-13T16:00:00Z - 2026-03-13T17:00:00Z,Amazonbot,2,boazsobrado.com,/categories/financial-regulation/
