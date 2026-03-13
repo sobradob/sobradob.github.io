@@ -2563,3 +2563,17 @@ timestamp,bot_name,request_count,host,path
 2026-03-13T01:00:00Z - 2026-03-13T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/liderazgo/
 2026-03-13T01:00:00Z - 2026-03-13T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/pol%C3%ADtica-asi%C3%A1tica/
 2026-03-13T01:00:00Z - 2026-03-13T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/statistics/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/series/media/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/blog/2018/08/11/cubas-short-term-property-rental-market-2017-2018/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/categories/excel/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/categories/excel/index.xml
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/tags/r/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/tags/r/index.xml
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,GPTBot,1,boazsobrado.com,/tags/r/page/2/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/10/26/mines-in-the-air/
+2026-03-13T03:00:00Z - 2026-03-13T04:00:00Z,Meta AI,2,boazsobrado.com,/categories/finance/
