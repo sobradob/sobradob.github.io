@@ -2637,3 +2637,25 @@ timestamp,bot_name,request_count,host,path
 2026-03-13T10:00:00Z - 2026-03-13T11:00:00Z,Amazonbot,2,boazsobrado.com,/categories/excel/
 2026-03-13T10:00:00Z - 2026-03-13T11:00:00Z,ChatGPT,1,boazsobrado.com,/
 2026-03-13T10:00:00Z - 2026-03-13T11:00:00Z,Meta AI,1,boazsobrado.com,/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/blog/2018/11/08/a-smart-email-sms-bot-on-aws-using-r/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/blog/2019/08/12/automating-my-business/www.cubabackpacker.com
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/blog/2019/08/12/automating-my-business/www.zunzuncar.com
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/categories/airbnb/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/categories/facebook/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/categories/fundraising/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,2,boazsobrado.com,/categories/fundraising/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/categories/r/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,2,boazsobrado.com,/images/2me2018.gif
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/images/acfb2.png
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/images/baylac3.jpeg
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/images/metropolis_hastings2.gif
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/images/ppCheck.png
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,2,boazsobrado.com,/images/priorPredCheck.png
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/images/traceb2.png
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/series/hacking/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/series/hacking/page/2/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/tags/bayes/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,1,boazsobrado.com,/tags/facebook/
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,GPTBot,2,boazsobrado.com,/tags/facebook/index.xml
+2026-03-13T12:00:00Z - 2026-03-13T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
