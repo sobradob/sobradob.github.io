@@ -2710,3 +2710,22 @@ timestamp,bot_name,request_count,host,path
 2026-03-13T18:00:00Z - 2026-03-13T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/
 2026-03-13T18:00:00Z - 2026-03-13T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/monetary-policy/
 2026-03-13T18:00:00Z - 2026-03-13T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/neobanks/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/22/what-bernie-sanders-and-donald-trump-get-wrong-about-credit-cards/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-technology
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-technology/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/SiteMap.aspx
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/01/18/reading-las-casas-a-short-account-of-the-destruction-of-the-indies/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-2/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-credit/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy/
+2026-03-13T19:00:00Z - 2026-03-13T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/public-health/
