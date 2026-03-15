@@ -3074,3 +3074,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-15T09:00:00Z - 2026-03-15T10:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
 2026-03-15T09:00:00Z - 2026-03-15T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/ai/
 2026-03-15T09:00:00Z - 2026-03-15T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/content-creation/
+2026-03-15T10:00:00Z - 2026-03-15T11:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-15T10:00:00Z - 2026-03-15T11:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
