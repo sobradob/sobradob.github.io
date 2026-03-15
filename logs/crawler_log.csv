@@ -3076,3 +3076,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-15T09:00:00Z - 2026-03-15T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/content-creation/
 2026-03-15T10:00:00Z - 2026-03-15T11:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-03-15T10:00:00Z - 2026-03-15T11:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-03-15T12:00:00Z - 2026-03-15T13:00:00Z,Amazonbot,2,boazsobrado.com,/categories/airbnb/
+2026-03-15T12:00:00Z - 2026-03-15T13:00:00Z,Meta AI,2,boazsobrado.com,/blog/2021/01/01/ugocsa-non-coronat-the-visegradation-of-the-european-union/
+2026-03-15T12:00:00Z - 2026-03-15T13:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-03-15T12:00:00Z - 2026-03-15T13:00:00Z,Meta AI,2,boazsobrado.com,/series/verbose-musings/
