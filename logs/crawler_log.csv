@@ -3241,3 +3241,11 @@ timestamp,bot_name,request_count,host,path
 2026-03-16T06:00:00Z - 2026-03-16T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/remote-work/
 2026-03-16T06:00:00Z - 2026-03-16T07:00:00Z,Bingbot,1,boazsobrado.com,/images/plot_device_daily.png
 2026-03-16T06:00:00Z - 2026-03-16T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-regulation/index.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/index.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/index.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/index.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,2,boazsobrado.com,/categories/shiny/
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-regulation/index.xml
+2026-03-16T08:00:00Z - 2026-03-16T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/index.xml
