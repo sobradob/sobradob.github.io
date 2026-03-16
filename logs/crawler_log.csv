@@ -3230,3 +3230,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-15T22:00:00Z - 2026-03-15T23:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/ai/
 2026-03-15T22:00:00Z - 2026-03-15T23:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/content-creation
 2026-03-15T22:00:00Z - 2026-03-15T23:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/content-creation/
+2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2023/01/27/mixpanel-live-growth-and-analytics/
+2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,Amazonbot,2,boazsobrado.com,/categories/shiny/
+2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill/
+2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ClaudeBot,3,boazsobrado.com,/sitemap.xml
