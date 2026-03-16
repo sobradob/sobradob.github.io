@@ -3235,3 +3235,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill/
 2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-16T02:00:00Z - 2026-03-16T03:00:00Z,ClaudeBot,3,boazsobrado.com,/sitemap.xml
+2026-03-16T04:00:00Z - 2026-03-16T05:00:00Z,Amazonbot,1,boazsobrado.com,/tags/lee-kuan-yew/index.xml
+2026-03-16T04:00:00Z - 2026-03-16T05:00:00Z,Bingbot,1,boazsobrado.com,/categories/financial-markets/
+2026-03-16T04:00:00Z - 2026-03-16T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
