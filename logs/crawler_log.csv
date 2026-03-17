@@ -3675,3 +3675,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-17T20:00:00Z - 2026-03-17T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
 2026-03-17T20:00:00Z - 2026-03-17T21:00:00Z,Bingbot,1,www.boazsobrado.com,/sitemaps.xml
 2026-03-17T20:00:00Z - 2026-03-17T21:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-17T21:00:00Z - 2026-03-17T22:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-17T21:00:00Z - 2026-03-17T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-17T21:00:00Z - 2026-03-17T22:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-03-17T21:00:00Z - 2026-03-17T22:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/productivity
+2026-03-17T21:00:00Z - 2026-03-17T22:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/productivity/
