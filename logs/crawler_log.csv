@@ -3628,3 +3628,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-17T10:00:00Z - 2026-03-17T11:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
 2026-03-17T10:00:00Z - 2026-03-17T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
 2026-03-17T10:00:00Z - 2026-03-17T11:00:00Z,Meta AI,1,www.boazsobrado.com,/
+2026-03-17T12:00:00Z - 2026-03-17T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-17T12:00:00Z - 2026-03-17T13:00:00Z,Meta AI,1,boazsobrado.com,/categories/crypto/
