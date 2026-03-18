@@ -3836,3 +3836,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
 2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,Meta AI,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-03-18T22:00:00Z - 2026-03-18T23:00:00Z,Amazonbot,1,boazsobrado.com,/tags/digital-inclusion/index.xml
+2026-03-18T22:00:00Z - 2026-03-18T23:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
