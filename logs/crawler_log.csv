@@ -3688,3 +3688,15 @@ timestamp,bot_name,request_count,host,path
 2026-03-18T01:00:00Z - 2026-03-18T02:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/market-structure
 2026-03-18T01:00:00Z - 2026-03-18T02:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/market-structure/
 2026-03-18T01:00:00Z - 2026-03-18T02:00:00Z,Meta AI,2,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/10/27/central-banks-are-increasingly-studying-bitcoin/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Amazonbot,2,boazsobrado.com,/categories/books/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Amazonbot,2,boazsobrado.com,/categories/travel/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Amazonbot,2,boazsobrado.com,/series/op-ed/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Bingbot,1,boazsobrado.com,/images/cc_origination_by_risk_band.jpeg
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/media
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/media/
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
