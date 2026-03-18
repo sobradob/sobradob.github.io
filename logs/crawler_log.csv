@@ -3829,3 +3829,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-18T20:00:00Z - 2026-03-18T21:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/financial-innovation
 2026-03-18T20:00:00Z - 2026-03-18T21:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/financial-innovation/
 2026-03-18T20:00:00Z - 2026-03-18T21:00:00Z,Meta AI,2,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,Amazonbot,1,boazsobrado.com,/tags/ai/
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,Bingbot,1,boazsobrado.com,/images/EU2015.png
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-18T21:00:00Z - 2026-03-18T22:00:00Z,Meta AI,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
