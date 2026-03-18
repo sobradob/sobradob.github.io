@@ -3700,3 +3700,24 @@ timestamp,bot_name,request_count,host,path
 2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/media/
 2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
 2026-03-18T06:00:00Z - 2026-03-18T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/authors/example-author/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/authors/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/books/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/data/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/dataviz/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-innovation/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/docs/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/chess/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/economic-analysis/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-innovation/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-policy/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/index.xml
+2026-03-18T08:00:00Z - 2026-03-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/traducci%C3%B3n/index.xml
