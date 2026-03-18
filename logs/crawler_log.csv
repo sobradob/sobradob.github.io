@@ -3758,3 +3758,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-18T14:00:00Z - 2026-03-18T15:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-03-18T14:00:00Z - 2026-03-18T15:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-03-18T14:00:00Z - 2026-03-18T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-18T16:00:00Z - 2026-03-18T17:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-03-18T16:00:00Z - 2026-03-18T17:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
+2026-03-18T16:00:00Z - 2026-03-18T17:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-18T16:00:00Z - 2026-03-18T17:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-18T16:00:00Z - 2026-03-18T17:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
