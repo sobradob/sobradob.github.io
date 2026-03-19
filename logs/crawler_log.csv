@@ -3897,3 +3897,15 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/facebook
 2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/facebook/
 2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,Bingbot,1,boazsobrado.com,/images/games_per_month.png
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ChatGPT,4,boazsobrado.com,/
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/01/time-series-analysis-for-facebook-message-volume/
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2021/06/04/bitcoin-2021-what-to-do-when-your-country-bans-bitcoin
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2021/06/04/bitcoin-2021-what-to-do-when-your-country-bans-bitcoin/
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2026/01/14/bisq-smashes-records-as-demand-for-financial-privacy-soars
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2026/01/14/bisq-smashes-records-as-demand-for-financial-privacy-soars/
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,1,boazsobrado.com,/categories
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
+2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
