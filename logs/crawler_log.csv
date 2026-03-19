@@ -3909,3 +3909,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
 2026-03-19T09:00:00Z - 2026-03-19T10:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/01/time-series-analysis-for-facebook-message-volume/
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/policy-analysis
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/policy-analysis/
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-19T10:00:00Z - 2026-03-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
