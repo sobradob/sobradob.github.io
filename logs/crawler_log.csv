@@ -3931,3 +3931,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T13:00:00Z - 2026-03-19T14:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-19T13:00:00Z - 2026-03-19T14:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-19T13:00:00Z - 2026-03-19T14:00:00Z,Meta AI,2,boazsobrado.com,/blog/2015/10/26/myanmar-2015/
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/01/time-series-analysis-for-facebook-message-volume/
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/cypherpunk
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/cypherpunk/
+2026-03-19T15:00:00Z - 2026-03-19T16:00:00Z,Meta AI,2,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
