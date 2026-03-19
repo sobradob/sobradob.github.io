@@ -3886,3 +3886,14 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T07:00:00Z - 2026-03-19T08:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/chinese/
 2026-03-19T07:00:00Z - 2026-03-19T08:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/digital-cash
 2026-03-19T07:00:00Z - 2026-03-19T08:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/digital-cash/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/content-creation/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2020/12/11/defi-needs-a-silk-road-moment
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2020/12/11/defi-needs-a-silk-road-moment/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/facebook
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/facebook/
+2026-03-19T08:00:00Z - 2026-03-19T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
