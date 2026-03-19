@@ -3973,3 +3973,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T20:00:00Z - 2026-03-19T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-19T20:00:00Z - 2026-03-19T21:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/books
 2026-03-19T20:00:00Z - 2026-03-19T21:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/books/
+2026-03-19T21:00:00Z - 2026-03-19T22:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-19T21:00:00Z - 2026-03-19T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-19T21:00:00Z - 2026-03-19T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
