@@ -3870,3 +3870,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-19T04:00:00Z - 2026-03-19T05:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/trading-platforms
 2026-03-19T04:00:00Z - 2026-03-19T05:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/trading-platforms/
 2026-03-19T04:00:00Z - 2026-03-19T05:00:00Z,Meta AI,2,boazsobrado.com,/series/op-ed/
+2026-03-19T06:00:00Z - 2026-03-19T07:00:00Z,Bingbot,1,boazsobrado.com,/images/satantango_dvd_cover.jpeg
+2026-03-19T06:00:00Z - 2026-03-19T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-19T06:00:00Z - 2026-03-19T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
