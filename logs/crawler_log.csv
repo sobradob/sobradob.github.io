@@ -4027,3 +4027,5 @@ timestamp,bot_name,request_count,host,path
 2026-03-20T07:00:00Z - 2026-03-20T08:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-03-20T07:00:00Z - 2026-03-20T08:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-20T07:00:00Z - 2026-03-20T08:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-20T08:00:00Z - 2026-03-20T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/10/20/crypto-banks-under-fire-regulatory-crackdowns-and-opportunities/
+2026-03-20T08:00:00Z - 2026-03-20T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
