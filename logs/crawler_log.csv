@@ -4040,3 +4040,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-20T10:00:00Z - 2026-03-20T11:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/02/23/are-we-living-in-an-advertising-economy/
 2026-03-20T10:00:00Z - 2026-03-20T11:00:00Z,Amazonbot,2,boazsobrado.com,/categories/excel/
 2026-03-20T10:00:00Z - 2026-03-20T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,Amazonbot,1,boazsobrado.com,/blog/page/7/
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,boazsobrado.com,/
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,boazsobrado.com,/series/media
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,boazsobrado.com,/series/media/
+2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,www.boazsobrado.com,/
