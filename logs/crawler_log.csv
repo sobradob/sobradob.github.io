@@ -4046,3 +4046,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,boazsobrado.com,/series/media
 2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,boazsobrado.com,/series/media/
 2026-03-20T12:00:00Z - 2026-03-20T13:00:00Z,GPTBot,1,www.boazsobrado.com,/
+2026-03-20T13:00:00Z - 2026-03-20T14:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2018/08/11/how-to-generate-a-bitcoin-vanity-address-using-a-mac/
+2026-03-20T13:00:00Z - 2026-03-20T14:00:00Z,Amazonbot,1,boazsobrado.com,/categories/personal/
+2026-03-20T13:00:00Z - 2026-03-20T14:00:00Z,Amazonbot,1,boazsobrado.com,/categories/work--technology/
