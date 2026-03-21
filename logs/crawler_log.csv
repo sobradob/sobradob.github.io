@@ -4193,3 +4193,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-21T09:00:00Z - 2026-03-21T10:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-21T09:00:00Z - 2026-03-21T10:00:00Z,ClaudeBot,3,boazsobrado.com,/sitemap.xml
 2026-03-21T09:00:00Z - 2026-03-21T10:00:00Z,Meta AI,2,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Amazonbot,1,boazsobrado.com,/tags/facebook/
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Amazonbot,1,boazsobrado.com,/tags/financial-innovation/
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
+2026-03-21T10:00:00Z - 2026-03-21T11:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
