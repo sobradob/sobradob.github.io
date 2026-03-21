@@ -4139,3 +4139,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-21T04:00:00Z - 2026-03-21T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-21T04:00:00Z - 2026-03-21T05:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/opinion
 2026-03-21T04:00:00Z - 2026-03-21T05:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/opinion/
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2015/10/26/myanmar-2015/
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,Amazonbot,1,boazsobrado.com,/categories/travel/index.xml
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,Amazonbot,1,boazsobrado.com,/series/cuban-chapter/
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,ClaudeBot,2,boazsobrado.com,/contact
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,ClaudeBot,1,boazsobrado.com,/contact/
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-03-21T05:00:00Z - 2026-03-21T06:00:00Z,Meta AI,2,boazsobrado.com,/categories/travel/
