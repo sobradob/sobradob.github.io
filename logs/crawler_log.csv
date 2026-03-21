@@ -4124,3 +4124,13 @@ timestamp,bot_name,request_count,host,path
 2026-03-21T01:00:00Z - 2026-03-21T02:00:00Z,Amazonbot,1,boazsobrado.com,/categories/politics/
 2026-03-21T01:00:00Z - 2026-03-21T02:00:00Z,Amazonbot,1,boazsobrado.com,/contact/
 2026-03-21T01:00:00Z - 2026-03-21T02:00:00Z,Bingbot,2,boazsobrado.com,/images/old-people-pension.jpg
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Amazonbot,1,boazsobrado.com,/categories/costa-rica/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Amazonbot,1,boazsobrado.com,/categories/gps/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Amazonbot,1,boazsobrado.com,/categories/maps/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Bingbot,2,boazsobrado.com,/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Bingbot,1,boazsobrado.com,/blog/2024/10/20/crypto-banks-under-fire-regulatory-crackdowns-and-opportunities/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-21T03:00:00Z - 2026-03-21T04:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
