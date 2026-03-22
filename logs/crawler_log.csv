@@ -4387,3 +4387,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-22T18:00:00Z - 2026-03-22T19:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-22T18:00:00Z - 2026-03-22T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-22T18:00:00Z - 2026-03-22T19:00:00Z,Meta AI,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-03-22T19:00:00Z - 2026-03-22T20:00:00Z,Amazonbot,1,boazsobrado.com,/categories/derivatives/index.xml
+2026-03-22T19:00:00Z - 2026-03-22T20:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-03-22T19:00:00Z - 2026-03-22T20:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-22T19:00:00Z - 2026-03-22T20:00:00Z,Meta AI,2,boazsobrado.com,/categories/books/
+2026-03-22T19:00:00Z - 2026-03-22T20:00:00Z,Meta AI,2,boazsobrado.com,/series/verbose-musings/
