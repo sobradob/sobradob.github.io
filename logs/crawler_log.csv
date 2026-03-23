@@ -4428,3 +4428,11 @@ timestamp,bot_name,request_count,host,path
 2026-03-23T06:00:00Z - 2026-03-23T07:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/derivatives/
 2026-03-23T06:00:00Z - 2026-03-23T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-23T06:00:00Z - 2026-03-23T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2026/03/13/c%C3%B3mo-dominar-el-contenido-con-ia-gu%C3%ADa-paso-a-paso/
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/r
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/r/
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,GPTBot,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i//
+2026-03-23T08:00:00Z - 2026-03-23T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
