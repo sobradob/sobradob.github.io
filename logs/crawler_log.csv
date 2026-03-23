@@ -4481,3 +4481,10 @@ timestamp,bot_name,request_count,host,path
 2026-03-23T21:00:00Z - 2026-03-23T22:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
 2026-03-23T21:00:00Z - 2026-03-23T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-23T21:00:00Z - 2026-03-23T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/17/how-stripe-and-stablecoins-are-rewiring-remote-work/
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-03-23T22:00:00Z - 2026-03-23T23:00:00Z,Meta AI,2,boazsobrado.com,/boaz_sobrado_cv.pdf
