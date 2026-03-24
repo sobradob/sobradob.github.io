@@ -4676,3 +4676,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-24T08:00:00Z - 2026-03-24T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-03-24T08:00:00Z - 2026-03-24T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
 2026-03-24T08:00:00Z - 2026-03-24T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/
+2026-03-24T09:00:00Z - 2026-03-24T10:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-24T09:00:00Z - 2026-03-24T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-03-24T09:00:00Z - 2026-03-24T10:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
+2026-03-24T09:00:00Z - 2026-03-24T10:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
