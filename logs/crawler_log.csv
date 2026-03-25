@@ -4792,3 +4792,8 @@ timestamp,bot_name,request_count,host,path
 2026-03-25T05:00:00Z - 2026-03-25T06:00:00Z,ChatGPT,1,boazsobrado.com,/series/finance/
 2026-03-25T05:00:00Z - 2026-03-25T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-03-25T05:00:00Z - 2026-03-25T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-25T06:00:00Z - 2026-03-25T07:00:00Z,Amazonbot,1,boazsobrado.com,/series/cuban-chapter/index.xml
+2026-03-25T06:00:00Z - 2026-03-25T07:00:00Z,Bytespider,1,boazsobrado.com,/images/icon.png
+2026-03-25T06:00:00Z - 2026-03-25T07:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-25T06:00:00Z - 2026-03-25T07:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-25T06:00:00Z - 2026-03-25T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/03/13/c%C3%B3mo-dominar-el-contenido-con-ia-gu%C3%ADa-paso-a-paso/
