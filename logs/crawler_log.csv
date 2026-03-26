@@ -5034,3 +5034,6 @@ timestamp,bot_name,request_count,host,path
 2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
 2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-03-26T10:00:00Z - 2026-03-26T11:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-26T10:00:00Z - 2026-03-26T11:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-26T10:00:00Z - 2026-03-26T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
