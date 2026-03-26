@@ -5030,3 +5030,7 @@ timestamp,bot_name,request_count,host,path
 2026-03-26T06:00:00Z - 2026-03-26T07:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
 2026-03-26T06:00:00Z - 2026-03-26T07:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
 2026-03-26T06:00:00Z - 2026-03-26T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-03-26T08:00:00Z - 2026-03-26T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
