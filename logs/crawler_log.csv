@@ -5089,3 +5089,9 @@ timestamp,bot_name,request_count,host,path
 2026-03-27T04:00:00Z - 2026-03-27T05:00:00Z,Bingbot,1,boazsobrado.com,/images/EU2015.png
 2026-03-27T06:00:00Z - 2026-03-27T07:00:00Z,Bingbot,1,boazsobrado.com,/images/games_per_month.png
 2026-03-27T06:00:00Z - 2026-03-27T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/hugo
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/hugo/
+2026-03-27T08:00:00Z - 2026-03-27T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
