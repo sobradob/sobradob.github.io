@@ -6150,3 +6150,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-01T21:00:00Z - 2026-04-01T22:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/writing
 2026-04-01T21:00:00Z - 2026-04-01T22:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/writing/
 2026-04-01T21:00:00Z - 2026-04-01T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,ChatGPT,10,boazsobrado.com,/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
+2026-04-01T22:00:00Z - 2026-04-01T23:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/
