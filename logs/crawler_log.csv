@@ -6071,3 +6071,8 @@ timestamp,bot_name,request_count,host,path
 2026-04-01T05:00:00Z - 2026-04-01T06:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
 2026-04-01T05:00:00Z - 2026-04-01T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-01T05:00:00Z - 2026-04-01T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-01T08:00:00Z - 2026-04-01T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
+2026-04-01T08:00:00Z - 2026-04-01T09:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/crypto
+2026-04-01T08:00:00Z - 2026-04-01T09:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/crypto/
+2026-04-01T08:00:00Z - 2026-04-01T09:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-01T08:00:00Z - 2026-04-01T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
