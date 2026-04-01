@@ -6086,3 +6086,8 @@ timestamp,bot_name,request_count,host,path
 2026-04-01T12:00:00Z - 2026-04-01T13:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-04-01T12:00:00Z - 2026-04-01T13:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-04-01T12:00:00Z - 2026-04-01T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-01T14:00:00Z - 2026-04-01T15:00:00Z,Bingbot,1,boazsobrado.com,/images/voc_coin.jpg
+2026-04-01T14:00:00Z - 2026-04-01T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/01/30/the-shiny-new-object-podcast-predictive-modeling-of-conversion-events/
+2026-04-01T14:00:00Z - 2026-04-01T15:00:00Z,ChatGPT,1,boazsobrado.com,/series/forbes-commentary/
+2026-04-01T14:00:00Z - 2026-04-01T15:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-01T14:00:00Z - 2026-04-01T15:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
