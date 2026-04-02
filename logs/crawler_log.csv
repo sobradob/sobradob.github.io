@@ -6226,3 +6226,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-02T19:00:00Z - 2026-04-02T20:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
 2026-04-02T19:00:00Z - 2026-04-02T20:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-04-02T19:00:00Z - 2026-04-02T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2023/07/16/old-age-originations/
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemap_index.xml
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,ChatGPT,1,boazsobrado.com,/series/forbes-commentary/
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/finance/
+2026-04-02T20:00:00Z - 2026-04-02T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/travel/
