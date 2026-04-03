@@ -6348,3 +6348,6 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T16:00:00Z - 2026-04-03T17:00:00Z,Meta AI,1,boazsobrado.com,/tags/institutional-evolution/
 2026-04-03T18:00:00Z - 2026-04-03T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-03T18:00:00Z - 2026-04-03T19:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
+2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
