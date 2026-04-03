@@ -6331,3 +6331,12 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T14:00:00Z - 2026-04-03T15:00:00Z,Meta AI,1,boazsobrado.com,/categories/crypto/
 2026-04-03T14:00:00Z - 2026-04-03T15:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
 2026-04-03T14:00:00Z - 2026-04-03T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/politics/
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,Bingbot,1,boazsobrado.com,/images/EU2015.png
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,Bingbot,1,boazsobrado.com,/series/on-books/
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,Bytespider,2,www.boazsobrado.com,/robots.txt
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,ChatGPT,1,boazsobrado.com,/categories/crypto/
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,ChatGPT,1,boazsobrado.com,/contact/
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-03T15:00:00Z - 2026-04-03T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
