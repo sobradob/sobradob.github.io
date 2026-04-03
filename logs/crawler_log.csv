@@ -6288,3 +6288,13 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/singapur
 2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/singapur/
 2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,Bytespider,1,boazsobrado.com,/images/plot_device_daily.png
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/monetary-policy
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/monetary-policy/
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/singapur
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/singapur/
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/trading-platforms
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/trading-platforms/
+2026-04-03T10:00:00Z - 2026-04-03T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/11/30/will-regulation-drive-consolidation-for-european-retail-brokers/
