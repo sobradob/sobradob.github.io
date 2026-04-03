@@ -6262,3 +6262,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T04:00:00Z - 2026-04-03T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-03T04:00:00Z - 2026-04-03T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-03T04:00:00Z - 2026-04-03T05:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-03T06:00:00Z - 2026-04-03T07:00:00Z,Meta AI,1,boazsobrado.com,/
