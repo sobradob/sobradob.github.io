@@ -6278,3 +6278,13 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T08:00:00Z - 2026-04-03T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
 2026-04-03T08:00:00Z - 2026-04-03T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/02/23/are-we-living-in-an-advertising-economy/
 2026-04-03T08:00:00Z - 2026-04-03T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland/
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,Bingbot,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,3,boazsobrado.com,/tags/desarrollo-econ%C3%B3mico
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/lee-kuan-yew
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/lee-kuan-yew/
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/liderazgo
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/liderazgo/
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/singapur
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/singapur/
+2026-04-03T09:00:00Z - 2026-04-03T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
