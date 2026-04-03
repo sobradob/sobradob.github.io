@@ -6351,3 +6351,12 @@ timestamp,bot_name,request_count,host,path
 2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
 2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
 2026-04-03T19:00:00Z - 2026-04-03T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2021/01/01/ugocsa-non-coronat-the-visegradation-of-the-european-union/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/finance/
+2026-04-03T20:00:00Z - 2026-04-03T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
