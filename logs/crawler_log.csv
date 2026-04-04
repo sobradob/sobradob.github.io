@@ -6405,3 +6405,7 @@ timestamp,bot_name,request_count,host,path
 2026-04-04T05:00:00Z - 2026-04-04T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-04T05:00:00Z - 2026-04-04T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-04T05:00:00Z - 2026-04-04T06:00:00Z,GPTBot,1,www.boazsobrado.com,/
+2026-04-04T06:00:00Z - 2026-04-04T07:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-04-04T06:00:00Z - 2026-04-04T07:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/14/bisq-smashes-records-as-demand-for-financial-privacy-soars/
+2026-04-04T06:00:00Z - 2026-04-04T07:00:00Z,Meta AI,1,boazsobrado.com,/categories/work--technology/
+2026-04-04T06:00:00Z - 2026-04-04T07:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
