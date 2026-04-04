@@ -6482,3 +6482,4 @@ timestamp,bot_name,request_count,host,path
 2026-04-04T18:00:00Z - 2026-04-04T19:00:00Z,Amazonbot,1,boazsobrado.com,/categories/digital-strategy/
 2026-04-04T18:00:00Z - 2026-04-04T19:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
 2026-04-04T18:00:00Z - 2026-04-04T19:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-04-04T19:00:00Z - 2026-04-04T20:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.txt
