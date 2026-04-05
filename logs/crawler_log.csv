@@ -6528,3 +6528,5 @@ timestamp,bot_name,request_count,host,path
 2026-04-05T04:00:00Z - 2026-04-05T05:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-04-05T04:00:00Z - 2026-04-05T05:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-04-05T04:00:00Z - 2026-04-05T05:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-04-05T06:00:00Z - 2026-04-05T07:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-04-05T06:00:00Z - 2026-04-05T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
