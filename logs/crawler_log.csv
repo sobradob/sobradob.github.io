@@ -6626,3 +6626,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-05T18:00:00Z - 2026-04-05T19:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-05T18:00:00Z - 2026-04-05T19:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-05T18:00:00Z - 2026-04-05T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/trading-platforms/
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/maps
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/maps/
+2026-04-05T19:00:00Z - 2026-04-05T20:00:00Z,Meta AI,1,boazsobrado.com,/boaz_sobrado_cv.pdf
