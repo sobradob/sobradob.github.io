@@ -6641,3 +6641,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-05T20:00:00Z - 2026-04-05T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-05T20:00:00Z - 2026-04-05T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-05T20:00:00Z - 2026-04-05T21:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,Bingbot,2,boazsobrado.com,/images/poland_china_gdp.jpeg
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,Bingbot,2,boazsobrado.com,/robots.txt
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,ChatGPT,1,boazsobrado.com,/boaz_sobrado_cv.pdf
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,ChatGPT,1,boazsobrado.com,/contact/
+2026-04-05T21:00:00Z - 2026-04-05T22:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
