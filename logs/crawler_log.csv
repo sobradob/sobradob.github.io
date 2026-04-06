@@ -6729,3 +6729,14 @@ timestamp,bot_name,request_count,host,path
 2026-04-06T15:00:00Z - 2026-04-06T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-06T15:00:00Z - 2026-04-06T16:00:00Z,Meta AI,2,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
 2026-04-06T15:00:00Z - 2026-04-06T16:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,Amazonbot,1,boazsobrado.com,/categories/media/index.xml
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,Bingbot,1,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,Bingbot,2,boazsobrado.com,/robots.txt
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/01/time-series-analysis-for-facebook-message-volume/
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/2
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/2/
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/3
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/3/
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-06T16:00:00Z - 2026-04-06T17:00:00Z,Meta AI,1,boazsobrado.com,/categories/rotterdam/
