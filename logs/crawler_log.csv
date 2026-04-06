@@ -6699,3 +6699,7 @@ timestamp,bot_name,request_count,host,path
 2026-04-06T12:00:00Z - 2026-04-06T13:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/privacy
 2026-04-06T12:00:00Z - 2026-04-06T13:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/privacy/
 2026-04-06T12:00:00Z - 2026-04-06T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/08/11/cubas-short-term-property-rental-market-2017-2018/
+2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,Meta AI,1,boazsobrado.com,/202507_boazsobradocv_short.pdf
