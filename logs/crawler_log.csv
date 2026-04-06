@@ -6661,3 +6661,6 @@ timestamp,bot_name,request_count,host,path
 2026-04-06T02:00:00Z - 2026-04-06T03:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-06T02:00:00Z - 2026-04-06T03:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-06T02:00:00Z - 2026-04-06T03:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
+2026-04-06T05:00:00Z - 2026-04-06T06:00:00Z,Amazonbot,1,boazsobrado.com,/series/index.xml
+2026-04-06T05:00:00Z - 2026-04-06T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-06T05:00:00Z - 2026-04-06T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
