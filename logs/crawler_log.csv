@@ -6703,3 +6703,22 @@ timestamp,bot_name,request_count,host,path
 2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
 2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-06T13:00:00Z - 2026-04-06T14:00:00Z,Meta AI,1,boazsobrado.com,/202507_boazsobradocv_short.pdf
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,Bytespider,1,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,Bytespider,1,boazsobrado.com,/images/plot_device_daily.png
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/blog
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2016/10/29/how-to-get-your-facebook-messages-into-r
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/10/29/how-to-get-your-facebook-messages-into-r/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/airbnb
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/airbnb/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/crypto
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/crypto/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/latin-america
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/latin-america/
+2026-04-06T14:00:00Z - 2026-04-06T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
