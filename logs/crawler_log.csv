@@ -6677,3 +6677,12 @@ timestamp,bot_name,request_count,host,path
 2026-04-06T08:00:00Z - 2026-04-06T09:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
 2026-04-06T08:00:00Z - 2026-04-06T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-structure/
 2026-04-06T08:00:00Z - 2026-04-06T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/statistics/
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,Bingbot,1,www.boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs/
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/r
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/r/
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,2,boazsobrado.com,/docs/example-doc/nested-chapter
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,1,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-06T10:00:00Z - 2026-04-06T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
