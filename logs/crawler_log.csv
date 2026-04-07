@@ -6821,3 +6821,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-07T06:00:00Z - 2026-04-07T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-07T08:00:00Z - 2026-04-07T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-07T08:00:00Z - 2026-04-07T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,Bingbot,1,boazsobrado.com,/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,Bingbot,1,boazsobrado.com,/series/finance/
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-07T10:00:00Z - 2026-04-07T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
