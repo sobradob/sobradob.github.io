@@ -7047,3 +7047,8 @@ timestamp,bot_name,request_count,host,path
 2026-04-09T06:00:00Z - 2026-04-09T07:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
 2026-04-09T06:00:00Z - 2026-04-09T07:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
 2026-04-09T06:00:00Z - 2026-04-09T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-09T08:00:00Z - 2026-04-09T09:00:00Z,Bingbot,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2/
+2026-04-09T08:00:00Z - 2026-04-09T09:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-09T08:00:00Z - 2026-04-09T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-09T08:00:00Z - 2026-04-09T09:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/economic-analysis
+2026-04-09T08:00:00Z - 2026-04-09T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/economic-analysis/
