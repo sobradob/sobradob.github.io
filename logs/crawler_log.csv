@@ -7059,3 +7059,8 @@ timestamp,bot_name,request_count,host,path
 2026-04-09T13:00:00Z - 2026-04-09T14:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
 2026-04-09T13:00:00Z - 2026-04-09T14:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/health
 2026-04-09T13:00:00Z - 2026-04-09T14:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/health/
+2026-04-09T15:00:00Z - 2026-04-09T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-04-09T15:00:00Z - 2026-04-09T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-04-09T15:00:00Z - 2026-04-09T16:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-09T15:00:00Z - 2026-04-09T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-09T15:00:00Z - 2026-04-09T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
