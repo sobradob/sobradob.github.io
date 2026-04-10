@@ -7159,3 +7159,7 @@ timestamp,bot_name,request_count,host,path
 2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/economics/
+2026-04-10T12:00:00Z - 2026-04-10T13:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
+2026-04-10T12:00:00Z - 2026-04-10T13:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
+2026-04-10T12:00:00Z - 2026-04-10T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-10T12:00:00Z - 2026-04-10T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
