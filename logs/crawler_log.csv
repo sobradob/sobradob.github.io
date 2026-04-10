@@ -7151,3 +7151,11 @@ timestamp,bot_name,request_count,host,path
 2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/opinion
 2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/opinion/
 2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,Meta AI,2,boazsobrado.com,/boaz_sobrado_cv.pdf
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Amazonbot,2,boazsobrado.com,/
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Bingbot,1,boazsobrado.com,/images/blind_men_coin_1.jpg
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-10T10:00:00Z - 2026-04-10T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/economics/
