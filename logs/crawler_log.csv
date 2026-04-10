@@ -7147,3 +7147,7 @@ timestamp,bot_name,request_count,host,path
 2026-04-10T06:00:00Z - 2026-04-10T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-10T06:00:00Z - 2026-04-10T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2012/11/20/dont-fear-foreign-education/
 2026-04-10T06:00:00Z - 2026-04-10T07:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-rights/
+2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/opinion
+2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/opinion/
+2026-04-10T08:00:00Z - 2026-04-10T09:00:00Z,Meta AI,2,boazsobrado.com,/boaz_sobrado_cv.pdf
