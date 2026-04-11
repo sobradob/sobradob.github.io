@@ -7263,3 +7263,10 @@ timestamp,bot_name,request_count,host,path
 2026-04-11T02:00:00Z - 2026-04-11T03:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-11T02:00:00Z - 2026-04-11T03:00:00Z,Meta AI,1,boazsobrado.com,/categories/derivatives/
 2026-04-11T02:00:00Z - 2026-04-11T03:00:00Z,Meta AI,1,boazsobrado.com,/categories/history/
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,Amazonbot,1,boazsobrado.com,/tags/rotterdam/
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-11T04:00:00Z - 2026-04-11T05:00:00Z,Meta AI,2,boazsobrado.com,/202507_boazsobradocv_short.pdf
