@@ -7513,3 +7513,5 @@ timestamp,bot_name,request_count,host,path
 2026-04-12T14:00:00Z - 2026-04-12T15:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-12T14:00:00Z - 2026-04-12T15:00:00Z,Meta AI,2,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
 2026-04-12T14:00:00Z - 2026-04-12T15:00:00Z,Meta AI,2,boazsobrado.com,/series/verbose-musings/
+2026-04-12T15:00:00Z - 2026-04-12T16:00:00Z,Amazonbot,1,boazsobrado.com,/categories/shiny/
+2026-04-12T15:00:00Z - 2026-04-12T16:00:00Z,Amazonbot,1,boazsobrado.com,/tags/r/
