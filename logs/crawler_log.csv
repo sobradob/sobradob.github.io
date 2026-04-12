@@ -7440,3 +7440,15 @@ timestamp,bot_name,request_count,host,path
 2026-04-12T06:00:00Z - 2026-04-12T07:00:00Z,Amazonbot,1,boazsobrado.com,/tags/mistakes/
 2026-04-12T06:00:00Z - 2026-04-12T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-04-12T06:00:00Z - 2026-04-12T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2016/10/29/how-to-get-your-facebook-messages-into-r/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,2,boazsobrado.com,/categories/coding/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/categories/fundraising/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/series/forbes-commentary/index.xml
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/colonialism/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/epidemiology/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/public-health/
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-04-12T08:00:00Z - 2026-04-12T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
