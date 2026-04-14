@@ -7697,3 +7697,9 @@ timestamp,bot_name,request_count,host,path
 2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
 2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/currency/
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/currency/
+2026-04-14T22:00:00Z - 2026-04-14T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
