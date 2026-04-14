@@ -7693,3 +7693,7 @@ timestamp,bot_name,request_count,host,path
 2026-04-14T20:00:00Z - 2026-04-14T21:00:00Z,ClaudeBot,1,boazsobrado.com,/
 2026-04-14T20:00:00Z - 2026-04-14T21:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2018/11/08/a-smart-email-sms-bot-on-aws-using-r/
 2026-04-14T20:00:00Z - 2026-04-14T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/
+2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-14T21:00:00Z - 2026-04-14T22:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/currency/
