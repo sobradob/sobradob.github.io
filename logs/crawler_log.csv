@@ -7663,3 +7663,5 @@ timestamp,bot_name,request_count,host,path
 2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Amazonbot,1,boazsobrado.com,/series/hacking/page/2/
 2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/06/04/bitcoin-2021-what-to-do-when-your-country-bans-bitcoin/
 2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-04-14T15:00:00Z - 2026-04-14T16:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-14T15:00:00Z - 2026-04-14T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
