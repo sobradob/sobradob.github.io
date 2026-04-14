@@ -7660,3 +7660,6 @@ timestamp,bot_name,request_count,host,path
 2026-04-14T11:00:00Z - 2026-04-14T12:00:00Z,Amazonbot,1,boazsobrado.com,/tags/shiny/index.xml
 2026-04-14T11:00:00Z - 2026-04-14T12:00:00Z,Bingbot,2,boazsobrado.com,/images/icon.png
 2026-04-14T11:00:00Z - 2026-04-14T12:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Amazonbot,1,boazsobrado.com,/series/hacking/page/2/
+2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/06/04/bitcoin-2021-what-to-do-when-your-country-bans-bitcoin/
+2026-04-14T13:00:00Z - 2026-04-14T14:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/nested-chapter/
