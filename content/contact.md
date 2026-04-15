@@ -5,6 +5,10 @@ draft: false
 type: "page"
 layout: "single-no-meta"
 ---
+### PR & Media Pitches
+
+If you're a publicist or PR professional looking to pitch a story or book a guest appearance, please fill out [this form](https://forms.gle/AGuKqs7nGsabH4AV7). It covers my work as a Forbes contributor and my podcast, On The Margin, and explains how I work with sources. Emails will likely be ignored.
+
 ### Email
 - **General inquiries:** [me@boazsobrado.com](mailto:me@boazsobrado.com)
 - **GPG Public Key:** <a href="/public-key.asc" target="_blank" rel="noopener">Download public-key.asc</a> for encrypted communication
@@ -14,10 +18,6 @@ layout: "single-no-meta"
 - [Twitter (@sobradob)](https://twitter.com/sobradob)
 - [LinkedIn](https://www.linkedin.com/in/boazsobrado/)
 - [GitHub](https://github.com/sobradob/)
-
-### PR & Media Pitches
-
-If you're a publicist or PR professional looking to pitch a story or book a guest appearance, please fill out [this form](https://forms.gle/AGuKqs7nGsabH4AV7). It covers my work as a Forbes contributor and my podcast, On The Margin, and explains how I work with sources.
 
 ### Professional Services
 
