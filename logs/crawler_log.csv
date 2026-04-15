@@ -7835,3 +7835,51 @@ timestamp,bot_name,request_count,host,path
 2026-04-15T20:00:00Z - 2026-04-15T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
 2026-04-15T20:00:00Z - 2026-04-15T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/r/
 2026-04-15T20:00:00Z - 2026-04-15T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/traducci%C3%B3n/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,2,boazsobrado.com,/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,2,boazsobrado.com,/blog/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,2,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/cdn-cgi/scripts/5c5dd728/cloudflare-static/'+e.replace(/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/css/eureka.min.79b43d5eee25428b66e6d15a22bff4ea4aef4515702399d5f821c61a8cfec940e741cafbfb615df8f15f6797237cd822.css
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/images/hungary_continental_share.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/images/hungary_employment_inflation.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/images/hungary_gender_ratio.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,2,boazsobrado.com,/images/hungary_romania_collapse.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,2,boazsobrado.com,/images/hungary_russia_ukraine.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/images/hungary_top_nationalities.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,3,boazsobrado.com,/images/hungary_total.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/images/hungary_waterfall.png
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/series/media
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/series/media/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/central-europe/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/central-europe/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/data-analysis/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/demographics/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/demographics/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/guest-workers/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/guest-workers/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/hungary/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/hungary/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,GPTBot,1,boazsobrado.com,/tags/immigration/index.xml
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/1/01/01/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/10/26/myanmar-2015/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/cryptocurrency/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/data/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-markets/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-2/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-rights/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/political-economy/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
+2026-04-15T21:00:00Z - 2026-04-15T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
