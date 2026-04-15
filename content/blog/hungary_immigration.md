@@ -1,6 +1,6 @@
 ---
 title: "Hungary's Hidden Immigration Surge: 252,000 Foreign Nationals and Counting"
-description: "Despite Viktor Orbán's anti-immigration rhetoric, Hungary now has 252,000 foreign nationals, nearly double the pre-COVID level. The data from Hungary's statistical office tells a story of economic pragmatism trumping political theatre."
+description: "Despite Viktor Orbán's anti-immigration rhetoric, Hungary now has 252,000 foreign nationals, nearly double the pre-Fidesz level. The data from Hungary's statistical office tells a story of economic pragmatism trumping political theatre."
 toc: true
 tags:
 - immigration
