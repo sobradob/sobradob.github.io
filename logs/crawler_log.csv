@@ -8035,3 +8035,15 @@ timestamp,bot_name,request_count,host,path
 2026-04-16T07:00:00Z - 2026-04-16T08:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
 2026-04-16T07:00:00Z - 2026-04-16T08:00:00Z,Meta AI,2,boazsobrado.com,/series/opinion/
 2026-04-16T07:00:00Z - 2026-04-16T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/writing/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/10/25/raising-money-for-friends-hurt-by-hurricane-irma/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/coding/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/
+2026-04-16T09:00:00Z - 2026-04-16T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
