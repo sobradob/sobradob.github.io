@@ -8166,3 +8166,28 @@ timestamp,bot_name,request_count,host,path
 2026-04-17T05:00:00Z - 2026-04-17T06:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.html
 2026-04-17T05:00:00Z - 2026-04-17T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/colonialism/
 2026-04-17T05:00:00Z - 2026-04-17T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bingbot,1,boazsobrado.com,/categories/literature/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,4,boazsobrado.com,/images/cave_club_trinidad.jpeg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,2,boazsobrado.com,/images/fruit_stall.jpg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,3,boazsobrado.com,/images/havana_ice_cream.jpeg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,4,boazsobrado.com,/images/havana_universities.jpeg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,6,boazsobrado.com,/images/havana_university.jpeg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,2,boazsobrado.com,/images/soviet_building_cuba.jpeg
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,GPTBot,1,boazsobrado.com,/tags/coding/index.xml
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/finance/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-regulation/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/news-sitemap.xml
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/ai/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/literature/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/neobanks/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/travel/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,PerplexityBot,2,boazsobrado.com,/images/hungary_total.png
+2026-04-17T07:00:00Z - 2026-04-17T08:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
