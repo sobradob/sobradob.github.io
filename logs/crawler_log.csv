@@ -9067,3 +9067,17 @@ timestamp,bot_name,request_count,host,path
 2026-04-22T07:00:00Z - 2026-04-22T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/history/
 2026-04-22T07:00:00Z - 2026-04-22T08:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-2/
 2026-04-22T07:00:00Z - 2026-04-22T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/lee-kuan-yew/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2026/01/18/reading-las-casas-a-short-account-of-the-destruction-of-the-indies/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-ii/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/cryptocurrency/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/facebook/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/rotterdam/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/images/bisq_payment_method.png
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/series/forbes-commentary/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/
+2026-04-22T09:00:00Z - 2026-04-22T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/
