@@ -9203,3 +9203,13 @@ timestamp,bot_name,request_count,host,path
 2026-04-22T22:00:00Z - 2026-04-22T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
 2026-04-22T22:00:00Z - 2026-04-22T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/maps/
 2026-04-22T22:00:00Z - 2026-04-22T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/opinion/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Bingbot,1,boazsobrado.com,/categories/chinese/index.xml
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,ChatGPT,5,boazsobrado.com,/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,ChatGPT,3,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-systems/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Meta AI,2,boazsobrado.com,/categories/literature/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Meta AI,4,boazsobrado.com,/series/opinion/
+2026-04-23T02:00:00Z - 2026-04-23T03:00:00Z,Meta AI,1,boazsobrado.com,/tags/film/
