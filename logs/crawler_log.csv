@@ -9562,3 +9562,14 @@ timestamp,bot_name,request_count,host,path
 2026-04-25T10:00:00Z - 2026-04-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
 2026-04-25T10:00:00Z - 2026-04-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-intermediation/
 2026-04-25T10:00:00Z - 2026-04-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/liderazgo/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/books/index.xml
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/derivatives/index.xml
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/maps/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/23/the-tulip-craze-conspiracy/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/categories/fundraising/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-credit/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/
+2026-04-25T12:00:00Z - 2026-04-25T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
