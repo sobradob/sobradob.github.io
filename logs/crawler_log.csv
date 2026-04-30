@@ -10558,3 +10558,19 @@ timestamp,bot_name,request_count,host,path
 2026-04-30T17:00:00Z - 2026-04-30T18:00:00Z,Meta AI,1,boazsobrado.com,/categories/personal/
 2026-04-30T17:00:00Z - 2026-04-30T18:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
 2026-04-30T17:00:00Z - 2026-04-30T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Amazonbot,1,boazsobrado.com,/tags/monero/index.xml
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bingbot,2,www.boazsobrado.com,/sitemaps.xml
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bytespider,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bytespider,1,boazsobrado.com,/images/blind_men_coin_1.jpg
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bytespider,1,boazsobrado.com,/images/casino_ill1.png
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bytespider,1,boazsobrado.com,/images/everything_scam.png
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Bytespider,1,boazsobrado.com,/images/generation_moonshot.png
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-1/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
+2026-04-30T19:00:00Z - 2026-04-30T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
