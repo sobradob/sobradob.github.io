@@ -10636,3 +10636,20 @@ timestamp,bot_name,request_count,host,path
 2026-05-01T10:00:00Z - 2026-05-01T11:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
 2026-05-01T10:00:00Z - 2026-05-01T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
 2026-05-01T10:00:00Z - 2026-05-01T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/economic-development/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2021/01/15/disrupting-ransom-payments/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/derivatives/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Amazonbot,1,boazsobrado.com,/tags/advertising/index.xml
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/12/22/where-i-slept-in-2015/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/12/11/defi-needs-a-silk-road-moment/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/categories/rotterdam/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/series/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/guest-workers/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/history/
+2026-05-01T12:00:00Z - 2026-05-01T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
