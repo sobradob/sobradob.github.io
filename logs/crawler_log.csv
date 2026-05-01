@@ -10615,3 +10615,13 @@ timestamp,bot_name,request_count,host,path
 2026-05-01T06:00:00Z - 2026-05-01T07:00:00Z,GPTBot,1,www.boazsobrado.com,/
 2026-05-01T06:00:00Z - 2026-05-01T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/
 2026-05-01T06:00:00Z - 2026-05-01T07:00:00Z,Meta AI,1,boazsobrado.com,/tags/predictive-modeling/
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/data-science/index.xml
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/literature/index.xml
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/productivity/index.xml
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/1/01/01/
+2026-05-01T08:00:00Z - 2026-05-01T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-currency/
