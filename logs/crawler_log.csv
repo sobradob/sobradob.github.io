@@ -10762,3 +10762,12 @@ timestamp,bot_name,request_count,host,path
 2026-05-02T09:00:00Z - 2026-05-02T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/books/
 2026-05-02T09:00:00Z - 2026-05-02T10:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
 2026-05-02T09:00:00Z - 2026-05-02T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/09/10/ads-in-your-banking-app-why-fintechs-are-starting-ads-ventures/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/central-banking/
+2026-05-02T10:00:00Z - 2026-05-02T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
