@@ -10851,3 +10851,15 @@ timestamp,bot_name,request_count,host,path
 2026-05-02T19:00:00Z - 2026-05-02T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-analysis/
 2026-05-02T19:00:00Z - 2026-05-02T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/facebook/
 2026-05-02T19:00:00Z - 2026-05-02T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-analysis/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ChatGPT,3,boazsobrado.com,/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,2,boazsobrado.com,/blog/2019/08/12/automating-my-business/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,2,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,2,boazsobrado.com,/docs/example-doc/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/film/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/
+2026-05-02T20:00:00Z - 2026-05-02T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/singapur/
