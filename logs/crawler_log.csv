@@ -12228,3 +12228,16 @@ timestamp,bot_name,request_count,host,path
 2026-05-11T03:00:00Z - 2026-05-11T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
 2026-05-11T03:00:00Z - 2026-05-11T04:00:00Z,Meta AI,1,boazsobrado.com,/docs/
 2026-05-11T03:00:00Z - 2026-05-11T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/guest-workers/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-systems/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/literature/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/regulatory-analysis/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-1/
+2026-05-11T07:00:00Z - 2026-05-11T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/banking-regulation/
