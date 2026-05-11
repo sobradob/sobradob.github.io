@@ -11,3 +11,12 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Private site (Cloudflare Pages)
+/private-site/
+
+# Environment variables
+.env
+
+# Auto-generated session handover files (may contain secrets)
+HANDOVER_*.md
