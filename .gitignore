@@ -20,3 +20,5 @@ hugo.linux
 
 # Auto-generated session handover files (may contain secrets)
 HANDOVER_*.md
+# macOS folder metadata
+.DS_Store
