@@ -12956,3 +12956,18 @@ timestamp,bot_name,request_count,host,path
 2026-05-16T07:00:00Z - 2026-05-16T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/maps/
 2026-05-16T07:00:00Z - 2026-05-16T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/trading-platforms/
 2026-05-16T07:00:00Z - 2026-05-16T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/writing/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2018/08/11/how-to-generate-a-bitcoin-vanity-address-using-a-mac/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2017/08/29/implementing-a-kalman-filter-in-r-for-android-gps-measurements/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2024/10/28/unleashing-my-inner-ai-churchill/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/bayes/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/docs/example-doc/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/docs/example-doc/chapter-2/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/series/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/advertising/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/cryptocurrency/
+2026-05-16T09:00:00Z - 2026-05-16T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/rotterdam/
