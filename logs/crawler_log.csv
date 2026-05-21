@@ -13760,3 +13760,10 @@ timestamp,bot_name,request_count,host,path
 2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
 2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-05-21T15:00:00Z - 2026-05-21T16:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
