@@ -13756,3 +13756,7 @@ timestamp,bot_name,request_count,host,path
 2026-05-21T08:00:00Z - 2026-05-21T09:00:00Z,Meta AI,2,boazsobrado.com,/tags/demographics/
 2026-05-21T08:00:00Z - 2026-05-21T09:00:00Z,Meta AI,2,boazsobrado.com,/tags/hungary/
 2026-05-21T08:00:00Z - 2026-05-21T09:00:00Z,PerplexityBot,1,boazsobrado.com,/stats.json
+2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,ClaudeBot,2,boazsobrado.com,/sitemap.xml
+2026-05-21T11:00:00Z - 2026-05-21T12:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
