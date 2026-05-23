@@ -13978,3 +13978,13 @@ timestamp,bot_name,request_count,host,path
 2026-05-23T05:00:00Z - 2026-05-23T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/ai/
 2026-05-23T05:00:00Z - 2026-05-23T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/coding/
 2026-05-23T05:00:00Z - 2026-05-23T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Bingbot,1,www.boazsobrado.com,/blog/first/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Bingbot,1,www.boazsobrado.com,/robots.txt
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/maps/
+2026-05-23T08:00:00Z - 2026-05-23T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/writing/
