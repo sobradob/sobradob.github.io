@@ -15138,3 +15138,13 @@ timestamp,bot_name,request_count,host,path
 2026-05-31T20:00:00Z - 2026-05-31T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/shiny/
 2026-05-31T20:00:00Z - 2026-05-31T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/cuba/
 2026-05-31T20:00:00Z - 2026-05-31T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/monero/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Bytespider,1,www.boazsobrado.com,/robots.txt
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/11/07/my-thoughts-on-cambridge-analytica/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/
+2026-05-31T22:00:00Z - 2026-05-31T23:00:00Z,PerplexityBot,2,boazsobrado.com,/images/icon.png
