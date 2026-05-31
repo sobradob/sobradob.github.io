@@ -15007,3 +15007,22 @@ timestamp,bot_name,request_count,host,path
 2026-05-31T04:00:00Z - 2026-05-31T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/01/01/ugocsa-non-coronat-the-visegradation-of-the-european-union/
 2026-05-31T04:00:00Z - 2026-05-31T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
 2026-05-31T04:00:00Z - 2026-05-31T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/demographics/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Amazonbot,1,boazsobrado.com,/categories/airbnb/index.xml
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Amazonbot,1,boazsobrado.com,/categories/facebook/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/gaming/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Amazonbot,1,boazsobrado.com,/tags/self-analysis/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Bingbot,2,boazsobrado.com,/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Bingbot,1,boazsobrado.com,/images/elo_vs_games_scatter.png
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/economics/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/policy-analysis/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/rotterdam/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/data/
+2026-05-31T08:00:00Z - 2026-05-31T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/emerging-markets/
