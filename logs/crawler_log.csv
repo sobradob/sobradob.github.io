@@ -15184,3 +15184,23 @@ timestamp,bot_name,request_count,host,path
 2026-06-01T17:00:00Z - 2026-06-01T18:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/
 2026-06-01T17:00:00Z - 2026-06-01T18:00:00Z,Meta AI,1,boazsobrado.com,/images/pawn_and_moneylender_decimation.png
 2026-06-01T17:00:00Z - 2026-06-01T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/shiny/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/14/bisq-smashes-records-as-demand-for-financial-privacy-soars/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/personal/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/epidemiology/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/facebook/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/immigration/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/contact/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,18,boazsobrado.com,/images/icon.png
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/series/media
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,2,boazsobrado.com,/series/media/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/chess/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/data-visualization/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/gaming/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/self-analysis/
+2026-06-01T21:00:00Z - 2026-06-01T22:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/statistics/
