@@ -15402,3 +15402,5 @@ timestamp,bot_name,request_count,host,path
 2026-06-04T03:00:00Z - 2026-06-04T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
 2026-06-04T03:00:00Z - 2026-06-04T04:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.txt
 2026-06-04T03:00:00Z - 2026-06-04T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/trading-platforms/
+2026-06-04T07:00:00Z - 2026-06-04T08:00:00Z,ClaudeBot,10,boazsobrado.com,/robots.txt
+2026-06-04T07:00:00Z - 2026-06-04T08:00:00Z,Meta AI,10,boazsobrado.com,/tags/singapur/
