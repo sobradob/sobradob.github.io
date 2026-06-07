@@ -15796,3 +15796,17 @@ timestamp,bot_name,request_count,host,path
 2026-06-06T21:00:00Z - 2026-06-06T22:00:00Z,PerplexityBot,1,boazsobrado.com,/application.yml
 2026-06-06T21:00:00Z - 2026-06-06T22:00:00Z,PerplexityBot,1,boazsobrado.com,/graphql
 2026-06-06T21:00:00Z - 2026-06-06T22:00:00Z,PerplexityBot,1,boazsobrado.com,/v1/graphql
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2015/12/22/where-i-slept-in-2015/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2016/02/29/donald-trump-and-zuckerbergs-matrix/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2017/05/22/bayesian-images/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,2,boazsobrado.com,/categories/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,1,boazsobrado.com,/categories/politics/index.xml
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Amazonbot,1,boazsobrado.com,/categories/shiny/index.xml
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/12/11/defi-needs-a-silk-road-moment/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/
+2026-06-06T23:00:00Z - 2026-06-07T00:00:00Z,Meta AI,1,boazsobrado.com,/categories/travel/
