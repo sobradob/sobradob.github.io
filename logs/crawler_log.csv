@@ -16061,3 +16061,6 @@ timestamp,bot_name,request_count,host,path
 2026-06-09T03:00:00Z - 2026-06-09T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/gps/
 2026-06-09T03:00:00Z - 2026-06-09T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
 2026-06-09T03:00:00Z - 2026-06-09T04:00:00Z,Meta AI,1,boazsobrado.com,/series/on-books/
+2026-06-09T07:00:00Z - 2026-06-09T08:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-06-09T07:00:00Z - 2026-06-09T08:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-06-09T07:00:00Z - 2026-06-09T08:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
