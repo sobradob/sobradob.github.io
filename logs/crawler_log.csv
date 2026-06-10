@@ -16206,3 +16206,25 @@ timestamp,bot_name,request_count,host,path
 2026-06-10T18:00:00Z - 2026-06-10T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/facebook/
 2026-06-10T18:00:00Z - 2026-06-10T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
 2026-06-10T18:00:00Z - 2026-06-10T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/shiny/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bingbot,1,boazsobrado.com,/blog/2023/03/17/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-1/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.txt
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bingbot,2,boazsobrado.com,/sitemap.xml.gz
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bingbot,2,www.boazsobrado.com,/sitemap.txt
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bytespider,1,boazsobrado.com,/blog/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Bytespider,1,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,ChatGPT,5,boazsobrado.com,/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/05/12/pricing-profit-and-paternalism/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/bayes/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/economic-development/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/opinion/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/regulatory-analysis/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/news-sitemap.xml
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/desarrollo-econ%C3%B3mico/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/institutional-evolution/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,Meta AI,1,boazsobrado.com,/tags/pol%C3%ADtica-asi%C3%A1tica/
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,PerplexityBot,2,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,PerplexityBot,2,boazsobrado.com,/images/revolut_lawsuit.png
+2026-06-10T21:00:00Z - 2026-06-10T22:00:00Z,PerplexityBot,3,boazsobrado.com,/robots.txt
