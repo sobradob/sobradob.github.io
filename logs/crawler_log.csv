@@ -16822,3 +16822,9 @@ timestamp,bot_name,request_count,host,path
 2026-06-15T20:00:00Z - 2026-06-15T21:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
 2026-06-15T20:00:00Z - 2026-06-15T21:00:00Z,PerplexityBot,2,boazsobrado.com,/images/plot_device_daily.png
 2026-06-15T20:00:00Z - 2026-06-15T21:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,Bingbot,2,boazsobrado.com,/
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-06-15T22:00:00Z - 2026-06-15T23:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-2/
