@@ -16842,3 +16842,10 @@ timestamp,bot_name,request_count,host,path
 2026-06-16T04:00:00Z - 2026-06-16T05:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
 2026-06-16T04:00:00Z - 2026-06-16T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/coding/
 2026-06-16T04:00:00Z - 2026-06-16T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/r/
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,Amazonbot,1,boazsobrado.com,/tags/latin-america/
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-06-16T10:00:00Z - 2026-06-16T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
