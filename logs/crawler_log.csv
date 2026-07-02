@@ -18611,3 +18611,8 @@ timestamp,bot_name,request_count,host,path
 2026-07-02T04:00:00Z - 2026-07-02T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/guest-workers/
 2026-07-02T04:00:00Z - 2026-07-02T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/monetary-policy/index.xml
 2026-07-02T04:00:00Z - 2026-07-02T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
+2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
+2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/docs/
+2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/series/finance/
