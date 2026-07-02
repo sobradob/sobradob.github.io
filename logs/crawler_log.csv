@@ -18616,3 +18616,11 @@ timestamp,bot_name,request_count,host,path
 2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/06/17/from-subprime-crisis-to-the-newly-prime-crisis/
 2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/docs/
 2026-07-02T07:00:00Z - 2026-07-02T08:00:00Z,Meta AI,1,boazsobrado.com,/series/finance/
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,Bingbot,1,boazsobrado.com,/docs/example-doc/
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/trading-platforms
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,ClaudeBot,1,boazsobrado.com,/tags/trading-platforms/
+2026-07-02T10:00:00Z - 2026-07-02T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
