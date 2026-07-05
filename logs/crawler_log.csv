@@ -19098,3 +19098,17 @@ timestamp,bot_name,request_count,host,path
 2026-07-05T18:00:00Z - 2026-07-05T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/index.xml
 2026-07-05T18:00:00Z - 2026-07-05T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-analysis/
 2026-07-05T18:00:00Z - 2026-07-05T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/finance/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Bingbot,1,boazsobrado.com,/robots.txt
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Bingbot,2,www.boazsobrado.com,/robots.txt
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Bingbot,3,www.boazsobrado.com,/sitemap.xml
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/authors/example-author/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/11/30/will-regulation-drive-consolidation-for-european-retail-brokers/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/central-banking/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
+2026-07-05T20:00:00Z - 2026-07-05T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/film/
