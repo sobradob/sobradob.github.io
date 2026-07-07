@@ -19224,3 +19224,49 @@ timestamp,bot_name,request_count,host,path
 2026-07-06T23:00:00Z - 2026-07-07T00:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/hugo/
 2026-07-06T23:00:00Z - 2026-07-07T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
 2026-07-06T23:00:00Z - 2026-07-07T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/finance/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2024/03/23/the-tulip-craze-conspiracy/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2024/10/26/mines-in-the-air/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2025/01/30/the-shiny-new-object-podcast-predictive-modeling-of-conversion-events/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/03/13/c%C3%B3mo-dominar-el-contenido-con-ia-gu%C3%ADa-paso-a-paso/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,15,boazsobrado.com,/cdn-cgi/rum
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/css/eureka.min.925ab5af174a2f0df38db293cde22820375bd40cdd7cb92e85a38f01b3b5f9f47cb65c9727cc7a2e7bb64dc287e21f13.css
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,4,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/Hindenburg_disaster.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/Japanese_fire_balloon_Moffett.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/Uk_war_balloon.jpeg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/arise_tv.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/images/bartolome_de_las_casas.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,4,boazsobrado.com,/images/bitcoin_obituaries_chart.svg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,4,boazsobrado.com,/images/boaz_profile_2023.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/como_dominar_contenido_ia.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/del_tercer_mundo_al_primero.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,3,boazsobrado.com,/images/deribit.jpeg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/emdash_tufte.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/images/games_per_month.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/images/hungary_total.png
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/monerotalk_podcast_thumbnail.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/images/our_world_in_data_cigs.jpeg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/images/shiny_new_object_podcast_thumbnail.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/images/tulip_landscape.jpg
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,1,boazsobrado.com,/js/fontawesome.min.4695061e2bdde22bc383d4705fb1ca9f5035d1570d0eea67b684c1a625d18b4058348db18368b7284147c9134566569e.js
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Bytespider,2,boazsobrado.com,/tags/crypto/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,GPTBot,1,report.boazsobrado.com,/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/27/mixpanel-live-growth-and-analytics/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-markets/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
+2026-07-07T04:00:00Z - 2026-07-07T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
