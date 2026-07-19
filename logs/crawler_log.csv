@@ -21106,3 +21106,12 @@ timestamp,bot_name,request_count,host,path
 2026-07-19T08:00:00Z - 2026-07-19T09:00:00Z,Bytespider,1,boazsobrado.com,/images/revolut_lawsuit.png
 2026-07-19T08:00:00Z - 2026-07-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-07-19T08:00:00Z - 2026-07-19T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,Bytespider,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_games_boxplot.png
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_games_scatter.png
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_time_scatter.png
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/literature
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/categories/literature/
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-19T10:00:00Z - 2026-07-19T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/colonialism/
