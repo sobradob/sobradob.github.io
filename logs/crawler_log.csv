@@ -21137,3 +21137,8 @@ timestamp,bot_name,request_count,host,path
 2026-07-19T15:00:00Z - 2026-07-19T16:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-07-19T15:00:00Z - 2026-07-19T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-07-19T15:00:00Z - 2026-07-19T16:00:00Z,Meta AI,1,boazsobrado.com,/categories/excel/
+2026-07-19T17:00:00Z - 2026-07-19T18:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-07-19T17:00:00Z - 2026-07-19T18:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-19T17:00:00Z - 2026-07-19T18:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
+2026-07-19T17:00:00Z - 2026-07-19T18:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-07-19T17:00:00Z - 2026-07-19T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/books/
