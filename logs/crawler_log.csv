@@ -21439,3 +21439,8 @@ timestamp,bot_name,request_count,host,path
 2026-07-22T05:00:00Z - 2026-07-22T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/hugo/
 2026-07-22T05:00:00Z - 2026-07-22T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/coding/
 2026-07-22T05:00:00Z - 2026-07-22T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-technology/
+2026-07-22T08:00:00Z - 2026-07-22T09:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2015/10/26/myanmar-2015/
+2026-07-22T08:00:00Z - 2026-07-22T09:00:00Z,Bingbot,2,boazsobrado.com,/
+2026-07-22T08:00:00Z - 2026-07-22T09:00:00Z,Bingbot,2,boazsobrado.com,/robots.txt
+2026-07-22T08:00:00Z - 2026-07-22T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
+2026-07-22T08:00:00Z - 2026-07-22T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/institutional-evolution/
