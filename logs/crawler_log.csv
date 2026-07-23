@@ -21577,3 +21577,21 @@ timestamp,bot_name,request_count,host,path
 2026-07-23T09:00:00Z - 2026-07-23T10:00:00Z,Amazonbot,2,boazsobrado.com,/docs/example-doc/chapter-1/
 2026-07-23T09:00:00Z - 2026-07-23T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/opinion/
 2026-07-23T09:00:00Z - 2026-07-23T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Bytespider,1,boazsobrado.com,/202507_boazsobradocv_short.pdf
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/privacy/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-markets/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/images/USA2015.png
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/images/elo_vs_games_boxplot.png
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/news-sitemap.xml
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/data/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-policy/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/immigration/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-analysis/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/monero/
+2026-07-23T11:00:00Z - 2026-07-23T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/writing/
