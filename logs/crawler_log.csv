@@ -21922,3 +21922,46 @@ timestamp,bot_name,request_count,host,path
 2026-07-25T18:00:00Z - 2026-07-25T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/film/
 2026-07-25T18:00:00Z - 2026-07-25T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/monero/
 2026-07-25T18:00:00Z - 2026-07-25T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/statistics/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Amazonbot,1,boazsobrado.com,/blog/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/.env.local
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/api/env
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/appsettings.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/credentials.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/docker-compose.yml
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/firebase-adminsdk.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Bingbot,1,boazsobrado.com,/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/.env.staging
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/.npmrc
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/graphql
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/web.config
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ChatGPT,1,boazsobrado.com,/wp-config.php.bak
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.bak
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.test
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/.git/config
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/actuator/configprops
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/api/.env
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/aws-exports.js
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/config.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/key.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,ClaudeBot,1,boazsobrado.com,/terraform.tfstate
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/.well-known/security.txt
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/api/config
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/gcp-credentials.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/index.xml
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/keys.json
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,GPTBot,1,boazsobrado.com,/public/.env
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/10/27/central-banks-are-increasingly-studying-bitcoin/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/sitemap-index.xml
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/chess/
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,PerplexityBot,1,boazsobrado.com,/.env
+2026-07-25T20:00:00Z - 2026-07-25T21:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.old
