@@ -21858,3 +21858,14 @@ timestamp,bot_name,request_count,host,path
 2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/singapur/
 2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,PerplexityBot,1,report.boazsobrado.com,/.env.backup
 2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,PerplexityBot,4,report.boazsobrado.com,/backend/.env
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Amazonbot,1,boazsobrado.com,/categories/coding/index.xml
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Amazonbot,1,boazsobrado.com,/series/advertising/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/3/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/4/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/9/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/facebook/
+2026-07-25T10:00:00Z - 2026-07-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/regulatory-evolution/
