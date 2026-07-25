@@ -21831,3 +21831,30 @@ timestamp,bot_name,request_count,host,path
 2026-07-25T06:00:00Z - 2026-07-25T07:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
 2026-07-25T06:00:00Z - 2026-07-25T07:00:00Z,Meta AI,1,boazsobrado.com,/news-sitemap.xml
 2026-07-25T06:00:00Z - 2026-07-25T07:00:00Z,Meta AI,1,boazsobrado.com,/series/finance/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Amazonbot,2,boazsobrado.com,/categories/android/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Amazonbot,1,boazsobrado.com,/categories/history/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Amazonbot,1,report.boazsobrado.com,/.env.development
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Bingbot,2,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Bingbot,1,report.boazsobrado.com,/.docker/config.json
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Bingbot,1,report.boazsobrado.com,/.git/HEAD
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Bingbot,1,report.boazsobrado.com,/public/.git/HEAD
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,ChatGPT,1,report.boazsobrado.com,/.env.bak
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,ChatGPT,1,report.boazsobrado.com,/actuator/env
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,ChatGPT,1,report.boazsobrado.com,/wp-config.php.bak
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,GPTBot,1,report.boazsobrado.com,/actuator/env
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,GPTBot,1,report.boazsobrado.com,/application.properties
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,GPTBot,2,report.boazsobrado.com,/config.json
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,GPTBot,1,report.boazsobrado.com,/docker-compose.yml
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/05/12/pricing-profit-and-paternalism/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/news_sitemap.xml
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/emerging-markets/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-policy/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/marketing-analytics/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/singapur/
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,PerplexityBot,1,report.boazsobrado.com,/.env.backup
+2026-07-25T08:00:00Z - 2026-07-25T09:00:00Z,PerplexityBot,4,report.boazsobrado.com,/backend/.env
