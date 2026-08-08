@@ -24154,3 +24154,50 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/src/.env
 2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/ssl/localhost.key
 2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/sw.js
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2016/06/12/alphabetically-inspired-anecdotes-from-cuba-58-years-after-1958/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/05/12/pricing-profit-and-paternalism/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/categories/coding/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/series/forbes-commentary/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/finance/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/maps/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,2,boazsobrado.com,/.aider.conf.yml
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,12,boazsobrado.com,/.bash_profile
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,10,boazsobrado.com,/.env.bak
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,boazsobrado.com,/.npmrc
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,21,boazsobrado.com,/.ssh/id_ed25519
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,10,boazsobrado.com,/.well-known/jwks.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,10,boazsobrado.com,/.zshrc
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,21,boazsobrado.com,/actuator/env
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,10,boazsobrado.com,/api/v1/config
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,8,boazsobrado.com,/bootstrap.yml
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,6,boazsobrado.com,/config/storage.yml
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,boazsobrado.com,/env.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,7,boazsobrado.com,/firebase-service-account.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,8,boazsobrado.com,/gcp-key.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,boazsobrado.com,/google-service-account.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,12,boazsobrado.com,/gradle.properties
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,10,boazsobrado.com,/production/.env
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,8,boazsobrado.com,/settings.py
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,12,boazsobrado.com,/terraform.tfstate
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,2,boazsobrado.com,/z9x8c7v6b5-debug-trigger-www.boazsobrado.com
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/.env.dev
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,6,www.boazsobrado.com,/.git-credentials
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,8,www.boazsobrado.com,/.pypirc
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/.s3cfg
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/.ssh/config
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/.streamlit/secrets.toml
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,2,www.boazsobrado.com,/__/firebase/init.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/api/graphql
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,2,www.boazsobrado.com,/api/v1/config
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,6,www.boazsobrado.com,/config/gcp-credentials.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/debug/pprof/
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,8,www.boazsobrado.com,/env.js
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,3,www.boazsobrado.com,/firebase-admin.json
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,6,www.boazsobrado.com,/info
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,24,www.boazsobrado.com,/pi.php
+2026-08-08T15:00:00Z - 2026-08-08T16:00:00Z,PerplexityBot,5,www.boazsobrado.com,/runtime-config.js
