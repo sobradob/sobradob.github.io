@@ -24124,3 +24124,33 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
 2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/contact/
 2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/tags/banking-regulation/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/11/13/you-are-wasting-your-time-with-spreadsheets/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/02/08/leaflet-timeline-in-r/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/07/16/old-age-originations/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/categories/chinese/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/categories/digital-strategy/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-1/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/pol%C3%ADtica-asi%C3%A1tica/
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,7,boazsobrado.com,/.cursor/mcp.json
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,4,boazsobrado.com,/.git/HEAD
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/.git/config
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,18,boazsobrado.com,/.github/workflows/deploy.yml
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/.htpasswd
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,18,boazsobrado.com,/.vscode/launch.json
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/api/.env
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,3,boazsobrado.com,/api/settings
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,1,boazsobrado.com,/config.yaml
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/config/.env
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,3,boazsobrado.com,/config/firebase-admin.json
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,18,boazsobrado.com,/google-service-account.json
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/gradle.properties
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/info.php
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,3,boazsobrado.com,/server.key
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,21,boazsobrado.com,/service_account.json
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/src/.env
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,8,boazsobrado.com,/ssl/localhost.key
+2026-08-08T14:00:00Z - 2026-08-08T15:00:00Z,PerplexityBot,24,boazsobrado.com,/sw.js
