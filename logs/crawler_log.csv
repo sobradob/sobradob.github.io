@@ -24447,3 +24447,6 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T20:00:00Z - 2026-08-08T21:00:00Z,Bytespider,2,boazsobrado.com,/images/plot_device_daily.png
 2026-08-08T20:00:00Z - 2026-08-08T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
 2026-08-08T20:00:00Z - 2026-08-08T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/shiny/
+2026-08-08T21:00:00Z - 2026-08-08T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-08T21:00:00Z - 2026-08-08T22:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-08T21:00:00Z - 2026-08-08T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/09/28/stablecoin-volumes-reach-450-billion-monthly-while-bitcoin-rises/
