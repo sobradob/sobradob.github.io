@@ -24428,3 +24428,12 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T18:00:00Z - 2026-08-08T19:00:00Z,PerplexityBot,1,report.boazsobrado.com,/openai.json
 2026-08-08T18:00:00Z - 2026-08-08T19:00:00Z,PerplexityBot,1,report.boazsobrado.com,/private/aws_credentials.json
 2026-08-08T18:00:00Z - 2026-08-08T19:00:00Z,PerplexityBot,1,report.boazsobrado.com,/settings.json
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/07/20/arise-tv-cross-border-payments/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,Meta AI,1,boazsobrado.com,/categories/books/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,Meta AI,1,boazsobrado.com,/news_sitemap.xml
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/adtech/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/trading-platforms/
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-08T19:00:00Z - 2026-08-08T20:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
