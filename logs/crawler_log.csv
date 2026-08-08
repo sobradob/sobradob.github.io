@@ -24066,3 +24066,53 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T10:00:00Z - 2026-08-08T11:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-08-08T10:00:00Z - 2026-08-08T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
 2026-08-08T10:00:00Z - 2026-08-08T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/health/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/finance/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Amazonbot,2,boazsobrado.com,/categories/hugo/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/work--technology/index.xml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Bingbot,1,boazsobrado.com,/categories/r/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/consumer-credit/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/desarrollo-econ%C3%B3mico/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-evolution/
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,boazsobrado.com,/.claude/settings.json
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,5,boazsobrado.com,/.env.backup
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.development
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,10,boazsobrado.com,/.git-credentials
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,boazsobrado.com,/.gradle/gradle.properties
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,boazsobrado.com,/.htpasswd
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,boazsobrado.com,/.pypirc
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,10,boazsobrado.com,/.ssh/known_hosts
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,boazsobrado.com,/.streamlit/secrets.toml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,boazsobrado.com,/.zshrc
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,boazsobrado.com,/application.properties
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,boazsobrado.com,/bootstrap.properties
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,boazsobrado.com,/bootstrap.yml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,boazsobrado.com,/config/database.yml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,boazsobrado.com,/gradle.properties
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,10,boazsobrado.com,/localhost.key
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,10,boazsobrado.com,/secrets.yml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,boazsobrado.com,/src/.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,boazsobrado.com,/web/.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/.aider.conf.yml
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,10,www.boazsobrado.com,/.claude/settings.json
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/.config/anthropic/credentials/default.json
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,www.boazsobrado.com,/.docker/config.json
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,www.boazsobrado.com,/.env.development
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,www.boazsobrado.com,/.env.docker
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,1,www.boazsobrado.com,/.env.production
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,4,www.boazsobrado.com,/.hermes/.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,www.boazsobrado.com,/.pypirc
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,www.boazsobrado.com,/.ssh/id_dsa
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,www.boazsobrado.com,/.ssh/id_ed25519
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,www.boazsobrado.com,/app/.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,6,www.boazsobrado.com,/appsettings.json
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,www.boazsobrado.com,/bootstrap.properties
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,3,www.boazsobrado.com,/config.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,2,www.boazsobrado.com,/config.py
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/config/.env
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/server.key
+2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,15,www.boazsobrado.com,/src/.env
