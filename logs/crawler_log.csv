@@ -24116,3 +24116,11 @@ timestamp,bot_name,request_count,host,path
 2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/config/.env
 2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,8,www.boazsobrado.com,/server.key
 2026-08-08T12:00:00Z - 2026-08-08T13:00:00Z,PerplexityBot,15,www.boazsobrado.com,/src/.env
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/literature/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/cuba/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/contact/
+2026-08-08T13:00:00Z - 2026-08-08T14:00:00Z,Meta AI,1,boazsobrado.com,/tags/banking-regulation/
