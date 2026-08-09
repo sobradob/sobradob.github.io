@@ -24497,3 +24497,15 @@ timestamp,bot_name,request_count,host,path
 2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,2,boazsobrado.com,/telescope/requests
 2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,10,boazsobrado.com,/values.yaml
 2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,10,boazsobrado.com,/wp-config.php.old
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Bingbot,1,boazsobrado.com,/blog/2015/12/22/where-i-slept-in-2015/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/categories/facebook/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/categories/work--technology/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/chess/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
+2026-08-09T04:00:00Z - 2026-08-09T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/
