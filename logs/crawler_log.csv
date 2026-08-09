@@ -24469,3 +24469,31 @@ timestamp,bot_name,request_count,host,path
 2026-08-09T01:00:00Z - 2026-08-09T02:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
 2026-08-09T01:00:00Z - 2026-08-09T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
 2026-08-09T01:00:00Z - 2026-08-09T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/blog/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/media/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/series/cuban-chapter/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/political-economy/
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,10,boazsobrado.com,/.env.swp
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,18,boazsobrado.com,/.gitlab-ci.yml
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/.npmrc
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,2,boazsobrado.com,/.zshrc
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,6,boazsobrado.com,/Dockerfile
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,6,boazsobrado.com,/api/graphql
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,1,boazsobrado.com,/aws-exports.js
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/config.js
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,7,boazsobrado.com,/config.json
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,1,boazsobrado.com,/config.toml
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/config/runtime.exs
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/firebase.json
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/graphql
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,18,boazsobrado.com,/pi.php
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/private-key
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,21,boazsobrado.com,/rclone.conf
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,2,boazsobrado.com,/telescope/requests
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,10,boazsobrado.com,/values.yaml
+2026-08-09T03:00:00Z - 2026-08-09T04:00:00Z,PerplexityBot,10,boazsobrado.com,/wp-config.php.old
