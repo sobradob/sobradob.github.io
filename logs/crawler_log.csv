@@ -24986,3 +24986,6 @@ timestamp,bot_name,request_count,host,path
 2026-08-09T16:00:00Z - 2026-08-09T17:00:00Z,PerplexityBot,1,report.boazsobrado.com,/serviceAccountKey.json
 2026-08-09T16:00:00Z - 2026-08-09T17:00:00Z,PerplexityBot,1,report.boazsobrado.com,/settings.py
 2026-08-09T16:00:00Z - 2026-08-09T17:00:00Z,PerplexityBot,1,report.boazsobrado.com,/ssl/server.key
+2026-08-09T17:00:00Z - 2026-08-09T18:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-09T17:00:00Z - 2026-08-09T18:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/09/01/crypto-critics-corner-an-argument-for-tether-in-cuba/
+2026-08-09T17:00:00Z - 2026-08-09T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/data/
