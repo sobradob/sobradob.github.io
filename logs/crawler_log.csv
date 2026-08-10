@@ -25399,3 +25399,12 @@ timestamp,bot_name,request_count,host,path
 2026-08-10T07:00:00Z - 2026-08-10T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/hungary/
 2026-08-10T07:00:00Z - 2026-08-10T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/pol%C3%ADtica-asi%C3%A1tica/
 2026-08-10T07:00:00Z - 2026-08-10T08:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,Bingbot,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-2/
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/financial-regulation/
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/books/
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/04/23/donald-trump-paul-le-roux-and-the-dutch-east-india-company-part-2/
+2026-08-10T09:00:00Z - 2026-08-10T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/09/28/stablecoin-volumes-reach-450-billion-monthly-while-bitcoin-rises/
