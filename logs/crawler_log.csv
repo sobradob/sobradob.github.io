@@ -26194,3 +26194,44 @@ timestamp,bot_name,request_count,host,path
 2026-08-12T19:00:00Z - 2026-08-12T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/facebook/
 2026-08-12T19:00:00Z - 2026-08-12T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
 2026-08-12T19:00:00Z - 2026-08-12T20:00:00Z,PerplexityBot,2,boazsobrado.com,/images/monerotalk_podcast_thumbnail.jpg
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,4,boazsobrado.com,/.git/HEAD
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,10,boazsobrado.com,/.ssh/id_ecdsa
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/.ssh/known_hosts
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,10,boazsobrado.com,/api/.env
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/api/env
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/app/settings.py
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/application.yml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/appsettings.json
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2020/12/11/why-cuba-is-primed-for-bitcoin-adoption/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/bootstrap.yml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/config.py
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/config.yaml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,6,boazsobrado.com,/config/runtime.exs
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,10,boazsobrado.com,/config/secrets.yml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/configuration.js
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,10,boazsobrado.com,/configuration.php.bak
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/core/.env
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,10,boazsobrado.com,/gradle.properties
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/id_dsa
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,12,boazsobrado.com,/openapi.json
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,4,boazsobrado.com,/runtime.js
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,5,boazsobrado.com,/secrets.yml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,5,boazsobrado.com,/sendgrid.env
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/server.key
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,ClaudeBot,8,boazsobrado.com,/telescope/requests
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/12/27/what-i-read-in-2015/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/hugo/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-2/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/colonialism/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/marketing-analytics/
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,PerplexityBot,4,boazsobrado.com,/images/shiny_new_object_podcast_thumbnail.jpg
+2026-08-12T20:00:00Z - 2026-08-12T21:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
