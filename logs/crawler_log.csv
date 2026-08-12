@@ -25760,3 +25760,13 @@ timestamp,bot_name,request_count,host,path
 2026-08-12T12:00:00Z - 2026-08-12T13:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
 2026-08-12T12:00:00Z - 2026-08-12T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/cuba/
 2026-08-12T12:00:00Z - 2026-08-12T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,Bingbot,2,boazsobrado.com,/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,Bingbot,2,boazsobrado.com,/robots.txt
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,ClaudeBot,3,boazsobrado.com,/robots.txt
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,ClaudeBot,2,boazsobrado.com,/tags/privacy/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/07/20/arise-tv-cross-border-payments/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-12T14:00:00Z - 2026-08-12T15:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
