@@ -26260,3 +26260,33 @@ timestamp,bot_name,request_count,host,path
 2026-08-13T01:00:00Z - 2026-08-13T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/literature/
 2026-08-13T01:00:00Z - 2026-08-13T02:00:00Z,Meta AI,1,boazsobrado.com,/categories/market-evolution/
 2026-08-13T01:00:00Z - 2026-08-13T02:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ChatGPT,2,boazsobrado.com,/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/contact/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/series/media/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ChatGPT,1,boazsobrado.com,/tags/crypto/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,6,boazsobrado.com,/.env.old
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.production
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,24,boazsobrado.com,/.git/config
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,1,boazsobrado.com,/.github/workflows/deploy.yml
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,2,boazsobrado.com,/.ssh/id_ecdsa
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,12,boazsobrado.com,/backend/settings.py
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,18,boazsobrado.com,/config/runtime.exs
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,21,boazsobrado.com,/configuration.php.bak
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,24,boazsobrado.com,/elmah.axd
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,21,boazsobrado.com,/health
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,12,boazsobrado.com,/host.key
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,6,boazsobrado.com,/id_rsa
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,6,boazsobrado.com,/laravel/.env
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,18,boazsobrado.com,/manifest.webmanifest
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,7,boazsobrado.com,/openapi.json
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,24,boazsobrado.com,/privatekey.key
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,21,boazsobrado.com,/secrets.yml
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,12,boazsobrado.com,/server.key
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,18,boazsobrado.com,/web/.env
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,ClaudeBot,8,boazsobrado.com,/z9x8c7v6b5-debug-trigger-boazsobrado.com
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-13T03:00:00Z - 2026-08-13T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/revolut/
