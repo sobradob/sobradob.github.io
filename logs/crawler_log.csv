@@ -27257,3 +27257,5 @@ timestamp,bot_name,request_count,host,path
 2026-08-15T16:00:00Z - 2026-08-15T17:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-analysis/
 2026-08-15T16:00:00Z - 2026-08-15T17:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
 2026-08-15T16:00:00Z - 2026-08-15T17:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-08-15T17:00:00Z - 2026-08-15T18:00:00Z,Meta AI,1,boazsobrado.com,/contact/
+2026-08-15T17:00:00Z - 2026-08-15T18:00:00Z,PerplexityBot,2,boazsobrado.com,/images/plot_device_daily.png
