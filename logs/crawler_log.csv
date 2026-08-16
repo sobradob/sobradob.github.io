@@ -27686,3 +27686,24 @@ timestamp,bot_name,request_count,host,path
 2026-08-16T14:00:00Z - 2026-08-16T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
 2026-08-16T14:00:00Z - 2026-08-16T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/epidemiology/
 2026-08-16T14:00:00Z - 2026-08-16T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-regulation/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,10,boazsobrado.com,/.env.production.bak
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,24,boazsobrado.com,/.hermes/.env
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,24,boazsobrado.com,/.profile
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,4,boazsobrado.com,/app_dev.php/_profiler
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,2,boazsobrado.com,/application.yml
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,12,boazsobrado.com,/credentials.json
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,10,boazsobrado.com,/gcp-service.json
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,15,boazsobrado.com,/google-services.json
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,10,boazsobrado.com,/graphql/console
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,4,boazsobrado.com,/health
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,3,boazsobrado.com,/id_dsa
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,24,boazsobrado.com,/id_ed25519
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,8,boazsobrado.com,/local.settings.json
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,12,boazsobrado.com,/rclone.conf
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,ClaudeBot,24,boazsobrado.com,/settings.json
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-08-16T15:00:00Z - 2026-08-16T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-analysis/
