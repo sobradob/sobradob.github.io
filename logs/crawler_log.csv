@@ -28160,3 +28160,35 @@ timestamp,bot_name,request_count,host,path
 2026-08-18T07:00:00Z - 2026-08-18T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
 2026-08-18T07:00:00Z - 2026-08-18T08:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
 2026-08-18T07:00:00Z - 2026-08-18T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/monetary-policy/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Amazonbot,2,boazsobrado.com,/actuator/env
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Amazonbot,2,boazsobrado.com,/categories/android/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Amazonbot,1,boazsobrado.com,/wp-config.php
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/.env.backup
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/.env.sample
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/.env.staging
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/.env.test
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/id_ed25519
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/images/blind_men_coin_2.jpg
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bingbot,2,boazsobrado.com,/secrets.env
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/.env.development.old
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/.env.save
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/api/.env
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/appsettings.json
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/backend/.env
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ChatGPT,2,boazsobrado.com,/public/.git/HEAD
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,GPTBot,2,boazsobrado.com,/.env.development.local
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,GPTBot,2,boazsobrado.com,/admin/.env
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Meta AI,1,boazsobrado.com,/sitemap_index.xml
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/data/
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/.env.copy
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/.env.local.bak
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/.env.old
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/.git/HEAD
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/__/firebase/init.json
+2026-08-18T08:00:00Z - 2026-08-18T09:00:00Z,PerplexityBot,2,boazsobrado.com,/secrets.json
