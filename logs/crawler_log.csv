@@ -28075,3 +28075,38 @@ timestamp,bot_name,request_count,host,path
 2026-08-17T22:00:00Z - 2026-08-17T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-inclusion/
 2026-08-17T22:00:00Z - 2026-08-17T23:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
 2026-08-17T22:00:00Z - 2026-08-17T23:00:00Z,PerplexityBot,1,boazsobrado.com,/tags/programming/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,6,boazsobrado.com,/.bash_profile
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,21,boazsobrado.com,/.cursor/mcp.json
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,1,boazsobrado.com,/.docker/config.json
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,14,boazsobrado.com,/.env.example
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,18,boazsobrado.com,/.env.php.bak
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,4,boazsobrado.com,/.env.test
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,2,boazsobrado.com,/.git/config
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,14,boazsobrado.com,/.openclaw/openclaw.json
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,21,boazsobrado.com,/.ssh/id_ed25519
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,6,boazsobrado.com,/_profiler/open
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,12,boazsobrado.com,/actuator
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,6,boazsobrado.com,/api/env
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,18,boazsobrado.com,/config/.env.php
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,4,boazsobrado.com,/debug/pprof/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,21,boazsobrado.com,/docker/.env
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,6,boazsobrado.com,/i.php
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,1,boazsobrado.com,/nginx_status
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,4,boazsobrado.com,/ngsw.json
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,2,boazsobrado.com,/phpinfo.php
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,14,boazsobrado.com,/sendgrid.env
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,8,boazsobrado.com,/service-account.json
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,12,boazsobrado.com,/ssl/localhost.key
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,ClaudeBot,4,boazsobrado.com,/telescope/requests
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/12/19/we-all-need-to-stop-only-seeing-the-dark-side-of-crypto/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/categories/gps/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-1/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/sitemap-index.xml
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.xml
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/tags/demographics/
+2026-08-18T00:00:00Z - 2026-08-18T01:00:00Z,Meta AI,1,boazsobrado.com,/tags/desarrollo-econ%C3%B3mico/
