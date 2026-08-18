@@ -28304,3 +28304,22 @@ timestamp,bot_name,request_count,host,path
 2026-08-18T18:00:00Z - 2026-08-18T19:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
 2026-08-18T18:00:00Z - 2026-08-18T19:00:00Z,PerplexityBot,2,boazsobrado.com,/images/revolut_lawsuit.png
 2026-08-18T18:00:00Z - 2026-08-18T19:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Amazonbot,1,boazsobrado.com,/categories/digital-strategy/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/blog/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,4,boazsobrado.com,/images/bartolome_de_las_casas.jpg
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,2,boazsobrado.com,/images/como_dominar_contenido_ia.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/del_tercer_mundo_al_primero.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/emdash_tufte.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/hungary_total.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/our_world_in_data_cigs.jpeg
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/plot_device_daily.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Bytespider,1,boazsobrado.com,/images/revolut_lawsuit.png
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/authors/example-author/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/07/16/old-age-originations/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/series/hacking/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/colonialism/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
+2026-08-18T19:00:00Z - 2026-08-18T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
