@@ -28481,3 +28481,43 @@ timestamp,bot_name,request_count,host,path
 2026-08-19T10:00:00Z - 2026-08-19T11:00:00Z,Meta AI,1,boazsobrado.com,/series/finance/
 2026-08-19T10:00:00Z - 2026-08-19T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
 2026-08-19T10:00:00Z - 2026-08-19T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/data/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Amazonbot,2,boazsobrado.com,/blog/2019/01/13/where-i-was-in-2018/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/crypto/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Amazonbot,1,boazsobrado.com,/categories/literature/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Amazonbot,1,boazsobrado.com,/series/media/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2023/09/23/the-numbers-behind-small-loans/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/.profile
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,4,boazsobrado.com,/.well-known/jwks.json
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,2,boazsobrado.com,/__/firebase/init.json
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,6,boazsobrado.com,/actuator/env
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/api/account
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,1,boazsobrado.com,/api/config
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,1,boazsobrado.com,/api/settings
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,8,boazsobrado.com,/api/v1/settings
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/app/settings.py
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,21,boazsobrado.com,/config.env
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,21,boazsobrado.com,/config/application.properties
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,21,boazsobrado.com,/config/prod.exs
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/constants.js
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/elmah.axd
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,1,boazsobrado.com,/graphql/console
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,7,boazsobrado.com,/ngsw.json
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,21,boazsobrado.com,/public/admin.json
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,14,boazsobrado.com,/server-status
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,7,boazsobrado.com,/src/.env
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,2,boazsobrado.com,/ssl/server.key
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,7,boazsobrado.com,/terraform.tfstate
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,21,boazsobrado.com,/web.config
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,ClaudeBot,4,boazsobrado.com,/wp-json
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/SiteMap.aspx
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/04/15/hungarys-hidden-immigration-surge-252000-foreign-nationals-and-counting/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/categories/digital-strategy/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-regulation/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-2/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.html
+2026-08-19T12:00:00Z - 2026-08-19T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/bayes/
