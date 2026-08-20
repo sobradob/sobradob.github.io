@@ -28686,3 +28686,10 @@ timestamp,bot_name,request_count,host,path
 2026-08-20T03:00:00Z - 2026-08-20T04:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
 2026-08-20T03:00:00Z - 2026-08-20T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
 2026-08-20T03:00:00Z - 2026-08-20T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/hungary/
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,ChatGPT,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,Meta AI,1,boazsobrado.com,/categories/literature/
+2026-08-20T04:00:00Z - 2026-08-20T05:00:00Z,Meta AI,1,boazsobrado.com,/categories/monetary-systems/
