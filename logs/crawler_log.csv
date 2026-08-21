@@ -29499,3 +29499,8 @@ timestamp,bot_name,request_count,host,path
 2026-08-21T10:00:00Z - 2026-08-21T11:00:00Z,Meta AI,1,boazsobrado.com,/categories/shiny/
 2026-08-21T10:00:00Z - 2026-08-21T11:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-2/
 2026-08-21T10:00:00Z - 2026-08-21T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
+2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.html
+2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
+2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
