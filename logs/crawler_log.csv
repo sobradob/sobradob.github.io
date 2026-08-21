@@ -29504,3 +29504,56 @@ timestamp,bot_name,request_count,host,path
 2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.html
 2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
 2026-08-21T12:00:00Z - 2026-08-21T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,Bingbot,1,boazsobrado.com,/blog/
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,Bingbot,1,boazsobrado.com,/blog/2020/04/12/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/.env.bak
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.development
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/.env.php.bak
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.test
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,5,boazsobrado.com,/.git/config
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,4,boazsobrado.com,/.gradle/gradle.properties
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,5,boazsobrado.com,/.hermes/.env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,18,boazsobrado.com,/.svn/entries
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/.zshrc
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,6,boazsobrado.com,/@fs/.env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,7,boazsobrado.com,/@fs/proc/self/environ
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,boazsobrado.com,/Dockerfile
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/api/.env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/api/health
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,boazsobrado.com,/api/v2/config
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/app-config.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/backend/settings.py
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/config.py
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,8,boazsobrado.com,/configuration.php.bak
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/core/settings.py
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/credentials.js
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,1,boazsobrado.com,/host.key
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/id_rsa
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,boazsobrado.com,/localhost.key
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,18,boazsobrado.com,/src/amplifyconfiguration.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,www.boazsobrado.com,/.env.local
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/.gitconfig
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,3,www.boazsobrado.com,/.pypirc
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,6,www.boazsobrado.com,/.ssh/config
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/.ssh/id_ed25519
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,3,www.boazsobrado.com,/.streamlit/secrets.toml
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,www.boazsobrado.com,/actuator
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,2,www.boazsobrado.com,/actuator/env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/api/env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,4,www.boazsobrado.com,/app_dev.php/_profiler
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/auth.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,18,www.boazsobrado.com,/config.env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/config.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,6,www.boazsobrado.com,/config/master.key
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,www.boazsobrado.com,/docker/.env
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,18,www.boazsobrado.com,/id_ecdsa
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,www.boazsobrado.com,/info
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,3,www.boazsobrado.com,/local.settings.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/openapi.json
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,21,www.boazsobrado.com,/secrets.yml
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/settings.py
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,10,www.boazsobrado.com,/trace.axd
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,ClaudeBot,3,www.boazsobrado.com,/wp-config.php.old
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,Meta AI,1,boazsobrado.com,/blog/2025/02/20/monerotalk-podcast-keeping-bitcoins-cypherpunk-dream-alive/
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/media/
+2026-08-21T13:00:00Z - 2026-08-21T14:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
