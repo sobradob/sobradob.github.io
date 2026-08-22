@@ -30251,3 +30251,9 @@ timestamp,bot_name,request_count,host,path
 2026-08-22T05:00:00Z - 2026-08-22T06:00:00Z,PerplexityBot,2,boazsobrado.com,/secrets/gcp.json
 2026-08-22T05:00:00Z - 2026-08-22T06:00:00Z,PerplexityBot,2,boazsobrado.com,/terraform.tfstate
 2026-08-22T05:00:00Z - 2026-08-22T06:00:00Z,PerplexityBot,2,boazsobrado.com,/wp-json
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/22/how-digital-collateral-is-revolutionising-credit-in-emerging-markets/
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,Meta AI,1,boazsobrado.com,/categories/crypto/
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
+2026-08-22T06:00:00Z - 2026-08-22T07:00:00Z,Meta AI,1,boazsobrado.com,/tags/growth/
