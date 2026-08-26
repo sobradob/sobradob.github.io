@@ -31203,3 +31203,7 @@ timestamp,bot_name,request_count,host,path
 2026-08-26T08:00:00Z - 2026-08-26T09:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
 2026-08-26T08:00:00Z - 2026-08-26T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/
 2026-08-26T08:00:00Z - 2026-08-26T09:00:00Z,Meta AI,1,boazsobrado.com,/tags/politics/
+2026-08-26T09:00:00Z - 2026-08-26T10:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-08-26T09:00:00Z - 2026-08-26T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/08/12/automating-my-business/
+2026-08-26T09:00:00Z - 2026-08-26T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/literature/
+2026-08-26T09:00:00Z - 2026-08-26T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
