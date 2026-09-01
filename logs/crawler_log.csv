@@ -31572,3 +31572,24 @@ timestamp,bot_name,request_count,host,path
 2026-09-01T17:00:00Z - 2026-09-01T18:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-2/
 2026-09-01T17:00:00Z - 2026-09-01T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy-coins/
 2026-09-01T17:00:00Z - 2026-09-01T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/travel/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Bingbot,1,boazsobrado.com,/sitemaps.xml
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,ChatGPT,2,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/12/17/time-series-analysis-for-facebook-message-volume/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/04/01/decentralised-bitcoin-trading-platform-bisq-has-hit-record-highs./
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/10/26/mines-in-the-air/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/chinese/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/series/forbes-commentary/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/books/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/chinese/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/costa-rica/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/predictive-modeling/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/public-health/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-09-01T20:00:00Z - 2026-09-01T21:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
