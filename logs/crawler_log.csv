@@ -32655,3 +32655,15 @@ timestamp,bot_name,request_count,host,path
 2026-09-10T20:00:00Z - 2026-09-10T21:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
 2026-09-10T20:00:00Z - 2026-09-10T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
 2026-09-10T20:00:00Z - 2026-09-10T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/literature/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,ClaudeBot,12,boazsobrado.com,/web/.env
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2015/10/20/do-stupid-people-make-more-spelling-mistakes-an-analysis-with-r./
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/categories/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/categories/android/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/categories/books/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/categories/facebook/
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/images/ancientscripts.gif
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/images/games_per_month.png
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,14,boazsobrado.com,/service-account.json
+2026-09-10T22:00:00Z - 2026-09-10T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/self-analysis/
