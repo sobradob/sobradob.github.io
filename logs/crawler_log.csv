@@ -32177,3 +32177,20 @@ timestamp,bot_name,request_count,host,path
 2026-09-09T20:00:00Z - 2026-09-09T21:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
 2026-09-09T20:00:00Z - 2026-09-09T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/lee-kuan-yew/
 2026-09-09T20:00:00Z - 2026-09-09T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/literature/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Bingbot,1,boazsobrado.com,/sitemap.xml
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Bytespider,2,boazsobrado.com,/robots.txt
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/authors/example-author/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/01/27/mixpanel-live-growth-and-analytics/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/05/12/pricing-profit-and-paternalism/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/categories/cryptocurrency/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/categories/excel/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/ai/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/economic-analysis/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/opinion/
+2026-09-09T23:00:00Z - 2026-09-10T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/statistics/
