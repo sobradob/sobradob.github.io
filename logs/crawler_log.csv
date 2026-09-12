@@ -32742,3 +32742,23 @@ timestamp,bot_name,request_count,host,path
 2026-09-12T04:00:00Z - 2026-09-12T05:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
 2026-09-12T04:00:00Z - 2026-09-12T05:00:00Z,Meta AI,1,boazsobrado.com,/sitemap-index.xml
 2026-09-12T04:00:00Z - 2026-09-12T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/finance/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,ClaudeBot,6,boazsobrado.com,/account/_payload.json
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,GPTBot,27,boazsobrado.com,/sa.json
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,2,boazsobrado.com,/Dockerfile
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/07/16/old-age-originations/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/01/14/bisq-smashes-records-as-demand-for-financial-privacy-soars/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/data/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/categories/work--technology/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/bisq_all_trades_2026.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/bisq_fiat_pairs_2026.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/bisq_fiat_payment_method_2026.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/bisq_logo.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/games_per_month.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/hungary_total.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/icon.png
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/images/our_world_in_data_cigs.jpeg
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-analysis/
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,PerplexityBot,27,boazsobrado.com,/@fs/.env
+2026-09-12T09:00:00Z - 2026-09-12T10:00:00Z,PerplexityBot,24,boazsobrado.com,/assets../.env
