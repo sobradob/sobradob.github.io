@@ -33405,3 +33405,14 @@ timestamp,bot_name,request_count,host,path
 2026-09-20T17:00:00Z - 2026-09-20T18:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
 2026-09-20T17:00:00Z - 2026-09-20T18:00:00Z,Meta AI,1,boazsobrado.com,/blog/2023/09/17/a-quick-view-at-p2p-trading-volumes-on-bisq/
 2026-09-20T17:00:00Z - 2026-09-20T18:00:00Z,Meta AI,1,boazsobrado.com,/categories/excel/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/05/22/bayesian-images/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/global-labour-markets/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-analysis/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/marketing-analytics/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/regulatory-evolution/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,Meta AI,1,boazsobrado.com,/tags/writing/
+2026-09-20T20:00:00Z - 2026-09-20T21:00:00Z,PerplexityBot,2,boazsobrado.com,/images/plot_device_daily.png
