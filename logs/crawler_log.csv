@@ -33549,3 +33549,20 @@ timestamp,bot_name,request_count,host,path
 2026-09-23T19:00:00Z - 2026-09-23T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/03/08/gamefis-promise-and-reality-are-still-worlds-apart/
 2026-09-23T19:00:00Z - 2026-09-23T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/central-europe/
 2026-09-23T19:00:00Z - 2026-09-23T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-innovation/
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Bytespider,1,boazsobrado.com,/lib/terminal-xhr.php
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,ChatGPT,1,boazsobrado.com,/.streamlit/secrets.toml
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,ClaudeBot,1,boazsobrado.com,/z2rkl0am3rfff5nw8fo5
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,GPTBot,8,boazsobrado.com,/config/database.yml
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,GPTBot,1,boazsobrado.com,/functionRouter
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,GPTBot,8,boazsobrado.com,/old/.env
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Meta AI,2,boazsobrado.com,/@fs/src/.env
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Meta AI,2,boazsobrado.com,/agent/.env
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Meta AI,2,boazsobrado.com,/api/designer/v1/file-content
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Meta AI,1,boazsobrado.com,/docs
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,Meta AI,1,boazsobrado.com,/tags/travel/
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,PerplexityBot,1,boazsobrado.com,/api/templates/preview
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,PerplexityBot,2,boazsobrado.com,/api/v1/validate/code
+2026-09-23T22:00:00Z - 2026-09-23T23:00:00Z,PerplexityBot,1,boazsobrado.com,/instance/config.py
