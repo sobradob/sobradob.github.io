@@ -33526,3 +33526,7 @@ timestamp,bot_name,request_count,host,path
 2026-09-23T04:00:00Z - 2026-09-23T05:00:00Z,Meta AI,1,boazsobrado.com,/sitemap.txt
 2026-09-23T04:00:00Z - 2026-09-23T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/chess/
 2026-09-23T04:00:00Z - 2026-09-23T05:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-advertising/
+2026-09-23T10:00:00Z - 2026-09-23T11:00:00Z,Bingbot,1,boazsobrado.com,/categories/cuba/
+2026-09-23T10:00:00Z - 2026-09-23T11:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-23T10:00:00Z - 2026-09-23T11:00:00Z,Meta AI,1,boazsobrado.com,/news_sitemap.xml
+2026-09-23T10:00:00Z - 2026-09-23T11:00:00Z,Meta AI,1,boazsobrado.com,/series/op-ed/
