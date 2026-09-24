@@ -33598,3 +33598,19 @@ timestamp,bot_name,request_count,host,path
 2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bytespider,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
 2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bytespider,1,boazsobrado.com,/series/hacking/
 2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Amazonbot,1,boazsobrado.com,/series/finance/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Amazonbot,6,report.boazsobrado.com,/debug/pprof/cmdline
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Bingbot,1,boazsobrado.com,/blog/2026/01/05/lee-kuan-yew-de-tercer-mundo-a-primero-la-historia-de-singapur-resumen-en-espa%C3%B1ol/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Bytespider,30,report.boazsobrado.com,/proc/self/cgroup
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ChatGPT,18,report.boazsobrado.com,/.aws/credentials
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ClaudeBot,24,report.boazsobrado.com,/.git/HEAD
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,ClaudeBot,8,report.boazsobrado.com,/docker-compose.yaml
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/08/11/how-to-generate-a-bitcoin-vanity-address-using-a-mac/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Meta AI,1,boazsobrado.com,/blog/2019/08/12/automating-my-business/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/finance/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/
+2026-09-24T13:00:00Z - 2026-09-24T14:00:00Z,PerplexityBot,18,report.boazsobrado.com,/.next/.env
