@@ -33625,3 +33625,8 @@ timestamp,bot_name,request_count,host,path
 2026-09-24T18:00:00Z - 2026-09-24T19:00:00Z,Meta AI,1,boazsobrado.com,/categories/bayes/
 2026-09-24T18:00:00Z - 2026-09-24T19:00:00Z,Meta AI,1,boazsobrado.com,/categories/opinion/
 2026-09-24T18:00:00Z - 2026-09-24T19:00:00Z,Meta AI,1,boazsobrado.com,/tags/immigration/
+2026-09-24T21:00:00Z - 2026-09-24T22:00:00Z,ChatGPT,1,boazsobrado.com,/
+2026-09-24T21:00:00Z - 2026-09-24T22:00:00Z,ClaudeBot,1,boazsobrado.com,/
+2026-09-24T21:00:00Z - 2026-09-24T22:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-09-24T21:00:00Z - 2026-09-24T22:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/15/chinese-radicals-%E9%83%A8%E9%A6%96-reference-guide/
+2026-09-24T21:00:00Z - 2026-09-24T22:00:00Z,Meta AI,1,boazsobrado.com,/categories/coding/
