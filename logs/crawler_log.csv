@@ -33592,3 +33592,9 @@ timestamp,bot_name,request_count,host,path
 2026-09-24T03:00:00Z - 2026-09-24T04:00:00Z,PerplexityBot,15,boazsobrado.com,/.env.backup
 2026-09-24T03:00:00Z - 2026-09-24T04:00:00Z,PerplexityBot,2,www.boazsobrado.com,/.env.backup
 2026-09-24T03:00:00Z - 2026-09-24T04:00:00Z,PerplexityBot,1,www.boazsobrado.com,/read-document
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bingbot,1,boazsobrado.com,/blog/2016/04/18/boazs-review-of-books-violence-elaborate-lies-and-a-literary-journey-through-china-and-africa/
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bingbot,1,boazsobrado.com,/blog/2024/10/28/churchills-gift-to-poland/
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bingbot,1,boazsobrado.com,/blog/2025/08/03/smoking-lung-cancer-and-obesity-rates-in-the-usa/
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bytespider,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,Bytespider,1,boazsobrado.com,/series/hacking/
+2026-09-24T08:00:00Z - 2026-09-24T09:00:00Z,ChatGPT,1,boazsobrado.com,/
