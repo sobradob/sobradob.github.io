@@ -33642,3 +33642,7 @@ timestamp,bot_name,request_count,host,path
 2026-09-25T00:00:00Z - 2026-09-25T01:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-09-25T00:00:00Z - 2026-09-25T01:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/11/07/my-thoughts-on-cambridge-analytica/
 2026-09-25T00:00:00Z - 2026-09-25T01:00:00Z,Meta AI,1,boazsobrado.com,/categories/financial-markets/
+2026-09-25T06:00:00Z - 2026-09-25T07:00:00Z,GPTBot,1,boazsobrado.com,/sitemap.xml
+2026-09-25T06:00:00Z - 2026-09-25T07:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-09-25T06:00:00Z - 2026-09-25T07:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/nested-chapter/chapter-1/
+2026-09-25T06:00:00Z - 2026-09-25T07:00:00Z,Meta AI,1,boazsobrado.com,/series/opinion/
