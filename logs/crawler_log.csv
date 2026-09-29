@@ -33871,3 +33871,7 @@ timestamp,bot_name,request_count,host,path
 2026-09-29T00:00:00Z - 2026-09-29T01:00:00Z,Meta AI,1,boazsobrado.com,/categories/politics/
 2026-09-29T00:00:00Z - 2026-09-29T01:00:00Z,Meta AI,1,boazsobrado.com,/tags/airships/
 2026-09-29T00:00:00Z - 2026-09-29T01:00:00Z,Meta AI,1,boazsobrado.com,/tags/financial-policy/
+2026-09-29T07:00:00Z - 2026-09-29T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/latin-america/
+2026-09-29T07:00:00Z - 2026-09-29T08:00:00Z,Meta AI,1,boazsobrado.com,/categories/technology/
+2026-09-29T07:00:00Z - 2026-09-29T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/crypto/
+2026-09-29T07:00:00Z - 2026-09-29T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/cypherpunk/
