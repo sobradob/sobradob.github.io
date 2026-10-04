@@ -34270,3 +34270,127 @@ timestamp,bot_name,request_count,host,path
 2026-10-03T23:00:00Z - 2026-10-04T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-visualization/
 2026-10-03T23:00:00Z - 2026-10-04T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/hugo/
 2026-10-03T23:00:00Z - 2026-10-04T00:00:00Z,Meta AI,1,boazsobrado.com,/tags/productivity/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bingbot,1,boazsobrado.com,/categories/writing/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/css/eureka.min.925ab5af174a2f0df38db293cde22820375bd40cdd7cb92e85a38f01b3b5f9f47cb65c9727cc7a2e7bb64dc287e21f13.css
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/images/bartolome_de_las_casas.jpg
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/images/bisq_logo.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/images/del_tercer_mundo_al_primero.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,1,boazsobrado.com,/images/emdash_tufte.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,1,boazsobrado.com,/images/games_per_month.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/images/hungary_total.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,2,boazsobrado.com,/images/our_world_in_data_cigs.jpeg
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Bytespider,1,boazsobrado.com,/images/revolut_lawsuit.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2015/11/05/the-migrant-crisis-and-demography/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2016/02/17/boazs-review-of-books/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial/www.gitbub.com
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2016/04/20/www.gitbub.com
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2016/11/13/you-are-wasting-your-time-with-spreadsheets/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2020/05/22/a-day-using-money-in-cuba/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2023/01/01/films-watched-in-2022/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2023/08/19/the-blind-men-and-the-coin-part-i/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-i/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2023/08/20/the-blind-men-and-the-coin-part-ii/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/blog/2024/09/10/ads-in-your-banking-app-why-fintechs-are-starting-ads-ventures/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2024/09/28/stablecoin-volumes-reach-450-billion-monthly-while-bitcoin-rises/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/2024/10/20/crypto-banks-under-fire-regulatory-crackdowns-and-opportunities/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2024/10/26/mines-in-the-air/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/blog/2024/10/27/central-banks-are-increasingly-studying-bitcoin/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/blog/book_review_Boaz_1/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/airbnb/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/airbnb/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/android/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/android/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/categories/bayes/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/bayes/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/costa-rica/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/cryptocurrency/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/categories/economics/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/economics/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/facebook/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/facebook/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/financial-markets/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,3,boazsobrado.com,/categories/financial-systems/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/fundraising/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/history/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/history/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/categories/hugo/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/literature/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/categories/maps/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/maps/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/media/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/categories/monetary-systems/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/categories/politics/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/categories/rotterdam/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/categories/rotterdam/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/categories/work--technology/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/images/BRL_Payment_method.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/Hindenburg_disaster.jpg
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/USA2015.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/baylac3.jpeg
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/bisq_fiat_pairs_quarterly.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/metropolis_hastings2.gif
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/images/mortgage_originations_age.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/political_problem_crypto.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/ppCheck.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/images/priorPredCheck.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/series/cuban-chapter/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/series/forbes-commentary/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/series/hacking/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/series/hacking/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/series/on-books/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/series/on-books/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/series/verbose-musings/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/banking-regulation/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/banking-regulation/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/bayes/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/coding/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/coding/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/costa-rica/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/costa-rica/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/tags/cuba/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/currency/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/digital-advertising/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/financial-regulation/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/hugo/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/tags/institutional-evolution/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/institutional-evolution/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/literature/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/maps/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/tags/market-evolution/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/tags/market-evolution/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,6,boazsobrado.com,/tags/monetary-policy/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,4,boazsobrado.com,/tags/opinion/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/politics/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/r/page/2/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/regulatory-evolution/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/shiny/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,1,boazsobrado.com,/tags/shiny/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/trading-platforms/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,GPTBot,2,boazsobrado.com,/tags/travel/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/08/11/cubas-short-term-property-rental-market-2017-2018/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/01/15/social-proof-of-work/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/03/31/crypto-should-disrupt-current-anti-money-laundering-practices-not-adopt-them/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/24/a-salaryman-worth-his-salt/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/29/is-2024-the-year-bitcoin-obituaries-died/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/bayes/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/crypto/index.xml
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/cuba/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/digital-strategy/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/maps/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/r/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/css/eureka.min.925ab5af174a2f0df38db293cde22820375bd40cdd7cb92e85a38f01b3b5f9f47cb65c9727cc7a2e7bb64dc287e21f13.css
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-2/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/images/icon_hu0aef082b5fc4e592bdba40d3a3614286_904162_32x32_fill_box_center_3.png
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/series/advertising/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/chess/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/cuba/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/hungary/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/programming/
+2026-10-04T05:00:00Z - 2026-10-04T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/r/
