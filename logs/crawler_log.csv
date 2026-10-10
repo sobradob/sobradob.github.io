@@ -34896,3 +34896,8 @@ timestamp,bot_name,request_count,host,path
 2026-10-10T05:00:00Z - 2026-10-10T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/airships/
 2026-10-10T05:00:00Z - 2026-10-10T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/opinion/
 2026-10-10T05:00:00Z - 2026-10-10T06:00:00Z,Meta AI,1,boazsobrado.com,/tags/shiny/
+2026-10-10T12:00:00Z - 2026-10-10T13:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-10-10T12:00:00Z - 2026-10-10T13:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-10-10T12:00:00Z - 2026-10-10T13:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-10-10T12:00:00Z - 2026-10-10T13:00:00Z,Meta AI,1,boazsobrado.com,/news_sitemap.xml
+2026-10-10T12:00:00Z - 2026-10-10T13:00:00Z,Meta AI,1,boazsobrado.com,/tags/politics/
