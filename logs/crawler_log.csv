@@ -35378,3 +35378,6 @@ timestamp,bot_name,request_count,host,path
 2026-10-19T05:00:00Z - 2026-10-19T06:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
 2026-10-19T05:00:00Z - 2026-10-19T06:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
 2026-10-19T05:00:00Z - 2026-10-19T06:00:00Z,Meta AI,1,boazsobrado.com,/categories/personal/
+2026-10-19T11:00:00Z - 2026-10-19T12:00:00Z,Bingbot,1,boazsobrado.com,/blog/2021/06/04/on-the-brink-on-bitcoin-adoption-trends-in-cuba/
+2026-10-19T11:00:00Z - 2026-10-19T12:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-10-19T11:00:00Z - 2026-10-19T12:00:00Z,Meta AI,1,boazsobrado.com,/categories/airbnb/
