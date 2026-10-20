@@ -35408,3 +35408,5 @@ timestamp,bot_name,request_count,host,path
 2026-10-20T03:00:00Z - 2026-10-20T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/immigration/
 2026-10-20T03:00:00Z - 2026-10-20T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/market-analysis/
 2026-10-20T03:00:00Z - 2026-10-20T04:00:00Z,Meta AI,1,boazsobrado.com,/tags/monetary-policy/
+2026-10-20T08:00:00Z - 2026-10-20T09:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-10-20T08:00:00Z - 2026-10-20T09:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
