@@ -35523,3 +35523,103 @@ timestamp,bot_name,request_count,host,path
 2026-10-21T08:00:00Z - 2026-10-21T09:00:00Z,Meta AI,1,boazsobrado.com,/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js
 2026-10-21T08:00:00Z - 2026-10-21T09:00:00Z,Meta AI,1,boazsobrado.com,/js/fontawesome.min.4695061e2bdde22bc383d4705fb1ca9f5035d1570d0eea67b684c1a625d18b4058348db18368b7284147c9134566569e.js
 2026-10-21T08:00:00Z - 2026-10-21T09:00:00Z,Meta AI,2,boazsobrado.com,/sitemap.txt
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/....//....//....//..../.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,2,boazsobrado.com,/.vault-token
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/@fs/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/_next/server
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/backend/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/firebase-adminsdk.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/google-credentials.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,2,boazsobrado.com,/key.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,2,boazsobrado.com,/privatekey.key
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/secrets.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/series/media/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,2,boazsobrado.com,/serverless.yml
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Amazonbot,1,boazsobrado.com,/terraform.tfstate
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,2,boazsobrado.com,/.env.example
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,2,boazsobrado.com,/.env.prod.local
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,1,boazsobrado.com,/.env.www
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,1,boazsobrado.com,/__vite_rsc_findSourceMapURL
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,2,boazsobrado.com,/api/system/fileView
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bingbot,1,boazsobrado.com,/railway.toml
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/....//....//....//..../proc/self/environ
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/.azure/accessTokens.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/.my.cnf
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/02/03/how-i-built-a-personal-screen-time-tracker-for-mac-and-iphone-using-claude/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/blog/2026/02/28/i-sued-revolut-and-won.-heres-what-happened./
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/css/eureka.min.925ab5af174a2f0df38db293cde22820375bd40cdd7cb92e85a38f01b3b5f9f47cb65c9727cc7a2e7bb64dc287e21f13.css
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/images/plot_device_daily.png
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Bytespider,1,boazsobrado.com,/images/revolut_lawsuit.png
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/.docker/secrets.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/.env.docker
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/.env.production::$DATA
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/.pgpass
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/@fs/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,2,boazsobrado.com,/app
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/build../.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/config/.env.local
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/config/.env.production
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/docker/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,1,boazsobrado.com,/flowise/api/v1/node-load-method/customMCP
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,2,boazsobrado.com,/llm/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,2,boazsobrado.com,/terraform.tfvars
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ChatGPT,4,boazsobrado.com,/utils/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/%2Fdashboard
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,4,boazsobrado.com,/*.auto.tfvars
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.dev.vars.production
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.local
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.mail
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/.github/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.next/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.ssh/id_ecdsa
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,4,boazsobrado.com,/@fs/app/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/@fs/home/ubuntu/.aws/credentials
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/auth
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/orders/..%2f..%2fproc/self/environ
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/v1/auto_login
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/app
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/dashboard
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/docker-compose.production.yml
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/flowise/api/v1/node-custom-function
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/google-services.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/lib/file-control.php
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/private-key
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/private/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,2,boazsobrado.com,/temp/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,ClaudeBot,1,boazsobrado.com,/terraform.tfstate.backup
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,1,boazsobrado.com,/.env.local
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,2,boazsobrado.com,/@fs/root/.aws/credentials
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,1,boazsobrado.com,/compose.yml
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,2,boazsobrado.com,/config/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,1,boazsobrado.com,/credentials.json
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,2,boazsobrado.com,/css../.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,GPTBot,2,boazsobrado.com,/dashboard/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,10,boazsobrado.com,/%2eenv
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,2,boazsobrado.com,/.//.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/.amplifyrc
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/.env.ses
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/api/v1/node-load-method/customMCP
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/bc727jt4z7xgj5tll928
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2017/01/11/thirteen-hours-in-rotterdam/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/categories/bayes/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/categories/mistakes/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,2,boazsobrado.com,/conf/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/docs/example-doc/chapter-1/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/internal/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,2,boazsobrado.com,/ssl/server.key
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/static//.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/data-science/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/digital-inclusion/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/immigration/
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,2,boazsobrado.com,/%2Fsettings
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,1,boazsobrado.com,/.ssh/known_hosts
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,1,boazsobrado.com,/.terraform.rc
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,1,boazsobrado.com,/@fs/root/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,2,boazsobrado.com,/app/.env
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,2,boazsobrado.com,/config/.env.dev
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,1,boazsobrado.com,/id_rsa
+2026-10-21T14:00:00Z - 2026-10-21T15:00:00Z,PerplexityBot,1,boazsobrado.com,/pkg/.env
