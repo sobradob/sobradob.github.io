@@ -35955,3 +35955,93 @@ timestamp,bot_name,request_count,host,path
 2026-10-25T10:00:00Z - 2026-10-25T11:00:00Z,Meta AI,1,boazsobrado.com,/js/fontawesome.min.4695061e2bdde22bc383d4705fb1ca9f5035d1570d0eea67b684c1a625d18b4058348db18368b7284147c9134566569e.js
 2026-10-25T10:00:00Z - 2026-10-25T11:00:00Z,Meta AI,2,boazsobrado.com,/sitemap.html
 2026-10-25T10:00:00Z - 2026-10-25T11:00:00Z,Meta AI,1,boazsobrado.com,/tags/guest-workers/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/.env.local
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/admin/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/api/auth
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/cms/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/config/gcp-credentials.json
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/docker-compose/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/firebase.json
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/img../.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,2,boazsobrado.com,/key.pem
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,1,boazsobrado.com,/settings
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Amazonbot,2,boazsobrado.com,/temp/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/.amplifyrc
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/.docker/config.json
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/.env.development::$DATA
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/api/console/api_server
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/assets../.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/images/salesNationality.png
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bingbot,1,boazsobrado.com,/ssl/localhost.key
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bytespider,6,boazsobrado.com,/*.auto.tfvars
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bytespider,2,boazsobrado.com,/api/orders/..%2f..%2fproc/self/environ
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bytespider,1,boazsobrado.com,/public../.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bytespider,1,boazsobrado.com,/server.key
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Bytespider,1,boazsobrado.com,/supabase/config.toml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,4,boazsobrado.com,/@fs/..%252f..%252f..%252f..%252f..%252froot/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,1,boazsobrado.com,/__vite_rsc_findSourceMapURL
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,1,boazsobrado.com,/api
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,4,boazsobrado.com,/api/v1/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,1,boazsobrado.com,/scripts/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,2,boazsobrado.com,/secrets.yml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,2,boazsobrado.com,/sitemap.xml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,2,boazsobrado.com,/ssl/server.key
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,1,boazsobrado.com,/static/..;/..;/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ChatGPT,1,boazsobrado.com,/var/run/secrets/kubernetes.io/serviceaccount/token
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.//.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.dev.local
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.example
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.live
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.stage
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/.env_sample
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/.idea/WebServers.xml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/@fs/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/@fs/root/.aws/credentials
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/Dockerrun.aws.json
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/__vite_rsc_findSourceMapURL
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/_nuxt/../.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/actions
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/..;/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/w/default/jobs_u/get_log_file/../../../../proc/self/environ
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/api/w/starter/jobs_u/get_log_file/../../../../proc/self/environ
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/page/4/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/categories/policy-analysis/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/compose.yml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/dashboard
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/docker-compose.yaml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/docker-compose.yml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,4,boazsobrado.com,/firebaseConfig.js
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/pnpm-workspace.yaml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,4,boazsobrado.com,/rclone.conf
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/sa.json
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/server/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/settings%2F.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,1,boazsobrado.com,/static//home/user/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/store/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,ClaudeBot,2,boazsobrado.com,/userfiles
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,GPTBot,10,boazsobrado.com,/.dockerenv
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,GPTBot,1,boazsobrado.com,/.env.production
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,GPTBot,1,boazsobrado.com,/private-key
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,GPTBot,1,boazsobrado.com,/userfiles
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,4,boazsobrado.com,/.env.save
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/@fs/app/.env.production
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/Dockerfile
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/api/console/api_server
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/07/21/my-time-in-utrecht/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/config/env/aws_credentials.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/dist../.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,2,boazsobrado.com,/firebase-config.js
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/images/Uk_war_balloon.jpeg
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/images/icon.png
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/pkg/.env
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/static/..;/..;/..;/..;/proc/self/environ
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,1,boazsobrado.com,/tags/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,2,boazsobrado.com,/tags/airships/
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,Meta AI,2,boazsobrado.com,/terraform.tfvars
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/.aws/credentials
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.keys
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,2,boazsobrado.com,/@fs/proc/self/environ
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/config/settings.local.yml
+2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/host.key
