@@ -36045,3 +36045,10 @@ timestamp,bot_name,request_count,host,path
 2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,2,boazsobrado.com,/@fs/proc/self/environ
 2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/config/settings.local.yml
 2026-10-25T14:00:00Z - 2026-10-25T15:00:00Z,PerplexityBot,1,boazsobrado.com,/host.key
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2023/07/16/old-age-originations/
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Meta AI,1,boazsobrado.com,/blog/2016/04/20/how-i-made-this-website-tutorial/
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Meta AI,1,boazsobrado.com,/series/media/
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Meta AI,1,boazsobrado.com,/series/verbose-musings/
+2026-10-25T17:00:00Z - 2026-10-25T18:00:00Z,Meta AI,1,boazsobrado.com,/tags/privacy/
