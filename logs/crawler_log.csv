@@ -36117,3 +36117,58 @@ timestamp,bot_name,request_count,host,path
 2026-10-27T09:00:00Z - 2026-10-27T10:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2024/12/22/how-digital-collateral-is-revolutionising-credit-in-emerging-markets/
 2026-10-27T09:00:00Z - 2026-10-27T10:00:00Z,PerplexityBot,2,boazsobrado.com,/images/james_downer_guajira_bikes.jpeg
 2026-10-27T09:00:00Z - 2026-10-27T10:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,1,boazsobrado.com,/.changeset/config.json
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,4,boazsobrado.com,/__vite_rsc_findSourceMapURL
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,1,boazsobrado.com,/blog/2024/12/17/how-stripe-and-stablecoins-are-rewiring-remote-work/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,1,boazsobrado.com,/internal/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,2,boazsobrado.com,/model/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,2,boazsobrado.com,/panel/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,1,boazsobrado.com,/series/verbose-musings/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Amazonbot,1,boazsobrado.com,/uploads../.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,1,boazsobrado.com,/@fs/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,2,boazsobrado.com,/@fs/var/run/secrets/kubernetes.io/serviceaccount/ca.crt
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,2,boazsobrado.com,/config/environment.json
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,1,boazsobrado.com,/contact/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,2,boazsobrado.com,/gcp-credentials.json
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bingbot,1,boazsobrado.com,/workspace/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,4,boazsobrado.com,/.env.development
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,1,boazsobrado.com,/.env.www
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,2,boazsobrado.com,/.turbo/config.json
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,3,boazsobrado.com,/_astro/pages/index.astro.mjs.map
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,3,boazsobrado.com,/api/console/api_server
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,1,boazsobrado.com,/robots.txt
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Bytespider,4,boazsobrado.com,/sitemap.xml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ChatGPT,4,boazsobrado.com,/samconfig.toml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ChatGPT,2,boazsobrado.com,/userfiles
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.old
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.production
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,4,boazsobrado.com,/@fs/home/ubuntu/.aws/credentials
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,1,boazsobrado.com,/@fs/proc/self/environ
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,2,boazsobrado.com,/compose.yml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,3,boazsobrado.com,/config/env/aws_credentials.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,2,boazsobrado.com,/pnpm-workspace.yaml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,4,boazsobrado.com,/settings%2F.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,3,boazsobrado.com,/static/..;/..;/..;/..;/proc/self/environ
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,8,boazsobrado.com,/static/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,ClaudeBot,3,boazsobrado.com,/temp/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,GPTBot,1,boazsobrado.com,/....//....//....//..../proc/self/environ
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,GPTBot,3,boazsobrado.com,/.env.smtp
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,GPTBot,4,boazsobrado.com,/cms/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,2,boazsobrado.com,/.env_1
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,3,boazsobrado.com,/.github/workflows/deploy.yml
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,2,boazsobrado.com,/.terraform.lock.hcl
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,2,boazsobrado.com,/blog/1/01/01/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,3,boazsobrado.com,/build../.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,1,boazsobrado.com,/categories/excel/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,1,boazsobrado.com,/env/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/fintech/
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,1,boazsobrado.com,/*.auto.tfvars
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,2,boazsobrado.com,/@fs/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,2,boazsobrado.com,/api/v1/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,2,boazsobrado.com,/packages/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,1,boazsobrado.com,/project/.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,4,boazsobrado.com,/public../.env
+2026-10-27T15:00:00Z - 2026-10-27T16:00:00Z,PerplexityBot,6,boazsobrado.com,/push_config.json
