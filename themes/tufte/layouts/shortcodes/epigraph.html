@@ -1,0 +1,2 @@
+{{- /* Usage: {{< epigraph cite="Who said it" >}}The quote.{{< /epigraph >}} */ -}}
+<blockquote class="epigraph"><p>{{ .Inner | .Page.RenderString }}</p>{{ with .Get "cite" }}<footer>{{ . | markdownify }}</footer>{{ end }}</blockquote>

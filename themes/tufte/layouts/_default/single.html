@@ -1,0 +1,91 @@
+{{ define "main" }}
+{{- $showMeta := ne .Layout "single-no-meta" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p class="subtitle">{{ . | markdownify }}</p>
+  {{- end }}
+
+  {{- if and $showMeta .IsPage }}
+  <p class="byline">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+    {{- range .GetTerms "categories" }} · <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+    · {{ .ReadingTime }} minute read
+  </p>
+  {{- end }}
+
+  {{- range .GetTerms "series" }}
+  {{- $pages := .Pages.ByDate }}
+  {{- if gt (len $pages) 1 }}
+  {{- $current := $.RelPermalink }}
+  {{- $index := 0 }}
+  {{- range $i, $p := $pages }}{{ if eq $p.RelPermalink $current }}{{ $index = add $i 1 }}{{ end }}{{ end }}
+  <div class="series">
+    <a class="sc series-name" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ with $index }} · part {{ . }} of {{ len $pages }}{{ end }}
+    {{- if le (len $pages) 10 }}
+    <ol>
+      {{- range $pages }}
+      {{- if eq .RelPermalink $current }}
+      <li class="here">{{ .Title }}</li>
+      {{- else }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{- end }}
+      {{- end }}
+    </ol>
+    {{- end }}
+  </div>
+  {{- end }}
+  {{- end }}
+
+  {{- $hasToc := and .Params.toc (strings.Contains .TableOfContents "<li>") }}
+  {{- if $hasToc }}
+  <div class="toc-holder">
+    <nav class="toc marginnote" aria-label="Contents"><span class="label sc">Contents</span>{{ .TableOfContents | replaceRE `<nav id="TableOfContents">|</nav>` "" | safeHTML }}</nav>
+  </div>
+  <details class="toc-mobile"><summary>Contents</summary>{{ .TableOfContents | replaceRE `<nav id="TableOfContents">|</nav>` "" | safeHTML }}</details>
+  {{- end }}
+
+  {{- /* Featured image, as on the old theme, unless the post body already shows it */}}
+  {{- with .Params.featuredImage }}
+  {{- if not (strings.Contains $.RawContent (printf "images/%s" (path.Base .))) }}
+  <figure class="featured">
+    <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+  </figure>
+  {{- end }}
+  {{- end }}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{- if and $showMeta .IsPage }}
+  <div class="endmatter">
+    {{- with .GetTerms "tags" }}
+    <p class="tags">{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>
+    {{- end }}
+
+    {{- with first 4 (site.RegularPages.Related .) }}
+    <div class="related">
+      <span class="sc">See also</span>
+      <ul>
+        {{- range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+
+    {{- if or .PrevInSection .NextInSection }}
+    <div class="pager">
+      {{- with .PrevInSection }}
+      <a class="prev" href="{{ .RelPermalink }}"><span class="dir">Older</span><span class="t">{{ .Title }}</span></a>
+      {{- else }}<span></span>{{ end }}
+      {{- with .NextInSection }}
+      <a class="next" href="{{ .RelPermalink }}"><span class="dir">Newer</span><span class="t">{{ .Title }}</span></a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+</article>
+{{ end }}

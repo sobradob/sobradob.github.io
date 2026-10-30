@@ -1,11 +1,8 @@
 baseURL: https://boazsobrado.com/
 title: Boaz Sobrado's Website
 
-# Uncomment when not installing with Hugo Modules
-# theme: eureka
-# Comment when not installing with Hugo Modules
-theme: wangchucheng.com/hugo-eureka
-# If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
+# Site theme lives in themes/tufte (Eureka was replaced in October 2026)
+theme: tufte
 
 pagination:
   pagerSize: 10  # Instead of the old 'paginate: 10'
@@ -29,9 +26,24 @@ markup:
     endLevel: 6
     ordered: false
   goldmark:
+    parser:
+      wrapStandAloneImageWithinParagraph: false
     renderer:
       unsafe: true
 
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: series
+      weight: 80
+    - name: categories
+      weight: 50
+    - name: date
+      weight: 10
 taxonomies:
   category: categories
   tag: tags

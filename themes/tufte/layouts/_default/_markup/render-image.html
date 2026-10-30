@@ -1,0 +1,10 @@
+{{- /* Block images become a figure; the Markdown title text becomes a margin caption. */ -}}
+{{- $src := .Destination | safeURL }}
+{{- if .IsBlock }}
+<figure>
+  {{- with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  <img src="{{ $src }}" alt="{{ .PlainText }}" loading="lazy">
+</figure>
+{{- else -}}
+<img src="{{ $src }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
+{{- end -}}

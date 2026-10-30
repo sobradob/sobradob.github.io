@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="listing">
+  <h1>{{ if eq .Kind "taxonomy" }}{{ .Title }}{{ else if eq .Kind "term" }}<span class="kind sc">{{ .Data.Singular | humanize }}</span> {{ .Title }}{{ else }}{{ .Title | default "Writing" }}{{ end }}</h1>
+  {{- with .Description }}<p class="subtitle">{{ . }}</p>{{ end }}
+  {{- with .Content }}<div class="content">{{ . }}</div>{{ end }}
+
+  {{- range .Pages.GroupByDate "2006" }}
+  <h2 class="year">{{ .Key }}</h2>
+  <ul class="posts">
+    {{- range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}"{{ with .Params.lang }} lang="{{ . }}"{{ end }}>{{ .Title }}</a>
+      <span class="date">{{ .Date.Format "2 Jan" }}</span>
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</section>
+{{ end }}

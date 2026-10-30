@@ -1,3 +1,0 @@
-{{ $icon := resources.GetMatch .icon }}
-{{ $iconResized := $icon.Fill (printf "%sx%s Center" (string .size) (string .size)) }}
-{{ return $iconResized }}
