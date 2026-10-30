@@ -1,19 +1,13 @@
 main:
-  - name: About
-    url: "#about"
-    weight: 1
-  - name: Blog
+  - name: Writing
     url: /blog/
+    weight: 1
+  - name: In the media
+    url: /series/media/
     weight: 2
-  #  - name: Docs
-  #    url: /docs/
-  #    weight: 3
-  - name: In the Media
-    url: "/series/media"
-    weight: 4
   - name: CV
-    url: "/boaz_sobrado_cv.pdf"
-    weight: 5
-  - name: Contact Me
+    url: /boaz_sobrado_cv.pdf
+    weight: 3
+  - name: Contact
     url: /contact/
-    weight: 6
+    weight: 4

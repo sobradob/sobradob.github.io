@@ -2,6 +2,8 @@
 title: Boaz Sobrado
 draft: false
 role: Growth & Data
+tagline: Growth, data & fintech
+avatarCaption: Boaz Sobrado, 2023.
 avatar: /images/boaz_profile_2023.jpg
 bio:
 organization:

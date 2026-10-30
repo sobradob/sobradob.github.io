@@ -1,0 +1,13 @@
+<header class="masthead">
+  <div class="left">
+    {{- if not .IsHome }}
+    <a class="home sc" href="{{ "/" | relURL }}">Boaz Sobrado</a>
+    {{- end }}
+    <nav aria-label="Site">
+      {{- range site.Menus.main }}
+      <a class="sc" href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{- end }}
+    </nav>
+  </div>
+  <button class="theme-toggle sc" id="theme-toggle" type="button" aria-live="polite">Theme: auto</button>
+</header>

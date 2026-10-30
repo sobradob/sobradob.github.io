@@ -1,0 +1,9 @@
+<footer class="site-footer">
+  <div class="ornament" aria-hidden="true">❧</div>
+  <p>
+    {{- with site.Params.email }}Write to <span class="email">{{ . }}</span>, or find me on {{ end -}}
+    <a href="https://twitter.com/sobradob">X</a>, <a href="https://www.linkedin.com/in/boazsobrado/">LinkedIn</a> and <a href="https://github.com/sobradob/">GitHub</a>.
+    <a href="{{ "/blog/index.xml" | relURL }}">RSS</a>.
+  </p>
+  <p class="colophon">© {{ now.Year }} Boaz Sobrado. Set in EB Garamond, after Edward Tufte’s handouts.</p>
+</footer>

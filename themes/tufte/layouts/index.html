@@ -1,0 +1,80 @@
+{{ define "main" }}
+{{- $bundle := site.GetPage "/homepage" }}
+{{- $about := $bundle.Resources.GetMatch "about.md" }}
+{{- $experience := $bundle.Resources.GetMatch "experience.md" }}
+
+<section id="about">
+  <h1>{{ $about.Title }}</h1>
+  <p class="subtitle">{{ $about.Params.tagline | default $about.Params.role }}
+    {{- with $about.Params.avatar }}
+    <span class="marginnote keep">
+      <span class="portrait">
+        <img src="{{ . | relURL }}" alt="Portrait of {{ $about.Title }}" width="360" height="360">
+        {{- with $about.Params.avatarCaption }}<span class="caption">{{ . }}</span>{{ end }}
+      </span>
+    </span>
+    {{- end }}
+  </p>
+  <div class="content intro">
+    {{ $about.Content }}
+  </div>
+</section>
+
+{{- with $experience }}
+{{- $roles := .Params.experiences }}
+<section id="work">
+  <h2>{{ .Params.displayTitle | default "Work" }}</h2>
+
+  {{- /* Career timeline: one bar per role, x scaled by year. Current role in red. */}}
+  {{- $first := 9999 }}
+  {{- range $roles }}{{ $y := int (trim (index (split .dates "-") 0) " ") }}{{ if lt $y $first }}{{ $first = $y }}{{ end }}{{ end }}
+  {{- $last := add now.Year 1 }}
+  {{- $x0 := 96.0 }}{{ $x1 := 292.0 }}
+  {{- $scale := div (sub $x1 $x0) (float (sub $last $first)) }}
+  {{- $rowH := 22 }}
+  {{- $height := add (mul (len $roles) $rowH) 30 }}
+  <div class="figure">
+    <span class="marginnote keep">{{ len $roles }} roles since {{ $first }}. The red bar is the current one.</span>
+    <svg class="timeline" viewBox="0 0 300 {{ $height }}" role="img" aria-label="Career timeline, {{ $first }} to {{ now.Year }}">
+      {{- range $i, $r := $roles }}
+      {{- $parts := split $r.dates "-" }}
+      {{- $start := int (trim (index $parts 0) " ") }}
+      {{- $endRaw := lower (trim (index $parts 1) " ") }}
+      {{- $current := eq $endRaw "present" }}
+      {{- $end := $last }}{{ if not $current }}{{ $end = int $endRaw }}{{ end }}
+      {{- $y := add (mul $i $rowH) 7 }}
+      <text class="name" x="0" y="{{ add $y 8 }}">{{ $r.organization.name }}</text>
+      <rect class="bar{{ if $current }} now{{ end }}" x="{{ add $x0 (mul $scale (sub $start $first)) }}" y="{{ $y }}" width="{{ mul $scale (sub $end $start) }}" height="9"></rect>
+      {{- end }}
+      {{- $axisY := add (mul (len $roles) $rowH) 3 }}
+      <line class="axis" x1="{{ $x0 }}" y1="{{ $axisY }}" x2="{{ $x1 }}" y2="{{ $axisY }}"></line>
+      <text x="{{ $x0 }}" y="{{ add $axisY 14 }}" text-anchor="start">{{ $first }}</text>
+      <text x="{{ add $x0 (mul $scale (sub now.Year $first)) }}" y="{{ add $axisY 14 }}" text-anchor="middle">{{ now.Year }}</text>
+    </svg>
+  </div>
+
+  <div class="work">
+    {{- range $roles }}
+    <div class="entry">
+      <span class="marginnote keep">
+        <span class="label">{{ with .organization.url }}<a href="{{ . }}">{{ end }}{{ .organization.name }}{{ with .organization.url }}</a>{{ end }}</span>
+        {{ .location }} · {{ replace (replace .dates " - " " to ") "present" "now" }}
+      </span>
+      <p class="role">{{ .title }}</p>
+      {{ .writeup | markdownify }}
+    </div>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+
+<section id="writing">
+  <h2>Recent writing</h2>
+  <ul class="posts">
+    {{- range first 7 (where (where site.RegularPages "Section" "blog") "Date" "gt" (time "1900-01-01")) }}
+    <li><a href="{{ .RelPermalink }}"{{ with .Params.lang }} lang="{{ . }}"{{ end }}>{{ .Title }}</a><span class="date">{{ .Date.Format "Jan 2006" }}</span></li>
+    {{- end }}
+  </ul>
+  <p class="more"><a href="{{ "/blog/" | relURL }}">All writing</a>, and <a href="{{ "/series/media/" | relURL }}">appearances in the press and on podcasts</a>.</p>
+</section>
+{{ end }}
