@@ -107,7 +107,7 @@ label.sidenote-number { display: inline; cursor: default; }
 .portrait .caption { margin-top: 0.4rem; font-style: italic; }
 
 /* Career timeline, a small-multiple in the margin */
-.figure { margin: 0 0 2.2rem; }
+.figure { width: 55%; margin: 0 0 2.2rem; }  /* 55% so its margin note lands in the margin, not off the page */
 .timeline { width: 100%; max-width: 26rem; height: auto; display: block; margin: 0.2rem 0 0.4rem; }
 .timeline text { fill: var(--muted); font-family: var(--serif); font-size: 11px; }
 .timeline .name { fill: var(--ink); }
@@ -142,7 +142,7 @@ footer .email { user-select: all; color: var(--ink); }
   html { font-size: 14px; }
   .page { padding-block: 2rem 3rem; }
   .page > * { width: 100%; padding-left: 0; }
-  p, .subtitle, ul.posts, .work, .ornament, .draft-flag { width: 100%; }
+  p, .subtitle, ul.posts, .work, .figure, .ornament, .draft-flag { width: 100%; }
   .opening .initial { font-size: 4.6em; }
   h1 { font-size: 2.8rem; }
   .masthead { margin-bottom: 2.8rem; }
@@ -309,8 +309,11 @@ figure.center img { width: auto; max-width: 100%; margin: 0 auto; }
 }
 
 /* Rules for markup that already exists in live posts, so old posts need no edits */
-.content iframe { display: block; width: 87.5%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0; margin: 0 0 2rem; }
-.content iframe[src*="fred.stlouisfed.org"] { width: 670px; aspect-ratio: 670 / 475; }  /* FRED does not scale its graph; show it at its native width */
+/* Embeds keep the width and height their post gives them (cal.com, Libsyn, LinkedIn, Shiny);
+   only video and FRED charts get a fixed shape. */
+.content iframe { display: block; max-width: 100%; border: 0; margin: 0 0 2rem; }
+.content iframe[src*="youtube.com"], .content iframe[src*="youtube-nocookie.com"], .content iframe[src*="vimeo.com"] { width: 87.5%; height: auto; aspect-ratio: 16 / 9; }
+.content iframe[src*="fred.stlouisfed.org"] { width: 670px; height: auto; aspect-ratio: 670 / 475; }  /* FRED does not scale its graph; show it at its native width */
 .embed-container { position: static !important; padding: 0 !important; height: auto !important; }
 center { display: block; width: 55%; }
 center img { display: block; max-width: 100%; margin: 0 auto 1.6rem; }
@@ -318,7 +321,7 @@ center img { display: block; max-width: 100%; margin: 0 auto 1.6rem; }
 blockquote.twitter-tweet footer::before { content: "— "; }
 .tex.display { display: block; text-align: center; }
 @media (max-width: 760px) {
-  .content iframe, .content iframe[src*="fred.stlouisfed.org"], center { width: 100%; }
+  .content iframe[src*="youtube.com"], .content iframe[src*="youtube-nocookie.com"], .content iframe[src*="vimeo.com"], .content iframe[src*="fred.stlouisfed.org"], center { width: 100%; }
 }
 
 /* Part 3: Hugo output. Markup the mockup did not have: Hugo's TOC lists, loose lists,

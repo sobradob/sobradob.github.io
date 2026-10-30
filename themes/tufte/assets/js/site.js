@@ -20,11 +20,13 @@
   if (content) {
     var paras = Array.prototype.filter.call(content.children, function (el) { return el.tagName === "P"; });
 
-    // An opening paragraph that is only italic text ("Originally published in Forbes", "co-written with")
-    // is a credit line, not the start of the piece.
+    // An opening paragraph that is only italic text and reads like a credit ("Originally published in Forbes",
+    // "Co-written with Claude") is a note, not the start of the piece. Italic story openings stay as they are.
+    var credit = /publish|co-written|co-authored|archive copy|traducci|translat/i;
     var first = paras[0];
     if (first && first === content.firstElementChild && first.children.length === 1 &&
-        first.firstElementChild.tagName === "EM" && first.textContent.trim() === first.firstElementChild.textContent.trim()) {
+        first.firstElementChild.tagName === "EM" && first.textContent.trim() === first.firstElementChild.textContent.trim() &&
+        credit.test(first.textContent)) {
       first.classList.add("note");
       paras.shift();
     }
