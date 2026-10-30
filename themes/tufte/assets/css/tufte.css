@@ -101,9 +101,9 @@ label.sidenote-number { display: inline; cursor: default; }
 
 .portrait { display: block; margin: 0 0 0.6rem; }
 .portrait .caption { display: block; }
-.portrait img { display: block; width: 44%; max-width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; filter: grayscale(1) contrast(1.02); }
-:root[data-theme="dark"] .portrait img { filter: grayscale(1) brightness(0.85); }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .portrait img { filter: grayscale(1) brightness(0.85); } }
+.portrait img { display: block; width: 44%; max-width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; }
+:root[data-theme="dark"] .portrait img { filter: brightness(0.9); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .portrait img { filter: brightness(0.9); } }
 .portrait .caption { margin-top: 0.4rem; font-style: italic; }
 
 /* Career timeline, a small-multiple in the margin */
