@@ -1,0 +1,31 @@
+{{- /* A 1200×630 share card: page title in EB Garamond on the site's paper colour. Returns the image resource.
+     Hugo's text filter only wraps at the image edge, so titles are wrapped here by an estimated character width. */}}
+{{- $regular := resources.Get "fonts/EBGaramond-Regular.ttf" }}
+{{- $italic := resources.Get "fonts/EBGaramond-Italic.ttf" }}
+{{- $title := .Title | default site.Title | plainify | htmlUnescape }}
+{{- if .IsHome }}{{ $title = "Boaz Sobrado" }}{{ end }}
+{{- $size := 76 }}
+{{- if gt (len $title) 100 }}{{ $size = 52 }}{{ else if gt (len $title) 60 }}{{ $size = 62 }}{{ end }}
+{{- $perLine := int (div 1040.0 (mul 0.44 $size)) }}
+{{- $lines := slice }}
+{{- $line := "" }}
+{{- range split $title " " }}
+  {{- $next := trim (printf "%s %s" $line .) " " }}
+  {{- if and $line (gt (len $next) $perLine) }}
+    {{- $lines = $lines | append $line }}
+    {{- $line = . }}
+  {{- else }}
+    {{- $line = $next }}
+  {{- end }}
+{{- end }}
+{{- $lines = $lines | append $line }}
+{{- if gt (len $lines) 4 }}{{ $lines = (first 3 $lines) | append (printf "%s …" (index $lines 3)) }}{{ end }}
+{{- $byline := "Boaz Sobrado" }}
+{{- if .IsHome }}{{ with (site.GetPage "/homepage").Resources.GetMatch "about.md" }}{{ $byline = .Params.tagline | default $byline }}{{ end }}{{ end }}
+{{- if and .IsPage (not .Date.IsZero) }}{{ $byline = printf "Boaz Sobrado · %s" (.Date.Format "January 2006") }}{{ end }}
+{{- $filters := slice (images.Text "BOAZSOBRADO.COM" (dict "font" $regular "size" 24 "color" "#9b2316" "x" 80 "y" 88)) }}
+{{- range $i, $l := $lines }}
+  {{- $filters = $filters | append (images.Text $l (dict "font" $regular "size" $size "color" "#1b1a17" "x" 80 "y" (add 150 (mul $i (int (mul $size 1.18)))))) }}
+{{- end }}
+{{- $filters = $filters | append (images.Text $byline (dict "font" $italic "size" 34 "color" "#6b665a" "x" 80 "y" 548)) }}
+{{- return images.Filter $filters (resources.Get "images/card-base.png") }}

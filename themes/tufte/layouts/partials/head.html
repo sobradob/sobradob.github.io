@@ -33,7 +33,7 @@
 
 {{- /* Open Graph and Twitter card */}}
 {{- $image := "" }}
-{{- with .Params.featuredImage }}{{ $image = . | absURL }}{{ else }}{{ with site.Params.icon }}{{ $image = . | absURL }}{{ end }}{{ end }}
+{{- with .Params.featuredImage }}{{ $image = . | absURL }}{{ else }}{{ $image = (partial "share-card.html" .).Permalink }}{{ end }}
 <meta property="og:title" content="{{ .Title | default site.Title }}">
 <meta property="og:description" content="{{ $description | truncate 300 }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
