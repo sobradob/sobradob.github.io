@@ -9,8 +9,8 @@ categories:
 - Opinion
 featuredImage: images/boomers_poverty_us.png
 images: /images/boomers_poverty_us.png
-date: '2026-11-01T12:00:00+00:00'
-draft: true
+date: '2026-11-01T09:00:00+00:00'
+draft: false
 ---
 
 *This post was co-written with [Claude Code](https://claude.ai/code).*
