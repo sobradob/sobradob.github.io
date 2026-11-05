@@ -36675,3 +36675,417 @@ timestamp,bot_name,request_count,host,path
 2026-11-05T11:00:00Z - 2026-11-05T12:00:00Z,Meta AI,2,boazsobrado.com,/tags/financial-intermediation/
 2026-11-05T11:00:00Z - 2026-11-05T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/gaming/
 2026-11-05T11:00:00Z - 2026-11-05T12:00:00Z,Meta AI,1,boazsobrado.com,/tags/pol%C3%ADtica-asi%C3%A1tica/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.dev.vars.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,4,boazsobrado.com,/.env.keys
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.env.live
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.env.preprod
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,7,boazsobrado.com,/.env.production.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.env.staging.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.idea/WebServers.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.netlify/state.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/.vscode/launch.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/__nuxt_config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,boazsobrado.com,/api/.env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,boazsobrado.com,/app/settings.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,boazsobrado.com,/credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,6,boazsobrado.com,/docker-compose.production.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/docs
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,boazsobrado.com,/env.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/env/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/files../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,3,boazsobrado.com,/firebaseConfig.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,4,boazsobrado.com,/google-services.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/infra/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/laravel/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/netlify.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/pnpm-workspace.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,boazsobrado.com,/push_config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,3,boazsobrado.com,/serviceAccountKey.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,boazsobrado.com,/var/run/secrets/kubernetes.io/serviceaccount/token
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/.env.backup
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/.env.dev
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/.env.keys
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/.env.production.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/.terraform.lock.hcl
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/.vscode/launch.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/__nuxt_config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/api/.env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,4,www.boazsobrado.com,/credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/docker-compose.production.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/docs
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/env.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/env/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/firebase-admin.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/firebaseConfig.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/infra/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,6,www.boazsobrado.com,/laravel/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/netlify.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/packages/database/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/pnpm-workspace.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/project/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/sa.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,1,www.boazsobrado.com,/serviceAccountKey.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Amazonbot,2,www.boazsobrado.com,/supabase/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,boazsobrado.com,/.amplifyrc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,3,boazsobrado.com,/.env.config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/.env.docker
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,boazsobrado.com,/.env.example
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/.firebaserc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/_payload.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/admin/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,4,boazsobrado.com,/api/.env/public/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/api/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,boazsobrado.com,/auth/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/cache/original/%2e%2e/%2e%2e/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,boazsobrado.com,/config/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/dashboard/_payload.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/env.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/gcp-credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,boazsobrado.com,/instance/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/pnpm-workspace.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,boazsobrado.com,/proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,3,boazsobrado.com,/static/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/.dev.vars
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/.env.config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/.env.docker
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/.env.example
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/.firebaserc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/_payload.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/admin/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/api/.env/public/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/api/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/app/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/auth/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/dashboard/_payload.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/firebase.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,2,www.boazsobrado.com,/gcp-credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/host.key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/instance/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bingbot,1,www.boazsobrado.com,/static/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/.dockercfg
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/.env.dev
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/.env.production.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/.github/workflows/deploy.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/.next/required-server-files.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,3,boazsobrado.com,/api/proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/api/system/fileView
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/blog/2017/08/18/costa-rican-saints/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/config/default.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/docker-compose.production.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/fly.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/google-credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/prisma/schema.prisma
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,boazsobrado.com,/private-key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/rush.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,boazsobrado.com,/turbo.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/.dockercfg
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/.env.production.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,www.boazsobrado.com,/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/.github/workflows/deploy.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,www.boazsobrado.com,/.next/required-server-files.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,www.boazsobrado.com,/api/system/fileView
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/api/w/default/jobs_u/get_log_file/../../../../proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/assets/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/config/default.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/docker-compose.prod.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/docker-compose.production.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/fly.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/openapi.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/panel/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,2,www.boazsobrado.com,/pipeline/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/prisma/schema.prisma
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,4,www.boazsobrado.com,/rush.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/server.key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/settings.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Bytespider,1,www.boazsobrado.com,/turbo.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/.docker/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/.env.common
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/.env.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/.env.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/.env.prod.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/.env.testing
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/.gitlab-ci.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/.profile
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,4,boazsobrado.com,/admin/_payload.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/api/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/backend/settings.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/config/database.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/firebase-adminsdk.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/firebase-config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/netlify.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/public../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/robots.txt
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/serverless.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/shop/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,boazsobrado.com,/store/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,boazsobrado.com,/wp-config.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/.env.common
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/.env.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,4,www.boazsobrado.com,/.env.shared
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/.env.smtp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/.env.testing
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/.profile
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/.turbo/config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/app/local_settings.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/apps/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/config.php.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/firebase-adminsdk.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/firebase-config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/firebase-credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/firebase.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/netlify.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/prisma/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,4,www.boazsobrado.com,/public../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/robots.txt
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/serverless.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,4,www.boazsobrado.com,/shop/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,2,www.boazsobrado.com,/store/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/userfiles
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/wp-config.old
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ChatGPT,1,www.boazsobrado.com,/wp-config.php.swp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,boazsobrado.com,/.aws/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,boazsobrado.com,/.bash_profile
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/.docker/config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/.env%3Ffoo=bar
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.prod.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.staging.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/.env.supabase
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/.env.test
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/.git-credentials
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/.npmrc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/.terraform.lock.hcl
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/.zshrc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/agent/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/ai/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/app/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/assets../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/cache/original/%2e%2e/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,3,boazsobrado.com,/cmd/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/config.php.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/config/custom-environment-variables.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/config/database.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/css../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/data/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/deploy/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/dev/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/docker-compose.prod.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,3,boazsobrado.com,/docs
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/docs/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/firebase-config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/fly.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/lerna.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/llm/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/localhost.key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,6,boazsobrado.com,/media../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/nuxt.config.ts
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/pkg/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/prisma/schema.prisma
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,boazsobrado.com,/proc/self/cgroup
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/robots.txt
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,boazsobrado.com,/secrets.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/secrets.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/service_account.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/services/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,boazsobrado.com,/turbo.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/uploads../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,boazsobrado.com,/userfiles
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/v2/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,boazsobrado.com,/workspace/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/....//....//....//..../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/.aws/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.aws/credentials
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/.bash_profile
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/.docker/config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.env%3Ffoo=bar
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/.env.monorepo
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/.env.sendgrid
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.env.staging.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.env.swp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.env.test
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.git-credentials
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/.next/routes-manifest.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/.npmrc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/Dockerrun.aws.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/_debugbar/open
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/agent/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/ai/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/api/console/api_server
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/app/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/backend/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/cache/original/%2e%2e/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/cmd/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/config.php.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,3,www.boazsobrado.com,/config/custom-environment-variables.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/config/database.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/css../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,3,www.boazsobrado.com,/data/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/deploy/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/dev/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/docker-compose/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/firebase-config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/fly.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/google-credentials.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/llm/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/local_settings.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/media../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/nuxt.config.ts
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/packages/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/packages/config/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/pkg/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,4,www.boazsobrado.com,/prisma/schema.prisma
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/proc/self/cmdline
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/secrets.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/secrets.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/services/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/turbo.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,2,www.boazsobrado.com,/userfiles
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/v2/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,ClaudeBot,1,www.boazsobrado.com,/wp-config.php.swp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,boazsobrado.com,/%2eenv
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,boazsobrado.com,/.docker/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/.env.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/.env_1
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,//.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,4,boazsobrado.com,/application/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/bbpupd9hm9d0yg02vw95
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/build/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,boazsobrado.com,/client/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,boazsobrado.com,/compose.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,boazsobrado.com,/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/core/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/firebase-admin.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,4,boazsobrado.com,/laravel../config/database.php
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,6,boazsobrado.com,/nuxt.config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/privatekey.key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/sitemap_index.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,boazsobrado.com,/terraform.tfstate.backup
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,www.boazsobrado.com,/%2eenv
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,www.boazsobrado.com,/.docker/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/.env.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/.env.preprod
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/.env_1
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/Dockerrun.aws.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,www.boazsobrado.com,/_debugbar/open
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/api/.env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,3,www.boazsobrado.com,/application/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/bbpupd9hm9d0yg02vw95
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/core/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/document.php
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/firebase-admin.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,2,www.boazsobrado.com,/laravel../config/database.php
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/nuxt.config.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/sitemap_index.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,GPTBot,1,www.boazsobrado.com,/tmp/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/.docker/config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,3,boazsobrado.com,/.docker/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/.env.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/.env.common
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/.env.development
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/.env.swp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/.firebaserc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/.git/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,4,boazsobrado.com,/.git/config%3F.css
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/api/fs/read
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/backend/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/11/08/automating-sms-email/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/04/20/restarting-your-sales-after-a-coronavirus-lockdown/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2020/11/07/my-thoughts-on-cambridge-analytica/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/03/31/can-payments-networks-solve-the-online-ad-attribution-problem/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/blog/2026/03/13/c%C3%B3mo-dominar-el-contenido-con-ia-gu%C3%ADa-paso-a-paso/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/config/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/console
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/docker-compose.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/firebase.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/frontend/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_13162769576792229890.png
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/packages/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/proc/self/environ%3F.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/rush.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/secrets.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,4,boazsobrado.com,/shared/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/sitemap-index.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/src/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/static../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/static//.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,boazsobrado.com,/tags/bayes/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/credit/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/tags/mistakes/
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,boazsobrado.com,/vercel.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/.docker/config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/.env.development
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/.env.development.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/.env.swp
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/.firebaserc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/.git/config
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/.next/server/pages/index.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/backend/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/config.php.bak
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,4,www.boazsobrado.com,/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/config/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/console
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/css../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/data/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/docker-compose.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/firebase.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/img../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/localhost.key
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/pipeline/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,4,www.boazsobrado.com,/pkg/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/proc/self/environ%3F.js
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,2,www.boazsobrado.com,/src/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/static//.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,4,www.boazsobrado.com,/vercel.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,Meta AI,1,www.boazsobrado.com,/wrangler.toml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,3,boazsobrado.com,/.dockerenv
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.dev.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.production
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,3,boazsobrado.com,/__nuxt_config.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/api/auth/session
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,10,boazsobrado.com,/api/console/api_server
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/apps/docs/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/apps/marketing/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/build../.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/compose.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/config/.env.staging
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/docker-compose.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/env/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/packages/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/secrets.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/shared/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/sitemap.xml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,boazsobrado.com,/terraform.tfstate
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,boazsobrado.com,/utils/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,www.boazsobrado.com,/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/.env.dev.local
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/.next/prerender-manifest.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,www.boazsobrado.com,/.svn/entries
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,4,www.boazsobrado.com,/.terraform.rc
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,www.boazsobrado.com,/apps/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,6,www.boazsobrado.com,/apps/docs/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,4,www.boazsobrado.com,/compose.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/docker-compose.override.yml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/docker-compose.yaml
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/env/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,www.boazsobrado.com,/instance/config.py
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,2,www.boazsobrado.com,/packages/api/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/proc/self/cmdline
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,4,www.boazsobrado.com,/proc/self/environ
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/secrets.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/secrets.json
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,4,www.boazsobrado.com,/shared/.env
+2026-11-05T19:00:00Z - 2026-11-05T20:00:00Z,PerplexityBot,1,www.boazsobrado.com,/terraform.tfstate
