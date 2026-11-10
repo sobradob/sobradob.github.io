@@ -37387,3 +37387,37 @@ timestamp,bot_name,request_count,host,path
 2026-11-10T07:00:00Z - 2026-11-10T08:00:00Z,Meta AI,2,boazsobrado.com,/tags/chinese/
 2026-11-10T07:00:00Z - 2026-11-10T08:00:00Z,Meta AI,2,boazsobrado.com,/tags/growth/
 2026-11-10T07:00:00Z - 2026-11-10T08:00:00Z,Meta AI,1,boazsobrado.com,/tags/travel/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bingbot,1,boazsobrado.com,/categories/monetary-systems/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/blog/2025/08/03/my-chess.com-journey-a-data-analysis-of-years-of-play/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/css/tufte.min.067a0facb2893c606d455272429082bbf793eb446538fbc29c28aa5c178011f7.css
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_games_boxplot.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_games_scatter.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/images/elo_vs_time_scatter.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Bytespider,1,boazsobrado.com,/images/games_per_month.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,2,boazsobrado.com,/blog/2015/11/05/using-google-maps-api-mol-bubi-competition
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2015/11/05/using-google-maps-api-mol-bubi-competition/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/11/13/you-are-wasting-your-time-with-spreadsheets
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,1,boazsobrado.com,/blog/2016/11/13/you-are-wasting-your-time-with-spreadsheets/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,2,boazsobrado.com,/robots.txt
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,ClaudeBot,1,boazsobrado.com,/sitemap.xml
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/authors/example-author/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/08/11/cubas-short-term-property-rental-market-2017-2018/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2018/09/02/tale-of-two-johns/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2022/02/24/are-crypto-investors-savvy-or-suckers-the-uks-tax-and-financial-regulators-dont-agree/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/blog/2024/12/22/how-digital-collateral-is-revolutionising-credit-in-emerging-markets/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/categories/maps/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/categories/shiny/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_10181926098368448804.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_16058858128081665978.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_2864784638387222108.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_8438734386750632983.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/card-base_hud97a3ee8dc0be4d1d4ea2b6155275c97_3212_filter_9044365048371782735.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/images/icon.png
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/series/forbes-commentary/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/tags/epidemiology/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,1,boazsobrado.com,/tags/latin-america/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/tags/political-economy/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/tags/singapur/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,Meta AI,2,boazsobrado.com,/tags/trading-platforms/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,PerplexityBot,1,boazsobrado.com,/blog/2021/10/04/the-quest-for-perp-amms/
+2026-11-10T15:00:00Z - 2026-11-10T16:00:00Z,PerplexityBot,1,boazsobrado.com,/robots.txt
