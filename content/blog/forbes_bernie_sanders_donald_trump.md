@@ -12,7 +12,6 @@ categories:
 - Economics
 series: Forbes Commentary
 date: '2024-12-22T17:38:00+00:00'
-featuredImage: images/forbes_contributor.jpeg
 draft: false
 author: "Boaz Sobrado"
 original_publication: "Forbes"

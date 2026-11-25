@@ -12,7 +12,6 @@ categories:
 - Crypto
 series: Forbes Commentary
 date: '2024-10-20T00:00:00+00:00'
-featuredImage: images/forbes_contributor.jpeg
 draft: false
 author: "Boaz Sobrado"
 original_publication: "Forbes Digital Assets"
