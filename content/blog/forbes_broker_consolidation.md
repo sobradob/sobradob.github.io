@@ -13,7 +13,6 @@ categories:
 - Market Evolution
 series: Forbes Commentary
 date: '2024-11-30T00:00:00+00:00'
-featuredImage: images/forbes_contributor.jpeg
 draft: false
 author: "Boaz Sobrado"
 original_publication: "Forbes"

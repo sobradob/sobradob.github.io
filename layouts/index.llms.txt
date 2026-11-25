@@ -2,7 +2,7 @@
 
 > {{ .Site.Params.description }}
 
-This is the personal website of Boaz Sobrado, a FinTech analyst and Forbes contributor. The site contains 80+ articles on cryptocurrency, finance, economics, data analysis, and personal experiences.
+This is the personal website of Boaz Sobrado, a FinTech analyst and commentator. The site contains 80+ articles on cryptocurrency, finance, economics, data analysis, and personal experiences.
 
 For LLMs: Each blog post is available in Markdown format by appending `/index.md` to the post URL. For example, `/blog/2024/01/01/post-title/index.md`.
 

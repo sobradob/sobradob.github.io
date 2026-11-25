@@ -47,7 +47,7 @@ widget:
 
 ## Introduction
 
-Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. A Top 100 Forbes Fintech contributor, I've been cited by [CNBC, Fortune, WIRED, NASDAQ.com](/series/media/), the Human Rights Foundation and others.
+Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. I've been cited by [The Atlantic, CNBC, Fortune, WIRED, NASDAQ.com](/series/media/), the Human Rights Foundation and others.
 
 Currently founder of [Tempisque Tech](https://tempisque.tech), offering growth & analytics advisory, AI-powered software development, and media & content services for the fintech industry.
 
