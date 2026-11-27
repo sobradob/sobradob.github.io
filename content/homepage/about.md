@@ -47,7 +47,7 @@ widget:
 
 ## Introduction
 
-Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. I've written for WIRED and CoinDesk, and been cited by [The Atlantic, CNBC and the Human Rights Foundation](/series/media/), among others. My reporting has been cited by [US House and Senate committees and in a submission to the SEC Crypto Task Force]({{< ref "media_cited_by_congress_sec.md" >}}).
+Fintech leader and entrepreneur specializing in growth strategy, data analytics, and martech. I've written for WIRED and CoinDesk, and been cited by [The Atlantic, CNBC, Fortune, Nasdaq.com and the Human Rights Foundation](/series/media/), among others. My reporting has been cited by [US House and Senate committees and in a submission to the SEC Crypto Task Force]({{< ref "media_cited_by_congress_sec.md" >}}).
 
 Currently founder of [Tempisque Tech](https://tempisque.tech), offering growth & analytics advisory, AI-powered software development, and media & content services for the fintech industry.
 
